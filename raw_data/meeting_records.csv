@@ -1,0 +1,1365 @@
+235682158,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Discussion of Kaggle Competition: Digit Recogniser"",
+      ""description"": ""First meeting of Data Science Discussion Auckland\n\nThis meeting will involve a brief introduction of members and the group, followed by a discussion of the Kaggle competion \""Digit Recognizer\"" https://www.kaggle.com/c/digit-recognizer .\n\nThe idea is to spend a bit of time between now and the meeting looking at the competition and possibly attempting tutorials or our own solution. So that when we meet we can discuss our experiences with the competition.\n\nSchedule\n\n6:00 - 6:30 arrive between 6 and 6:30 for informal discussion\n\n6:30 meeting starts, introduction of group and discussion of the competition\n\n7:30 we decide topic of next meeting\n\n7:45 meeting ends\n\nA note: Meeting size may be limited for this first and possibly 2nd meeting. I am sorry if you miss out this time but I am working towards finding a suitable location which can fit more people. Also please only RSVP if you are going to come to the meetup so that those who want to come along can.\n\nThanks."",
+      ""dateTime"": ""2016-12-01T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/235682158"",
+      ""going"": 12,
+      ""waiting"": 8,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+235974446,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Discussion of Kaggle Competition: Digit Recogniser - part 2"",
+      ""description"": ""This meeting will be a discussion of the Kaggle competion, \""Digit Recognizer\"" https://www.kaggle.com/c/digit-recognizer .\n\nNote: We discussed this competition at last meeting and decided to continue exploring this competition. You do not need to have attended the first meeting to attend this.\n\nPlease try to spend a bit of time between now and the meeting looking at the competition and attempt tutorials or your own solution. So you can share your experiences and also ask any questions that came up for you\n\nSchedule\n\n6:00 - 6:30 arrive between 6 and 6:30 for informal discussion\n\n6:30 meeting starts, introduction of group and discussion of the competition\n\n7:30 we decide topic of next meeting\n\n7:45 meeting ends\n\nA note: Meeting size may be limited for this meeting. I am sorry if you miss out this time but I am working towards finding a suitable location which can fit more people. Also please only RSVP if you are going to come to the meetup so that those who want to come along can RSVP"",
+      ""dateTime"": ""2016-12-15T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/235974446"",
+      ""going"": 16,
+      ""waiting"": 3,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+237794504,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Discussion of Kaggle Competition: House Prices: Advanced Regression Techniques"",
+      ""description"": ""Please join us for the first meeting of 2017 where we will be discussing the Kaggle Competition \""House Prices: Advanced Regression Techniques\"" https://www.kaggle.com/c/house-prices-advanced\n\nThe idea of the discussion is that everyone takes a look at the competition, maybe reads the forums and attempt the competition, then we meet to discuss. How much time you spend looking at the competition before the meeting is upto you. We will share what we have learnt and questions of things we are unsure of. Everyone will be given a chance to share if they like.\n\nBig thanks to GridAKL for supplying the venue. I am pleased to say the RSVP is higher this time. Discussion will be in the tech cafe space.\n\nSchedule of meeting\n\n6:15 Arrive and informal chat\n\n6:30 Discussion begins\n\n7:30 Discussion ends"",
+      ""dateTime"": ""2017-03-02T18:15+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/237794504"",
+      ""going"": 37,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+247943510,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""3h Workshop: Sentiment Analysis with Deep Learning"",
+      ""description"": ""¥ What we'll do\nThis Meetup is being organised by Alyona from the 'Natural Language Processing in NZ' meetup.\nhttps://www.meetup.com/Natural-Language-Processing-in-NZ/events/247943232/\n\nWe are super excited to bring you a 3h hands-on workshop on a key task in NLP: Sentiment Analysis.\n\nPLEASE NOTE: Spaces are strictly limited, so please only RSVP if you are guaranteed to set aside your full Monday afternoon for this. Also please only RSVP under one of the meetup groups.\n\nSentiment analysis is the task of automatically classifying text into sentiment categories such as positive and negative. Until 2014, state-of-the-art solutions to this problem relied on shallow learning schemes based on hand-crafted features and linear machine learning models. Deep neural networks architectures had became very popular in the computer vision community due to its success for detecting objects (ÒcatÓ,ÒbicyclesÓ) regardless of its position in the image. These approaches have also been recently adopted for many natural language processing (NLP) tasks, including sentiment analysis, with successful results. In this tutorial, we use sentiment analysis as a case study for introducing modern neural network architectures for NLP, including word embeddings, convolutional neural networks, and recurrent neural networks. We won't go extremely deep with the math but will explain how these black boxes (e.g., embeddings, LSTMs,) work. People expecting live coding demos won't get disappointed. No previous linguistic knowledge is required. Basic understanding of mathematical concepts such as functions, matrices, and derivatives may be helpful but is not essential. BIO\nFelipe Bravo-Marquez is a research fellow in the Machine Learning Group at the University of Waikato, New Zealand. He received his PhD degree from the University of Waikato. Previously, he received two engineering degrees in the fields of computer science and industrial engineering, and a masters degree in computer science, all from the University of Chile. He worked for three years as a research engineer at Yahoo! Labs Latin America.\n\nHis main areas of interest are: data mining, natural language processing, information retrieval, and sentiment analysis.\n\nYou can find his full list of publications at:\nhttp://www.cs.waikato.ac.nz/~fbravoma/\n\n¥ What to bring\n\n¥ Important to know"",
+      ""dateTime"": ""2018-03-19T13:00+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/247943510"",
+      ""going"": 23,
+      ""waiting"": 30,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+264741445,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""NLP in NZ - How I turned my PhD in NLP into a Silicon Valley startup"",
+      ""description"": ""To attend, you must RSVP to this event on this page: https://www.meetup.com/Natural-Language-Processing-in-NZ/events/264589217/\n_____________________________________________________________________________________\n\nMeetup Description:\n\nLast month I spoke at the BayArea NLP Meetup about my path from a PhD at Waikato to starting a startup. Since I'm visiting Auckland again, I thought it might be cool to catch up and I could repeat this talk:\n\n\""Alyona Medelyan will be sharing her story of discovering NLP while studying linguistics and pivoting her degree into CS and Machine Learning. She will explain the ML framework of the keyword extraction algorithm KEA, powered by one of the first ML libraries WEKA. Having co-authored the most-cited study of using Wikipedia in NLP research, she'll share two of her own projects that use it, including Maui, which ended up getting onto the radar of NATO.\n\nAlyona's passion lies in commercialization of research ideas. On her third attempt she managed to start a company that uses the ideas from her PhD to solve a problem most companies struggle with today: understanding the needs of their customers. She will share how she co-founded Thematic and the what was required to turn it into a successful venture.\"""",
+      ""dateTime"": ""2019-09-18T18:00+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/264741445"",
+      ""going"": 1,
+      ""waiting"": 21,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpybccbnc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""First Meetup for 2020!"",
+      ""description"": ""For the first meetup of the year we would like to discuss the current state of the group and ideas for future meetups. This is your chance to share your thoughts and contribute to the direction of the group for 2020.\n\nWe have sent out a survey to get members feedback on the group. We will present the results of this feedback and then share ideas and discuss what topics and competitions we can focus on in future meetups.\n\nIf you haven't already, could you please respond to the short survey here: https://docs.google.com/forms/d/e/1FAIpQLSfVlWQiDmbQTOCH49NlpUy_Bl06GhdCoFT29kjlJGeAqWccXQ/viewform\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Results of Survey Presented\n6:45 - Discuss Ideas for future Meetups\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!\n\nWe look forward to seeing you!"",
+      ""dateTime"": ""2020-01-30T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/267594650"",
+      ""going"": 45,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpybcdbkc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""AI - Abstraction and Reasoning"",
+      ""description"": ""We have all seen Machine Learning models using vast quantities of data to beat human level performance at narrowly defined specific tasks. But what about algorithms that generalise to many tasks and recognise patterns given only a few examples?\n\nThis week we are looking at the Kaggle - Abstraction and Reasoning Challenge (ARC): https://www.kaggle.com/c/abstraction-and-reasoning-challenge/overview\n\nA good place to start is by looking at the data and working out how you solve the puzzles yourself, you can see the data visualised here: https://www.kaggle.com/tayyabali55/explored-the-complete-abstraction-data-train-test\n\nAs always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not manage to make a submission or get a high score on the leaderboard. The purpose of this meetup is to talk about what you did and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2020-02-27T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/268229103"",
+      ""going"": 47,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpybcdbrb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Graph Neural Networks"",
+      ""description"": ""Thanks to everyone who filled out our survey and came to the meetup last week. At the meetup we took a vote at the for the next topic and the winner was \""Graph Neural Networks\"". They're so hot right now! What are they? How do they work? How are they trained? How useful are they? So many questionÉ\n\nÉ and we want answers. So this week, Graph Neural Networks will be our focus.\n\nPlease spend some time preparing for the meetup. It is fine if you do not understand some of the material. The purpose of this meetup to ask questions where you are unsure so that we can all learn.\n\nSuggested Material (there is a lot here, maybe try and just look at 1 or 2):\n\nIntroductory Level:\n- If you are new to graph theory: https://en.wikipedia.org/wiki/Graph_theory\n- Graph Theory Introductory Video (Very clear and easy to understand explanations): https://www.youtube.com/watch?v=eQA-m22wjTQ&list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P\n- Intro to graph algorithms: https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513\n\nGraph Neural Networks:\n- Gentle introduction: https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3\n- Video: Graph representation learning (Stanford lecture) https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513\n- Paper: Comprehensive study of Graph Neural Networks: https://arxiv.org/abs/1901.00596\n- Paper: Relational inductive biases, deep learning, and graph networks: https://arxiv.org/abs/1806.01261\n\nGet your hands dirty:\n- TensorFlow: https://github.com/deepmind/graph_nets\n- PyTorch: https://github.com/rusty1s/pytorch_geometric\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2020-02-13T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/267801955"",
+      ""going"": 45,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpybcfbjc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""AI - ARC Competition (Video Conference)"",
+      ""description"": ""IMPORTANT NOTE: This week we will NOT be meeting in person. The meeting will be on Zoom, those who RSVP will get a link sent out to them.\n\nLast week we had a very interesting discussion around this competition. This was much different from the topics we usually talk about which are around trying to get an extra 0.1 or 0.2% accuracy. Instead looking at a new problem which is very far from solved, as of writing, the highest score on the leaderboard is less that 10%.\n\nThis week we are returning to the Kaggle - Abstraction and Reasoning Challenge (ARC): https://www.kaggle.com/c/abstraction-and-reasoning-challenge/overview A good place to start is by looking at the data here and working out how you solve the puzzles yourself: https://www.kaggle.com/tayyabali55/explored-the-complete-abstraction-data-train-test\n\nAs always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not manage to make a submission or get a high score on the leaderboard. The purpose of this meetup is to talk about what you did and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends"",
+      ""dateTime"": ""2020-03-26T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/269030166"",
+      ""going"": 23,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpybcfbqb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""AI - Abstraction and Reasoning"",
+      ""description"": ""With a bit of a mixup last week, we were unable to have the meeting. Since there has been a lot of interest from our members, we decided to continue this topic for this meetup. Come along and get an insight into the future of machine intelligence!\n\nWe have all seen Machine Learning models using vast quantities of data to beat human level performance at narrowly defined specific tasks. But what about algorithms that generalise to many tasks and recognise patterns given only a few examples?\n\nThis week we are looking at the Kaggle - Abstraction and Reasoning Challenge (ARC): https://www.kaggle.com/c/abstraction-and-reasoning-challenge/overview\n\nA good place to start is by looking at the data and working out how you solve the puzzles yourself, you can see the data visualised here: https://www.kaggle.com/tayyabali55/explored-the-complete-abstraction-data-train-test\n\nAnd for a good complete explanation of the challenge and the dataset, this paper by the creator of the challenge is an important read https://arxiv.org/pdf/1911.01547.pdf\n\nAs always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not manage to make a submission or get a high score on the leaderboard. The purpose of this meetup is to talk about what you did and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2020-03-12T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/268943903"",
+      ""going"": 36,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpybcgbfc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""The Transformer (NLP)"",
+      ""description"": ""Our group survey earlier in the year showed that there are a lot of people interested in NLP topics. This week, we are going to look at the model architecture which has, in the last few years dominated the leaderboards for the highest performance over different NLP tasks.\n\nIt is what CNNs are to images, an essential building block which allowed models like BERT and its variations to be so incredibly succesful. It is \""The Transformer\"".\n\nWe will focus on this easy to follow illustrated blog post: http://jalammar.github.io/illustrated-transformer/\n\nAdd if that isnt enough for you, we suggest these two more:\n- https://arxiv.org/abs/1706.03762 (Original paper proposing the transformer)\n- https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/ (A blog post from the same author about the 'attention' mechanism)\n\nAs always we encourage you to read the material before coming to the meet up. It is fine if you do not understand it all. The purpose of this meetup to learn and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end.\n\nInformation about connecting to the meeting will be sent out closer to the time."",
+      ""dateTime"": ""2020-04-23T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/269648857"",
+      ""going"": 41,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpybcgbmb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Data Science and COVID-19"",
+      ""description"": ""As data scientists, we've all had a difficult time not getting stuck into the numbers of this current pandemic. This meetup we will run our usual discussion format with the topic of applying data science to any of the data coming out around COVID-19. You can share any visualisations, modelling or predictions that you have made, as well as ask questions around how to model this type of data / event.\n\nWe will be meeting up over Zoom, so if you haven't already, please install it beforehand. The link will be shared no later than the morning of the event.\n\nSome useful links:\n- Daily statistics by country - https://github.com/CSSEGISandData/COVID-19\n- Kaggle COVID-19 - https://www.kaggle.com/covid19\n\nSome Ideas:\n- Time series predictions\n- Predicting what measures are the most successful in slowing transmission"",
+      ""dateTime"": ""2020-04-09T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/269295825"",
+      ""going"": 30,
+      ""waiting"": 36,
+      ""eventType"": ""online""
+    }
+  }
+}"
+lrgsjpybchbcc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""A Path to the Fundamental Theory of Physics"",
+      ""description"": ""This week we have something a little bit different... We are going to be reviewing and discussing the recent blogpost by Stephen Wolfram entitled \""Finally We May Have a Path to the Fundamental Theory of PhysicsÉ and ItÕs Beautiful\"" The discussion will start with a review of Wolfram's work presented by John Graves.\n\nHere is a link to the blog: https://blog.wolfram.com/2020/04/14/finally-we-may-have-a-path-to-the-fundamental-theory-of-physics-and-its-beautiful/\nOther related links:\n- https://www.wolframphysics.org/universes/\n- https://www.wolframcloud.com/\n- https://www.wolframscience.com/nks/\n\nAs always we encourage you to read the material before coming to the meet up. It is fine if you do not understand it all. The purpose of this meetup to learn and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end.\n\nWe will be most likely holding this event online, given the recent circumstances. Information about connecting to the meeting will be sent out closer to the time."",
+      ""dateTime"": ""2020-05-21T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/270411000"",
+      ""going"": 38,
+      ""waiting"": 0,
+      ""eventType"": ""online""
+    }
+  }
+}"
+lrgsjpybchbkb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Tweet Sentiment Extraction"",
+      ""description"": ""A suggestion from last week's group was that we stay with the NLP theme but look for something practical. This week, we will look to apply our new knowledge to the current Kaggle Competition \""Tweet Sentiment Extraction\"" - https://www.kaggle.com/c/tweet-sentiment-extraction\n\nThe meetup will begin with a short introduction to the competition, followed by our usual discussion format.\n\nAs always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not manage to make a submission or get a high score on the leader board. The purpose of this meetup is to talk about what you did and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end.\n\nThis meetup will be held online via video conference. Information about connecting to the meeting will be sent out closer to the time."",
+      ""dateTime"": ""2020-05-07T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/269946902"",
+      ""going"": 33,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpybcjbgb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""The Current State of Deep Learning - Reading Group"",
+      ""description"": ""Deep Learning is continuing to make rapid progress. With no limit in sight, we thought now would be a great time to hold a reading group on the current state of the technology. We will be focusing on the research paper \""A Survey of Deep Learning for Scientific Discovery\"" https://arxiv.org/pdf/2003.11755.pdf\n\nThis paper contains overviews of all the current Deep Learning techniques used across a wide variety of applications. Diving into it is the perfect chance to brush up on any gaps in your knowledge.\n\nPlease do try to read the material before coming to the meet up. It is fine if you do not understand it all and maybe a good idea just to pick 2 or 3 of the sections of the paper that you are interested in to read, since it is quite a long paper.\n\nThe purpose of this meetup to learn and to ask questions. We will start with a round of brief introductions followed by a group discussion where everyone will have a turn to share what they thought about the paper and ask any questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nInfo for how to join online conference will be emailed out to those who RSVP a day or two before the event\n\nMeeting Schedule:\n\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends"",
+      ""dateTime"": ""2020-06-04T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/269969161"",
+      ""going"": 40,
+      ""waiting"": 5,
+      ""eventType"": ""online""
+    }
+  }
+}"
+lrgsjpybcjbxb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Abstraction and Reasoning - Kaggle Competition Recap"",
+      ""description"": ""This week we will be recapping the recently finished Abstraction and Reasoning competition. The session will commence with a presentation from Julie who finished inside the top 50, earning a silver medal. Julie will speak about her solution to the problem and also about what the winners of the competition did.\n\nThen we will have our regular discussion format, where we will talk about the competition and the winning solutions. Some links to look at before the session:\n- Competition overview: https://www.kaggle.com/c/abstraction-and-reasoning-challenge/overview\n- Top 10 solutions: https://www.kaggle.com/c/abstraction-and-reasoning-challenge/discussion/154349\n- 3rd place end to end solution (code heavy) https://www.kaggle.com/ilialar/3rd-place-end-to-end-solution\n\nAs always we encourage you to read the material before coming to the meet up. It is fine if you do not understand it all. The purpose of this meetup to learn and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end.\n\nThis meeting we will be back to our regular in-person venue at the Grid cafe!\n\nMeeting Schedule:\n\n6:30 - Introductions\n6:35 - Presentation by Julie\n6:55 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2020-06-18T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/270783044"",
+      ""going"": 29,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpybckbdb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""TabNet: Deep Learning for Tabular Data"",
+      ""description"": ""We have spent many sessions looking at tabular datasets and the best methods to build models for them. Up until now, boosted trees have been dominating these types of tasks. But, times are changing, Neural methods have been steadily closing the gap to the point where the results are looking very similar.\n\nFor this reading group, we will look at one implementation, the TabNet. Below are links to the paper and some implementations:\n- Paper: https://arxiv.org/abs/1908.07442\n- GitHub (Google Research): https://github.com/google-research/google-research/tree/master/tabnet\n- Github - PyTorch Implementation: https://github.com/dreamquark-ai/tabnet\n\nPlease try to read the material before coming to the meet up. It is fine if you do not understand it all, the purpose of the meetup is to learn and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2020-07-02T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/270783051"",
+      ""going"": 41,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpybckbnc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Stacking Methods and Flu Competition"",
+      ""description"": ""Last week the flu competition gave us plenty to talk about, and we didn't get sick of it. One of the topics which repeatedly came up was the multi labelling and the potential for \""Stacking\"" models. This week we will look into stacking as well as continue with the flu competition https://www.drivendata.org/competitions/66/flu-shot-learning/\n\nStacking is a very nuanced topic, so we have put together a few options to look at:\n- Original Wolpert Paper: https://www.researchgate.net/publication/222467943_Stacked_Generalization\n- Issues in Stacked Generalization: https://arxiv.org/abs/1105.5466\n- Ensemble methods: bagging, boosting and stacking: https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205\n- Kaggle Forum Post: https://www.kaggle.com/general/18793\n\nAs always we encourage you all to attempt the competition (Or attempt to read some of the stacking related material) before coming to the meetup. It is fine if you attempt the competition but do not manage to make a submission or get a high score on the leaderboard. The purpose of this meetup is to talk about what you tried, ask questions and to learn.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2020-07-30T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/271550920"",
+      ""going"": 20,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpybckbvb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Predict Flu Vaccinations"",
+      ""description"": ""After several weeks of diving into research papers, this meetup we are going back to our roots of Machine Learning problems. We are going to look at the \""Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines\"" competition. https://www.drivendata.org/competitions/66/flu-shot-learning/\n\nThis competition looks like it is fairly straight forward with a relatively small amount of features and binary classes. A great chance to try out some of those techniques you have been thinking about putting into action. It is also a multi-label classification problem which adds some interesting opportunities.\n\nAs always we encourage you all to attempt the competition before coming to the meetup. It is fine if you attempt the competition but do not manage to make a submission or get a high score on the leaderboard. The purpose of this meetup is to talk about what you tried, ask questions and to learn.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2020-07-16T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/271349422"",
+      ""going"": 30,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpybclbrb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Predict Flu Vaccinations"",
+      ""description"": ""With members of the group at the top of the leaderboard, and a great approachable competition for trying those techniques we've always wondered about we are going to continue on with this competition.\n\nhttps://www.drivendata.org/competitions/66/flu-shot-learning/\n\nThis is a great chance to try any technique that you want to and then come to the group to discuss and ask questions, all that we ask is that you get your hands dirty and try the techniques on this competition.\n\nAs always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not manage to make a submission or get a high score on the leaderboard. The purpose of this meetup is to talk about what you did and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2020-08-13T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/271550923"",
+      ""going"": 29,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpybcmbgc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Mechanisms of Action Prediction (ONLINE)"",
+      ""description"": ""Tabular datasets are our bread and butter, we eagerly check our emails multiple times per day, hoping that Kaggle are going to announce a new competition with a tabular dataset. Sadly, these emails are becoming further and further apart. Although, last week, one such email arrived.\n\nThis week we are looking at the Kaggle competition: Mechanisms of Action (MoA) Prediction https://www.kaggle.com/c/lish-moa Similar to the \""Flu\"" competition we have been looking at, this competition has multiple labels to predict, so allows us to continue looked into stacking models.\n\nAs always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not manage to make a submission or get a high score on the leader-board. The purpose of this meetup is to talk about what you did and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nPlease note, we intend to have this meetup online but may move to our regular venue depending on the Alert level. If this is the case an email will be sent out and this description will be updated. If online proceeds, connection information will be sent out by email through meetup to those who have RSVP'd."",
+      ""dateTime"": ""2020-09-24T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/273156810"",
+      ""going"": 25,
+      ""waiting"": 0,
+      ""eventType"": ""online""
+    }
+  }
+}"
+lrgsjpybcmbnb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Handling Missing Values & The Flu Competition (ONLINE)"",
+      ""description"": ""This week we are focussing on what to do when we have missing data. And also the \""Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines\"" competition: https://www.drivendata.org/competitions/66/flu-shot-learning/ (Which has a lot of missing data).\n\nThe group is designed around participants doing some experimentation or reading before the group. Then, at the group, everyone will get a chance to share what they have done and to ask questions about things that they are wondering about.\n\nWe will leave it up to you in terms of any research papers or articles that you would like to read, or any experiments that you would like to run. Although we encourage you to experiment with the Flu competition (linked above) as it has a range of features with missing values.\n\nIt is fine if you attempt the competition but do not manage to make a submission or get a high score on the leaderboard. The purpose of this meetup is to talk about what you did and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end.\n\nZoom link will be sent out by email on the day of the event.\n\nMeeting Schedule:\n6:30 - Meeting Starts - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends"",
+      ""dateTime"": ""2020-09-10T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/271933153"",
+      ""going"": 30,
+      ""waiting"": 3,
+      ""eventType"": ""online""
+    }
+  }
+}"
+lrgsjpybcnbdc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Mechanisms of Action (MoA) Prediction"",
+      ""description"": ""We are back at Grid with our first in-person meetup in a while!\n\nThis week we are looking at the Kaggle competition: Mechanisms of Action (MoA) Prediction https://www.kaggle.com/c/lish-moa Similar to the \""Flu\"" competition we have been looking at, this competition has multiple labels to predict, so allows us to continue looked into stacking models.\n\nWe recommend getting started with this great introduction to the competition: https://www.kaggle.com/c/lish-moa/discussion/184005\n\nLooking for ideas or inspiration? Here is a great post with links for novel ideas of how to approach this problem https://www.kaggle.com/c/lish-moa/discussion/183377\n\nAs always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not manage to make a submission or get a high score on the leader-board. The purpose of this meetup is to talk about what you did and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2020-10-22T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/272808808"",
+      ""going"": 21,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpybcpbzb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Mechanisms of Action Prediction"",
+      ""description"": ""With the contest deadline falling a few days after this meeting, this will be our last chance to look at the competition while it is live. This competition is a great chance to practice: using Neural Networks for tabular data, using Pytorch and/or Tensorflow, training on the Kaggle GPU kernels, multi-label data, stacking, and a lot more! So, set some time aside and take a look at the Kaggle competition: Mechanisms of Action (MoA) Prediction https://www.kaggle.com/c/lish-moa\n\nLooking for ideas or inspiration? Here is a great post with links for novel ideas of how to approach this problem https://www.kaggle.com/c/lish-moa/discussion/183377\n\nAs always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not manage to make a submission or get a high score on the leader-board. The purpose of this meetup is to talk about what you did and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2020-11-19T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/274085697"",
+      ""going"": 24,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpybcqbfb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Model Evaluation and Selection + MOA Competition"",
+      ""description"": ""How do you know how well your model will perform on real world data? How do you know if one model has a real performance edge over another? These questions may seem simple enough, but as you go deeper often you find yourself with more questions than answers. This paper attempts to help navigate these murky waters and will be the main focus of this meetup: https://arxiv.org/pdf/1811.12808.pdf\n\nWith a decent amount of interest in the MOA competition and it closing 2 days before this meetup. We will also spend some time covering this competition. It is up to you if you would like to look beforehand at the paper, the competition or both.\n\nAs always we encourage you all to attempt the competition AND/OR read the paper before coming to the meet up. It is fine if you cant understand parts of the paper or don't get a high score on the leader-board. The purpose of this meetup is to spend sometime with the materials so you can talk about what you did and ask questions around where you got stuck.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2020-12-03T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/274085706"",
+      ""going"": 28,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpybcqbwb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""AlphaFold: a solution to a 50-year-old grand challenge in biology"",
+      ""description"": ""Excerpt from DeepMind's blog post:\n\n\""Proteins are essential to life, supporting practically all its functions. They are large complex molecules, made up of chains of amino acids, and what a protein does largely depends on its unique 3D structure. Figuring out what shapes proteins fold into is known as the Òprotein folding problemÓ, and has stood as a grand challenge in biology for the past 50 years. In a major scientific advance, the latest version of our AI system AlphaFold has been recognised as a solution to this grand challenge by the organisers of the biennial Critical Assessment of protein Structure Prediction (CASP). This breakthrough demonstrates the impact AI can have on scientific discovery and its potential to dramatically accelerate progress in some of the most fundamental fields that explain and shape our world.\""\n\nThis week we will be reviewing and discussing the massive scientific breakthrough that was made using Machine Learning. Some links to get started:\n- DeepMind Blog post: https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology\n- Nature Article: https://www.nature.com/articles/d41586-020-03348-4\n- Explanatory Video: https://www.youtube.com/watch?reload=9&v=B9PL__gVxLI\n\nAs always we encourage you all to read some of the material before coming to the meetup. It is fine if you cant understand parts of the it. The purpose of this meetup is to spend sometime with the materials so you can comment about what you thought and ask questions around where you got stuck.\n\nThis will be our last meetup for the year. So, we will also be asking people if they have any Kaggle competitions that they are wanting to work on over the break. If there is one that you do want to work on, this is the perfect chance to introduce it to the group and sell people on it. If there is something a few people are interested in, we may decide to look at that competition in the first week back.\n\nWe hope to see you there!\n\nMeeting Schedule:\n\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2020-12-17T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/274085712"",
+      ""going"": 25,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpycccblc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Most Important Ideas of Last 50 years"",
+      ""description"": ""This meetup we are having a reading group. We will read the paper beforehand then use the meetup to discuss the ideas and as questions.\n\nThe paper we will look at is \""What are the most important statistical ideas of the past 50 years?\"". It argues which ideas they think are most important and considers how the ideas may be developed and extended into the future.\n\nhttps://arxiv.org/abs/2012.00174v2\n\nWhich of these ideas in the paper do you think is most important?\n\nPlease try to read the material before coming to the meet up. It is fine if you do not understand it all, the purpose of the meetup is to learn and ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2021-01-28T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/275384725"",
+      ""going"": 57,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyccdbpb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Correlation Does Not Imply Causation"",
+      ""description"": ""Causal Inference:\n\nLast meetup we looked at the most important ideas of the last 50 years. Of which, causation was the one most often bought up during the discussion. This week we will be diving deeper into this topic.\n\nOur reading and viewing list is this:\n- introductory blog post - https://medium.com/analytics-vidhya/causal-inference-an-introduction-f424df7c76ef\n- Causal Inference lecture (From MIT's ML for Healthcare series) - https://www.youtube.com/watch?v=gRkUhg9Wb-I\n\nFrom this material:\n- What did you learn?\n- What did you not understand?\n- What did you think was interesting?\n\nPlease try to read the material before coming to the meet up. It is fine if you do not understand it all, the purpose of the meetup is to learn and ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2021-02-11T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/275747487"",
+      ""going"": 29,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyccfbhc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Introduction to Simulation Competitions"",
+      ""description"": ""This week we are taking a break from our usual discussion format and are hosting a presentation by Alan Radford: \""Introduction to Simulation Competitions on Kaggle\""\n\nAlan is one of the strongest Kaggle competitors of the group, with several high placing results. And tonight he will be using the Rock Paper Scissors Competition https://www.kaggle.com/c/rock-paper-scissors/overview which he placed in the top 5% in to introduce us to simulation competitions. He will also introduce us to the Hungry Geese competition.\n\nThere will be an abundance of insightful and practical information in this presentation. DonÕt miss out!\n\nMeeting Schedule:\n\n6:30 - Introduction\n6:35 - Presentation and Q&A\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2021-03-25T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/276200771"",
+      ""going"": 29,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyccfbpb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Can you infer causation from observational data?"",
+      ""description"": ""If we want to determine causation our preference is to conduct a randomised controlled trial. But what if costs make that prohibitive? What if it just is not possible for the system/process that we are investigating?\n\nThis meetup we will attempt grasp whether the methods available for determining causal relationships from observational data are effective. And if so, when and why.\n\nThe pre-reading/viewing for this for this meetup will be:\n- A study on opioid prescription and misuse https://www.bmj.com/content/360/bmj.j5790\n- MIT Lecture - https://www.youtube.com/watch?v=g5v-NvNoJQQ (Note: this is part 2, I believe it is not necessary to watch part 1 to gain a lot from this video. But part 1 is also on youtube if you would like to view it)\n\nPlease try to read the material before coming to the meet up. It is fine if you do not read, watch or understand it all, the purpose of the meetup is to learn and ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2021-03-11T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/275747564"",
+      ""going"": 37,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyccgblb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Foundations of Reinforcement Learning"",
+      ""description"": ""Reinforcement Learning (RL) continues to evolve and solve more complex problems. It has a wide variety of applications including robotics, playing games, NLP and computer vision.\n\nThis meetup we will have a discussion group around Reinforcement Learning focussing on the materials below:\n\n* A good non-technical intro putting it in a real life context - https://venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/\n* Video from Lecture series based on the work of David Silver:\nReinforcement Learning 1: Foundation - https://www.youtube.com/watch?v=K67RJH3V7Yw&list=PLMsTLcO6ettgmyLVrcPvFLYi2Rs-R4JOE\n* And, if you would like to look into applying the techniques, the Hungry Geese Competition - https://www.kaggle.com/c/hungry-geese\n\nPlease try to read some of the material before coming to the meet up. It is fine if you do not understand it all, the purpose of the meetup is to ask questions where you got stuck and to learn.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end.\n\nMeeting Schedule:\n\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2021-04-08T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/276764015"",
+      ""going"": 31,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpycchbbc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Time Series and Deep Learning"",
+      ""description"": ""There are nuances to making predictions in a Time Series problem that do not exist in other types of prediction problems. This meetup we will look at a paper which gives an overview of how different Deep Learning architectures can address these nuances.\n\nhttps://arxiv.org/abs/2004.13408\n\nAs always we encourage you to read some of the material before coming to the meetup. It is fine if you cant understand parts of the it. The purpose of this meetup is to learn by spending some time with the material beforehand, so that you can comment about what you thought and ask questions around where you got stuck.\n\nWe hope to see you there!\n\nMeeting Schedule:\n\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2021-05-20T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/277720883"",
+      ""going"": 40,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyccjbfb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Soft Actor-Critic - A Reinforcement Learning Algorithm"",
+      ""description"": ""Anyone interested in Reinforcement Learning or those that caught the McKinsey presentation may like to explore the Soft Actor-Critic (SAC) algorithm further. This Meetup we will do just that. Below are some suggested reading for the topic.\n\nResearch Paper: https://arxiv.org/pdf/1801.01290.pdf\nBlog Post: https://towardsdatascience.com/soft-actor-critic-demystified-b8427df61665\n\nAs always we encourage you to read some of the material before coming to the meetup. It is fine if you cant understand parts of the it. The purpose of this meetup is to spend some time with the material beforehand so that you can comment about what you thought and ask questions around where you got stuck. We are all here to learn.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We maintain a list of suggested topics. And will vote for on the topic for the following meeting at the end of the Session.\n\nMeeting Schedule:\n\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2021-06-03T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/277720894"",
+      ""going"": 21,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyccjbwb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Share Trading with Deep Reinforcement Learning"",
+      ""description"": ""Algorithmic share trading is a strong force in today's share trading environment. The majority of share trading is now fully automated. Deep Reinforcement Learning has been demonstrated as the master of complex games such as Chess and Go. For this Meetup we will look at a how Deep Reinforcement Learning could be used for algorithmic trading by reading this paper sometime before and then meeting to discuss.\n\nhttps://arxiv.org/abs/2106.00123v1\n\nPlease try to read the material before coming to the meet up. It is fine if you do not understand it all, the purpose of the meetup is to learn and ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2021-06-17T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/277720900"",
+      ""going"": 38,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpycckbcb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Reward Maximisation to Solve AGI?"",
+      ""description"": ""This week, we continue our exploration of Reinforcement Learning with an examination of a new paper from some heavy hitters in the field. We will look at the paper ÒReward is EnoughÓ by Silver, Singh, Precup and Sutton. https://www.sciencedirect.com/science/article/pii/S0004370221000862\n\nReinforcement Learning (RL) is rapidly growing in popularity as an alternative to supervised and unsupervised learning. This paper offers a hypothesis for how far RL may be able to drive the quest for Artificial General Intelligence.\n\nAs always we encourage you to read the material before coming to the meetup. It is fine if you cant understand parts of the it or cannot finish it. The purpose of this meetup is to spend some time with the material beforehand so that you can comment about what you thought and ask questions around where you got stuck. We are all here to learn.\n\nALSO, If there is a paper you would like to nominate to discuss for the next meetup, please prepare a 30-60 second introduction to the paper so we can vote to decide the next topic.\n\nWe hope to see you there!\n\nMeeting Schedule:\n\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Nominations and vote for next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2021-07-01T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/277720921"",
+      ""going"": 29,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpycckbmc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Decoding Speech in the Paralysed"",
+      ""description"": ""This week we look at cutting edge research where an electrode array was placed over the brain and by having a paralysed person try to say the words, language was generated. Natural Language Processing and Deep Learning were amongst the technologies used.\n\nThe materials we will look at are here - both published within the last few days:\n¥ New York Times article https://www.nytimes.com/2021/07/14/health/speech-brain-implant-computer.html\n¥ New England Journal of Medicine article https://www.nytimes.com/2021/07/14/health/speech-brain-implant-computer.html this article is available for free by registering an account. The registration process is fast and straightforward.\n\nAs always we encourage you to read the material before coming to the meetup. It is fine if you cant understand parts of the it or cannot finish it. The purpose of this meetup is to spend some time with the material beforehand so that you can comment about what you thought and ask questions around where you got stuck. We are all here to learn.\n\nIf you would like to propose a research paper, blog post, Kaggle competition or something else as the topic for the following meeting, prepare a 30-60 second proposal. We will have these proposals at the end of the session.\n\nWe hope to see you there!\n\nMeeting Schedule:\n\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Nominate and vote for following meeting's next topic\n7:30 - Meeting ends"",
+      ""dateTime"": ""2021-07-29T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/277720929"",
+      ""going"": 19,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpycckbtb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""DRL to win at Poker and Games of Imperfect Information"",
+      ""description"": ""\""Many real-world applications can be described as large-scale games of imperfect information\""\n\nThis week we continue our recent trend of looking at Deep Reinforcement Learning (DRL). We will look at a paper that uses self-play with DRL to learn to effectively play the game of poker.\n\nhttps://arxiv.org/pdf/1603.01121.pdf\n\nAs always we encourage you to read the material before coming to the meetup. It is fine if you cant understand parts of the it or cannot finish it. The purpose of this meetup is to spend some time with the material beforehand so that you can comment about what you thought and ask questions around where you got stuck. We are all here to learn.\n\nOne last thing, at the end of the session we have topic proposals, then we vote to decide on the topic for the next meetup. If you would like to propose a research paper, blog post, Kaggle competition or something else, prepare 30 seconds to a minute to give the proposal.\n\nWe hope to see you there!\n\nMeeting Schedule:\n\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Proposals of topics for next session and vote to decide\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2021-07-15T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/277720911"",
+      ""going"": 26,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpycclbjc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Predicting Volatility - Kaggle Competition"",
+      ""description"": ""NOTE: THIS WEEK WE WILL BE ON ZOOM AS WE ARE IN THE LOCKDOWN.\nAn email will be sent to all who have RSVP'd an hour before the meeting is due to start.\n\nThis week we are returning to our roots and looking at a Kaggle Competition. This competition covers many areas that come up during our discussions, including:\n* Structured Data\n* Time Series\n* Financial Markets\n* Feature Engineering\n* Using Deep Learning for Tablular Data\n\nThe competition is ÒOptiver Realized Volatility PredictionÓ https://www.kaggle.com/c/optiver-realized-volatility-prediction/overview/description It offers us a great chance to get our hands dirty attempting to make predictions, then come together as a group, share what we did, where we got stuck and brainstorm for ideas to try next.\n\nAs always we encourage you all to attempt the competition before coming to the meetup. It is fine if you attempt the competition but do not manage to make a submission or get a high score on the leaderboard. The purpose of this meetup is to talk about what you tried, ask questions and to learn.\n\nIf you would like to propose a research paper, blog post, Kaggle competition or something else as the topic for the following meeting, prepare a 30-60 second proposal. We will have these proposals at the end of the session.\n\nWe hope to see you there!\n\nMeeting Schedule:\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Nominate and vote for following meeting's next topic\n7:30 - Meeting ends"",
+      ""dateTime"": ""2021-08-26T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/280000330"",
+      ""going"": 26,
+      ""waiting"": 0,
+      ""eventType"": ""online""
+    }
+  }
+}"
+lrgsjpycclbqb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Pre-training on an NLP task for non-NLP tasks"",
+      ""description"": ""This paper looks at what happens when you train a language model, then fine tune a tiny fraction of the weights on a non language task. Surprisingly, this appears to be very effective.\n\nCome and join the reading group where we will be discussing the research paper: \""Pretrained Transformers as Universal Computation Engines\"" https://arxiv.org/abs/2103.05247\n\nAs always we encourage you to read the material before coming to the meetup. It is fine if you cant understand parts of the it or cannot finish it. The purpose of this meetup is to spend some time with the material beforehand so that you can comment about what you thought and ask questions around where you got stuck. The purpose of the meetup is to learn.\n\nIf you would like to propose a research paper, blog post, Kaggle competition or something else as the topic for the following meeting, prepare a 30-60 second proposal. We will have these proposals at the end of the session.\n\nWe hope to see you there!\n\nMeeting Schedule:\n\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Nominate and vote for following meeting's next topic\n7:30 - Meeting ends"",
+      ""dateTime"": ""2021-08-12T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/278866779"",
+      ""going"": 25,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyccmbmb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Time Series & Predicting Volatility"",
+      ""description"": ""Thanks to everyone who joined the call last week. It was an interesting discussion. We are going to continue with the https://www.kaggle.com/c/optiver-realized-volatility-prediction/ competition. For those yet to start, there were several recommendations for using this notebook https://www.kaggle.com/jiashenliu/introduction-to-financial-concepts-and-data as a way of getting familiar with the competition.\n\nWe also suggest checking out these papers which are complementary to the competition:\n¥ Feature-based time-series analysis - https://arxiv.org/pdf/1709.08055.pdf\n¥ Time Series FeatuRe Extraction with tfresh https://www.sciencedirect.com/science/article/pii/S0925231218304843 with Python library - https://github.com/blue-yonder/tsfresh\n\nAs always we encourage you all to attempt the competition and/or take a look at the papers before coming to the meetup. It is fine if you attempt the competition but do not manage to make a submission or get a high score. The purpose of this meetup is to talk about what you tried, ask questions and to learn.\n\nIf you would like to propose a research paper, blog post, Kaggle competition or something else as the topic for the following meeting, prepare a 30-60 second proposal. We will have these proposals at the end of the session.\n\nWe hope to see you there!\n\nMeeting Schedule:\n\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Nominate and vote for following meeting's next topic\n7:30 - Meeting ends"",
+      ""dateTime"": ""2021-09-09T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/280353628"",
+      ""going"": 25,
+      ""waiting"": 0,
+      ""eventType"": ""online""
+    }
+  }
+}"
+lrgsjpyccnbkb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""How Important is the Data?"",
+      ""description"": ""How important is the data?\n¥ Does it not really matter since you can use fill in the blank state of the art model and all of your problems will be solved?\n¥ Does it matter more than ever since everyone has access to state of the art models and having the best dataset is what will get you the best performance?\n¥ Or is it more nuanced?\n\nThis is the question we will explore in this week's Data Science Discussion Group.\n\nWe suggest before the session that you watch this video by Andrew Ng \""A Chat with Andrew on MLOps: From Model-centric to Data-centric AI\"" https://www.youtube.com/watch?v=06-AZXmwHjo\n\nWe encourage you to watch the video beforehand so that we can discuss it in the session. It is fine if you donÕt understand all of it. The purpose of this meetup is to ask questions and to learn.\n\nIf you would like to propose a research paper, blog post, Kaggle competition or something else as the topic for the following meeting, prepare a 30-60 second proposal. We will have these proposals at the end of the session.\n\nWe hope to see you there!\n\nMeeting Schedule:\n\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Nominate and vote for following meeting's next topic\n7:30 - Meeting ends"",
+      ""dateTime"": ""2021-10-07T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/280353634"",
+      ""going"": 38,
+      ""waiting"": 0,
+      ""eventType"": ""online""
+    }
+  }
+}"
+lrgsjpyccpbgb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Deep Learning with Tabular Data"",
+      ""description"": ""Every year Deep Learning displays superiority for more and more tasks. Making predictions with tabular data is one task where other techniques are still holding their ground, but it is close. This week we are looking at this survey paper https://arxiv.org/abs/2110.01889v1 to get a feel for the current state of the art Deep Learning methods for Tabular Data.\n\nAs always we encourage you to read the material before coming to the meetup. It is fine if you don't understand parts of it, the purpose of the meetup is to ask questions and to learn.\n\nIf you would like to propose a research paper, blog post, Kaggle competition or something else as the topic for the following meeting, prepare a 30-60 second proposal. We will have these proposals at the end of the session.\n\nA Zoom link will be sent out around an hour before the meeting starts.\n\nWe hope to see you there!\n\nMeeting Schedule:\n\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Nominate and vote for following meeting's next topic\n7:30 - Meeting ends"",
+      ""dateTime"": ""2021-11-04T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/281417322"",
+      ""going"": 34,
+      ""waiting"": 0,
+      ""eventType"": ""online""
+    }
+  }
+}"
+lrgsjpyccpbxb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Implementing Deep Learning with Tabular Data"",
+      ""description"": ""Last week we looked at this great survey paper https://arxiv.org/abs/2110.01889v1 for Deep Learning with Tabular data.\n\nThis session we are asking people to try and implement one or two of the approaches from the paper, or maybe finding a Deep Learning for tabular data library and getting it to run on a tabular dataset.\n\nWe are encouraging everyone to spend a few hours getting their hands dirty so that they can come along and share their hard fought for learnings. And ask for help where they got stuck\n\nSome examples of things to try include:\n¥ https://awesomeopensource.com/projects/deepfm?categoryPage=41\n¥ https://arxiv.org/pdf/1703.04247.pdf\n¥ https://pypi.org/project/deepctr/\n\nIf you are looking for a tabular dataset to try, this could be an option: https://www.kaggle.com/c/tabular-playground-series-nov-2021/data\n\nIf you would like to propose a research paper, blog post, Kaggle competition or something else as the topic for the following meeting, prepare a 30-60 second proposal. We will have these proposals at the end of the session.\n\nA Zoom link will be sent out around an hour before the meeting starts.\n\nWe hope to see you online!\n\nMeeting Schedule:\n\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Nominate and vote for following meeting's next topic\n7:30 - Meeting ends"",
+      ""dateTime"": ""2021-12-02T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/281417328"",
+      ""going"": 31,
+      ""waiting"": 0,
+      ""eventType"": ""online""
+    }
+  }
+}"
+lrgsjpydccbkc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""AI for Scientific Discovery"",
+      ""description"": ""The Data Science Discussion Group welcomes you back for 2022. We will be kicking off the year with a reading group for this paper: \""Learning from learning machines: a new generation of AI technology to meet the needs of science\"" (https://arxiv.org/abs/2111.13786)\n\nThe paper looks at the differences between using AI for industry and using AI for science. And looks at how AI models could be adapted to transform scientific discovery.\n\nWe encourage you to read the paper before the session. It is fine if you do not understand all of it, or finish it. The purpose of this meetup is to ask questions and to learn.\n\nIf you would like to propose a research paper, blog post, Kaggle competition or something else as the topic for the following meeting, prepare a 30-60 second proposal. We will have these proposals at the end of the session.\n\nWe hope to see you there!\n\nMeeting Schedule:\n\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Nominate and vote for following meeting's next topic\n7:30 - Meeting ends"",
+      ""dateTime"": ""2022-01-27T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/282650625"",
+      ""going"": 31,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyxfbcb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Data Science & Machine Learning Discussion Group"",
+      ""description"": ""This meetup we will be taking another look at NLP and discussing the Kaggle Competition \""Toxic Comment Classification Challenge\"" https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge\n\nAs always we encourage you all to attempt the the competition before coming to the meet up. Preferably, by making at least one submission so that we can compare our different approaches.\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n\n6:30 - Introductions\n\n6:35 - Discussion - 'Toxic Comment' Kaggle Competition\n\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2018-03-01T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/246203222"",
+      ""going"": 55,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyxfbmc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Image Classification with Deep CNNs"",
+      ""description"": ""This week we are switching gears and will be discussing a seminal paper in the domain of image classification entitled 'ImageNet Classification with Deep Convolutional Neural Networks'\n\nhttps://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf\n\nWhile this topic can get very technical, this paper is regarded as one of the easier ones to read in this domain.\n\nPlease try to read the paper before the meetup. Do not worry if you don't understand all of it. This meetup is for the purpose of discussing the paper and asking questions about the things that we are unsure about.\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n\n6:30 - Introductions\n\n6:35 - Discussion - ImageNet Classification\n\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2018-03-29T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/246203237"",
+      ""going"": 50,
+      ""waiting"": 2,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyxgbjc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Data Science Discussion - Fraud Detection Competition"",
+      ""description"": ""After a couple of weeks getting deep into the world of deep learning research papers we are mixing things up and looking at a Kaggle competition.\n\nThis week we will look at https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection\n\nAs always we encourage you all to attempt the the competition before coming to the meet up. It is fine if you attempt the competition but do not get a high score on the leaderboard. The purpose of this meetup is to talk about what you did and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:30 - Discuss and decide on\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2018-04-26T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/246203248"",
+      ""going"": 60,
+      ""waiting"": 6,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyxgbqb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Data Science Discussion Group - Dynamic Routing Between Capsules"",
+      ""description"": ""This week at University of Auckland\n\nThis week we are back and going into the deep end. We are looking at one of the most talked about deep learning papers of last year. 'Dynamic Routing Between Capsules' by Sara Sabour, Nicholas Frosst, Geoffrey E Hinton\n\nhttps://arxiv.org/abs/1710.09829\n\nPlease try to read the paper before the meetup. Do not worry if you don't understand all of it, these ideas are some of the newest in the field. This meetup is for the purpose of discussing the paper and asking questions about the things that we are unsure about.\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion - Dynamic Routing Between Capsules\n7:30 - Meeting ends"",
+      ""dateTime"": ""2018-04-12T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/246203244"",
+      ""going"": 46,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyxhbgc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Data Science & Machine Learning Discussion Group"",
+      ""description"": ""Different Venue for this week:\nUniversity of Auckland - Room: 303-G15\n\nPlease remove yourself from RSVP if you are not going to attend.\n\nThis week we are doing something a little different we will continue to talk about the Avito Demand Prediction Challenge (https://www.kaggle.com/c/avito-demand-prediction) but also offer the option of discussing research papers relating to NLP, Image recognition and tabular data. All of which are elements of this competition.\n- NLP Paper - A Neural Probabilistic Language Model - https://arxiv.org/pdf/1301.3781.pdf\n- Image recognition paper - Deep residual networks for image recognition - https://arxiv.org/pdf/1512.03385.pdf\n\nAs always we encourage you all to attempt the competition and/or look at a research paper before coming to the meet up. It is fine if you attempt the competition but do not get a high score on the leaderboard. The purpose of this meetup is to talk about what you did and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends"",
+      ""dateTime"": ""2018-05-24T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/246203269"",
+      ""going"": 38,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyxhbnb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Data Science & Machine Learning Discussion Group"",
+      ""description"": ""This week we are back with another Kaggle competition: Avito Demand Prediction Challenge https://www.kaggle.com/c/avito-demand-prediction This competition has it all, image classification, text classification and more.\n\nWe will also give people the chance to discuss the Talking Data fraud detection challenge from last week, which will have just finished https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection\n\nAs always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not get a high score on the leaderboard. The purpose of this meetup is to talk about what you did and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2018-05-10T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/246203265"",
+      ""going"": 60,
+      ""waiting"": 1,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyxjbcc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Machine Learning and Kaggle Hands-on"",
+      ""description"": ""This week we are trying something a little different. You are invited to come along to Auckland Data Science Discussion Group's first hands on session. Bring your laptop and get your hands dirty.\n\nWe will work together and help each other with Machine Learning and Kaggle problems. if you are new to Kaggle and are having trouble making a submission this is your opportunity to get past that road block. If you are more experienced this could be your chance to get help to get rid of that vanishing gradient problem that has been keeping you up late at night.\n\nIf you cannot make it please remove yourself from the RSVP as soon as you can.\n\nWe have the space from 6pm - 745pm, show up between 6 and 6:30. Hope to see you there!"",
+      ""dateTime"": ""2018-06-21T18:00+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/246203273"",
+      ""going"": 60,
+      ""waiting"": 3,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyxjbkb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Embeddings for Categorical Variables"",
+      ""description"": ""This week we are back at GridAKL and will be discussing a relatively new technique of creating embeddings for categorical variables. This technique allows you to take advantage of the power of deep learning with categorical data and has been used to win recent Kaggle competitions.\n\nBefore the meetup you may want to look at this paper: https://arxiv.org/pdf/1604.06737.pdf\n\nor if you prefer an easier read these articles:\n- https://towardsdatascience.com/deep-learning-structured-data-8d6a278f3088\n- http://www.fast.ai/2018/04/29/categorical-embeddings/\n- https://towardsdatascience.com/using-word2vec-for-better-embeddings-of-categorical-features-de75020e1233\n\nAnd if you would like to apply these methods you could use this Kaggle competition: Avito Demand Prediction Challenge https://www.kaggle.com/c/avito-demand-prediction\n\nAs always we encourage you to look at the material before the meetup. It is fine if you do not understand all of it. The purpose of this meetup is to talk about the material and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end.\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2018-06-07T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/246203272"",
+      ""going"": 44,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyxkbzb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Predicting Credit Default Risk - Kaggle Competition"",
+      ""description"": ""This week we are back with a new Kaggle competition: https://www.kaggle.com/c/home-credit-default-risk/data\n\nAs always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not get a high score on the leaderboard. The purpose of this meetup is to talk about what you did and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end.\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:30 - Discuss and decide on Next topic\n7:35 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2018-07-19T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/251313884"",
+      ""going"": 42,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyxlbdb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Predicting Credit Default - Kaggle Competition"",
+      ""description"": ""After some strong first attempts at this competition we going to return to discuss the 'Home Credit Default Risk' once more: https://www.kaggle.com/c/home-credit-default-risk/data\n\nAs always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not get a high score on the leaderboard. The purpose of this meetup is to talk about what you did and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end.\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:30 - Discuss and decide on Next topic\n7:35 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2018-08-02T18:15+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/251891753"",
+      ""going"": 48,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyxlbnc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Predicting Credit Wrap up & Ask a Data Science Question"",
+      ""description"": ""With home 'Home Credit Default Risk' competition: https://www.kaggle.com/c/home-credit-default-risk/data closing on this day, we will come back for a final wrap up.\n\nAlternatively, we are giving you the chance to come and ask any Data Science question that you may have. This is your chance to ask that question you've been wondering about for weeks. And hopefully there will be someone there who can answer it.\n\nAs always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not get a high score on the leaderboard. The purpose of this meetup is to talk about what you did and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end.\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:30 - Discuss and decide on Next topic\n7:35 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2018-08-30T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/253507135"",
+      ""going"": 32,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyxlbvb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Predicting Credit Wrap up & Ask a Data Science Question"",
+      ""description"": ""With home 'Home Credit Default Risk' competition: https://www.kaggle.com/c/home-credit-default-risk/data closing on this day, we will come back for a final wrap up.\n\nAlternatively, we are giving you the chance to come and ask any Data Science question that you may have. This is your chance to ask that question you've been wondering about for weeks. And hopefully there will be someone there who can answer it.\n\nAs always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not get a high score on the leaderboard. The purpose of this meetup is to talk about what you did and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end.\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:30 - Discuss and decide on Next topic\n7:35 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2018-08-30T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/253507135"",
+      ""going"": 32,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyxmbrb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Exploring AutoML"",
+      ""description"": ""Is AutoML going to live up to the hype? Or is it just an over-hyped hyper-parameter search?\n\nAutoML is a topic which has been brought up more and more during these discussions. At the last meeting we voted and decided that it was time to dedicate an entire meeting to it.\n\nHere are some places to get started:\n\nhttps://arxiv.org/abs/1802.03268\n\nGoogle AutoML https://cloud.google.com/automl/\nAutoKeras https://github.com/jhfjhfj1/autokeras\nTensorFlow https://github.com/melodyguan/enas\nPytourch https://github.com/carpedm20/ENAS-pytorch\n\nArticles:\nhttp://www.fast.ai/2018/07/16/auto-ml2/\nhttps://towardsdatascience.com/autokeras-the-killer-of-googles-automl-9e84c552a319\n\nWe encourage you to do some preparation by reading some of these articles or other sources before the meet up. It is fine if you don't understand all of this topic. The purpose of this meetup is to talk about what you did and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:30 - Discuss and decide on\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2018-09-13T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/253364915"",
+      ""going"": 60,
+      ""waiting"": 3,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyxnbhc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Predict Customer Revenue - Kaggle Competition"",
+      ""description"": ""Want to figure out how to utilise the 80/20 rule and focus on your most valueable customers? Get working on predicting customer revenue with the recent Kaggle competition: Google Analytics Customer Revenue Prediction https://www.kaggle.com/c/ga-customer-revenue-prediction\n\nAs always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not get a high score on the leaderboard. The purpose of this meetup is to talk about what you did and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2018-10-25T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/252886616"",
+      ""going"": 43,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyxnbpb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Predict Customer Revenue - Kaggle Competition"",
+      ""description"": ""Got plans for the next few weekends? Change them and get working on predicting customer revenue.\n\nThis week we are back with another Kaggle competition: Google Analytics Customer Revenue Prediction https://www.kaggle.com/c/ga-customer-revenue-prediction\n\nAs always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not get a high score on the leaderboard. The purpose of this meetup is to talk about what you did and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2018-10-11T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/253689774"",
+      ""going"": 46,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyxpbdc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Deep Learning with LSTMs"",
+      ""description"": ""LSTMs are a type of Recurrent Neural Network which have had great success with Natural Language Processing (NLP), sound processing and many other types of sequence data.\n\nThis meetup the discussion will be around 2 blog posts and an academic paper relating to LSTMs. These two blog posts describe how LSTMs work :\n- http://colah.github.io/posts/2015-08-Understanding-LSTMs/\n- http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/\n\nAnd if you want to look at something more advanced, this paper examines some of the tricks and techniques which can be used to get LSTMs to perform well for NLP tasks:\n- https://arxiv.org/pdf/1708.02182.pdf\n\nWe encourage you to read some of the material before the meetup. It is fine if you don't understand all of it. The purpose of this meetup is to ask questions and to learn.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2018-11-22T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/253689786"",
+      ""going"": 60,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyxpblb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Learning From Unlabelled Data"",
+      ""description"": ""Often one of the biggest problems of building a good model is obtaining a large labelled data set. However, it is often much easier to obtain large amounts of un-labeled data. This week we are looking at how we can use un-labelled data for improving our Machine Learning models.\n\nThe papers we will be looking at are:\n- Realistic Evaluation of Deep Semi-Supervised Learning Algorithms - https://arxiv.org/abs/1804.09170\n- Learning from Positive and Unlabeled Data under the Selected At Random Assumption - https://arxiv.org/pdf/1808.08755.pdf\n\nWe encourage you to attempt to read the papers before the meetup. It is fine if you don't understand it all. The purpose of this meetup is to ask questions and to learn.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2018-11-08T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/253689782"",
+      ""going"": 52,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyxqbbc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Category Recommendation - Kaggle Elo Competition"",
+      ""description"": ""Come along to our last meetup of the year where we will be looking at the Elo Merchant Category Recommendation Kaggle competition: https://www.kaggle.com/c/elo-merchant-category-recommendation\n\nAs always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not get a high score on the leaderboard. The purpose of this meetup is to talk about what you did and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2018-12-20T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/253689796"",
+      ""going"": 55,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyxqbjb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Few Shot Learning - Classifying without Many Examples"",
+      ""description"": ""What do you do when you don't have many training examples of the class that you want to predict?\n\nThis week we are talking about \""Few Shot Learning\"" which is a family of techniques used to predict in these instances.\n\nFor those new to the topic of \""few-shot learning\"" here is:\n- A blog which gives a good short introduction: https://medium.com/quick-code/understanding-few-shot-learning-in-machine-learning-bede251a0f67\n- A 5 minute video by Andrew Ng: https://www.youtube.com/watch?v=96b_weTZb2w\n- A longer video: https://www.youtube.com/watch?v=LMfLRF9VKrc\n\nFor more advanced people here is a research paper which goes some into statistics and deep learning: https://arxiv.org/pdf/1706.00326.pdf\n\nWe encourage you to read the some of the material before the meetup. It is fine if you don't understand it. The purpose of this meetup is to ask questions and to learn.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2018-12-06T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/253689792"",
+      ""going"": 65,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyzcbpc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Elo Merchant Category Recommendation - Kaggle competition"",
+      ""description"": ""Last week we had some really interesting and in depth discussion on this competition, so we decided that we will keep working on the Elo Merchant Category Recommendation Kaggle competition: https://www.kaggle.com/c/elo-merchant-category-recommendation\nThis competition presents some great opportunities to try to deeply understand the problem and add your own creativity.\n\nAs always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not manage to make a submission or get a high score on the leaderboard. The purpose of this meetup is to talk about what you did and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2019-01-31T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/256963381"",
+      ""going"": 45,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyzcbwb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Elo Merchant Category Recommendation - Kaggle competition"",
+      ""description"": ""This meetup we will be looking at the Elo Merchant Category Recommendation Kaggle competition: https://www.kaggle.com/c/elo-merchant-category-recommendation With Christmas and New Year holidays, what a great chance to get some time away from the abundance of family members and brush up those data science skills\n\nThis competition presents some great opportunities to to try to deeply understand the problem and add your own creativity.\n\nAs always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not get a high score on the leaderboard. The purpose of this meetup is to talk about what you did and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2019-01-17T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/256963380"",
+      ""going"": 32,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyzdblc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Recurrent Neural Networks Discussion"",
+      ""description"": ""After a succession of meetups where we looked at the Elo competition, this week we going to look at some blogs and a video on Recurrent Neural Networks (RNNs). RNNs are used to get state of the art results in NLP as well as sequence processing.\n\n- Introduction to RNNs - https://medium.com/explore-artificial-intelligence/an-introduction-to-recurrent-neural-networks-72c97bf0912\n- The Unreasonable Effectiveness of RNNs http://karpathy.github.io/2015/05/21/rnn-effectiveness/\n- Andrew Ng's intro videos to his sequence learning course.RNN W1L01 : Why Sequence Models - The first 3 videos give a good intro and it gets more in depth from there\n\nAs always we encourage you to look at the material before coming to the meet up. It is fine if you do not understand it all. The purpose of this meetup to learn and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2019-02-28T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/257540273"",
+      ""going"": 51,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyzdbsb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Elo Merchant Category Recommendation - Kaggle competition"",
+      ""description"": ""Last week we had some really interesting and in depth discussion on this competition, so we decided that we will keep working on the Elo Merchant Category Recommendation Kaggle competition: https://www.kaggle.com/c/elo-merchant-category-recommendation\nThis competition presents some great opportunities to try to deeply understand the problem and add your own creativity.\n\nAs always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not manage to make a submission or get a high score on the leaderboard. The purpose of this meetup is to talk about what you did and to ask questions.\n\nAlso, during the meetup, feel free to discuss anything around the fast ai ML course that some people are working through: https://course18.fast.ai/ml\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2019-02-14T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/258034975"",
+      ""going"": 30,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyzfbsb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Intro to Reinforcement Learning - Reading Group"",
+      ""description"": ""Reinforcement Learning is a topic which has come up as a suggestion quite frequently in the last few months. And this meeting it is what we will discuss.\n\nThis week we will be having a reading group style discussion on this article: https://towardsdatascience.com/reinforcement-learning-with-python-8ef0242a2fa2 and this video: https://www.youtube.com/watch?v=JgvyzIkgxF0\n\nPlease take a look at the material before coming to the meet up. It is fine if you do not understand it all. The purpose of this meetup to ask any questions about where you are unsure and to learn.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2019-03-14T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/258571870"",
+      ""going"": 56,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyzgbpb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Fastai ML course recap"",
+      ""description"": ""Some of our members have been working through the fast ai course \""Introduction to Machine Learning\"". This course presents a framework for how to work through a Kaggle Competition effficiently and to solve real life machine learning problems.\n\nFor this meetup, some of our members will go over some of the concepts covered in these videos. Format will be Presentation style for the first half and QA / Discussion for the second half.\n\nYou do not need to have worked through the course to attend this meetup, but if you would like to look at some of the videos, they are available here: http://course18.fast.ai/ml\n\nPlease bring any ideas for the following meetups. We are looking for a Kaggle competition or topic areas that we can look further into.\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2019-04-11T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/259128613"",
+      ""going"": 60,
+      ""waiting"": 14,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyzhbmb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Modelling Earthquake Damage Competition"",
+      ""description"": ""After a looking at a few research papers and reviewing the fastai course we are going back to getting out hands dirty. We will be looking at the 'Richter's Predictor: Modelling Earthquake Damage' competition: https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/\n\nAs always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not manage to make a submission or get a high score on the leaderboard. The purpose of this meetup is to work on the competition beforehand and then come to the group to share what you did and to ask questions about things you were unsure about.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!\nDiscuss Data Science"",
+      ""dateTime"": ""2019-05-09T18:00+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/260076659"",
+      ""going"": 59,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyzjbbc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Modelling Earthquake Damage Competition"",
+      ""description"": ""The only real way to learn Data Science is by getting your hands dirty. And thats what we will be doing for the next meetup. Last meetup we looked at this competition and had plenty of people participating and entering so this meetup we are back for more. If you want to be on the cutting edge of feature engineering and creative ways to build models you won't want to miss this. We will be looking at the 'Richter's Predictor: Modelling Earthquake Damage' competition: https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/\n\nAs always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not manage to make a submission or get a high score on the leaderboard. The purpose of this meetup is to work on the competition beforehand and then come to the group to share what you did and to ask questions about things you were unsure about.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!\nDiscuss Data Science"",
+      ""dateTime"": ""2019-06-20T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/260522688"",
+      ""going"": 37,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyzjbjb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Modelling Earthquake Damage Competition"",
+      ""description"": ""The only real way to learn Data Science is by getting your hands dirty. And thats what we will be doing for the next meetup. Last meetup we looked at this competition and had plenty of people participating and entering so this meetup we are back for more. We will be looking at the 'Richter's Predictor: Modelling Earthquake Damage' competition: https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/\n\nAs always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not manage to make a submission or get a high score on the leaderboard. The purpose of this meetup is to work on the competition beforehand and then come to the group to share what you did and to ask questions about things you were unsure about.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!\nDiscuss Data Science"",
+      ""dateTime"": ""2019-06-06T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/260500403"",
+      ""going"": 52,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyzkbgb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Discover Secrets from Top of The Leaderboard for Earthquake Damage Modelling "",
+      ""description"": ""With 8 of our members occupying spots in the top 22 of the leaderboard. Come along for this limited opportunity to discover the tips and techniques to dominate the 'Richter's Predictor: Modelling Earthquake Damage' competition: https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/\n\nAs always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not manage to make a submission or get a high score on the leaderboard. The purpose of this meetup is to work on the competition beforehand and then come to the group to share what you did and to ask questions about things you were unsure about.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!\nDiscuss Data Science"",
+      ""dateTime"": ""2019-07-04T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/261279126"",
+      ""going"": 56,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyzkbxb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Unsupervised Learning with Clustering Techniques"",
+      ""description"": ""After going deep with the Earthquake Damage Prediction Competition. We are taking a slight turn towards taking a deep dive into clustering techniques. Potentially very powerful for the competition that we have just looked at, clustering can be a great way to utilise unlabelled data.\n\nPlease spend some time looking into one or more clustering techniques before the meetup and optionally try to use them for the earthquake prediction dataset: https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/ (by possibly making better use of the geo location data?)\n\nA good place to start with looking into clustering techniques is here: https://scikit-learn.org/stable/modules/clustering.html\n\nPlease leave a comment of the technique you plan to look into so we can try and all explore separate methods, so far we have:\n- Agglomerative Clustering (Tony)\n- DBSCAN (Alan)\n\nAs always we encourage you all to spend some time investigating and experimenting with these techniques. It's fine if you are not ultimately able to have success with them; the purpose of the meetup is to talk about what you did and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes discussing this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2019-07-18T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/261479108"",
+      ""going"": 60,
+      ""waiting"": 8,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyzlbcb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Detecting Fraudulent Customer Transactions (Kaggle Competition)"",
+      ""description"": ""Imagine standing at the check-out counter at the grocery store with a long line behind you and the cashier not-so-quietly announces that your card has been declined. In this moment, you probably arenÕt thinking about the data science that determined your fate.\n\nThis week we will start to look at the Kaggle IEEE-CIS Fraud Detection Competition https://www.kaggle.com/c/ieee-fraud-detection\n\nAs always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not manage to make a submission or get a high score on the leaderboard. The purpose of this meetup is to talk about what you did and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2019-08-01T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/262092137"",
+      ""going"": 53,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyzlbtb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Detecting Fraudulent Customer Transactions (Kaggle Competition)"",
+      ""description"": ""Imagine standing at the check-out counter at the grocery store with a long line behind you and the cashier not-so-quietly announces that your card has been declined. In this moment, you probably arenÕt thinking about the data science that determined your fate.\n\nAfter a lot of interest in the competition last week, we return to look at the Kaggle IEEE-CIS Fraud Detection Competition https://www.kaggle.com/c/ieee-fraud-detection\n\nAs always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not manage to make a submission or get a high score on the leaderboard. The purpose of this meetup is to talk about what you did and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2019-08-15T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/262832006"",
+      ""going"": 58,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyzmbjc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Earthquake Damage Prediction"",
+      ""description"": ""The only real way to learn Data Science is by getting your hands dirty. And thats what we will be doing for the next meetup. This competition is proving to be interesting for people new to Machine Learning, and experienced practitioners alike.\n\nIf you want to be on the cutting edge of feature engineering and creative ways to build models you won't want to miss this. We will be looking at the 'Richter's Predictor: Modelling Earthquake Damage' competition: https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/\n\nAs always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not manage to make a submission or get a high score on the leaderboard. The purpose of this meetup is to work on the competition beforehand and then come to the group to share what you did and to ask questions about things you were unsure about.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!\nDiscuss Data Science"",
+      ""dateTime"": ""2019-09-26T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/263605958"",
+      ""going"": 33,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyzmbqb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Earthquake Damage and Fraud"",
+      ""description"": ""With our members taking interest in 2 competitions at the moment we will at this meeting, each have a chance to discuss one, the other or (for the complete diehards) both of these competitions:\n\n- 'Richter's Predictor: Modelling Earthquake Damage' competition: https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/\n- Kaggle IEEE-CIS Fraud Detection Competition https://www.kaggle.com/c/ieee-fraud-detection\n\nIf you are new to machine learning and want to try one we would recommend the Earthquake Competition as it is more of a straightforward dataset.\n\nAs always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not manage to make a submission, or get a high score on the leaderboard. The purpose of this meetup is to talk about what you did and to ask questions.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2019-09-12T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/263117387"",
+      ""going"": 51,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyznbgc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Feature Engineering for Machine Learning"",
+      ""description"": ""Arguably the most important part of Machine Learning is feature engineering. This week we will meet to discuss this interesting and nuanced topic.\n\nWe will leave it to you to decide what material you would like to look at before the meeting, Alan has provided some suggestions below of some papers and links that you may find interesting.\n\nAlso, if you would like to share any examples of creative feature engineering you have seen or done in the past in any Kaggle Competition or Machine Learning Project, that would be great!\n\nPlease do some preparation before coming to the meet up. If you are looking at a paper, It is fine if you do not understand it all. The purpose of this meetup to ask any questions about where you are unsure so that we can all learn.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!\n\nFeature Engineering Resources:\n- https://www.datasciencecentral.com/profiles/blogs/feature-engineering-data-scientist-s-secret-sauce-1\n- Feature Engineering for Predictive Modelling using Reinforcement Learning\nhttps://arxiv.org/pdf/1709.07150v1.pdf\n- Towards automated feature engineering for credit card fraud detection using multi-perspective HMMs\nhttps://arxiv.org/pdf/1909.01185v1.pdf\n- Power Transformation and Box-Cox:\n- Box-Cox in R https://www.youtube.com/watch?v=vGOpEpjz2Ks\n- The Box-Cox transformation technique: a review\nhttps://pdfs.semanticscholar.org/2e34/658241dad02697bfa61b34563d7253c43acc.pdf\nOther possible papers:\n- An Empirical Analysis of Feature Engineering for Predictive Modelling\nhttps://arxiv.org/pdf/1701.07852v1.pdf\n- Improving classification performance by feature space transformations and model selection\nhttps://arxiv.org/pdf/1907.06258v3.pdf\n- The autofeat Python Library for Automated Feature Engineering and Selection\nhttps://arxiv.org/pdf/1901.07329v3.pdf\n- LightGBM\nhttp://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf\n- Target-Focused Feature Selection Using a Bayesian Approach\nhttps://arxiv.org/pdf/1909.06772v1.pdf\n- Supervised feature selection with orthogonal regression and feature weighting\nhttps://arxiv.org/ftp/arxiv/papers/1910/1910.03787.pdf"",
+      ""dateTime"": ""2019-10-24T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/264775437"",
+      ""going"": 59,
+      ""waiting"": 8,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyznbnb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Class Imbalance with XGBoost"",
+      ""description"": ""Does your cat and dog classifier dataset only have 100 pictures of cats and 5000 pictures of dogs? Does the thought of obtaining 4900 more cat photos to make your dataset balanced make you feel nauseous?\n\nIf so, this paper may have the answer that you are looking for: Imbalance-XGBoost: Leveraging Weighted and Focal Losses for\nBinary Label-Imbalanced Classification with XGBoost' https://arxiv.org/pdf/1908.01672.pdf with github code here: https://github.com/jhwjhw0123/Imbalance-XGBoost\n\nThis meeting, we will discuss the above paper. Please take a look at the material before coming to the meet up. It is fine if you do not understand it all. The purpose of this meetup to ask any questions about where you are unsure and to learn.\n\nAlso at this meetup, feel free to share any progress or ask questions about the Earthquake competition that we have been looking at: https://www.drivendata.org/competitions/57/nepal-earthquake/ or maybe you want to use this competition to try out what is in this paper?\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2019-10-10T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/264448601"",
+      ""going"": 32,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyzpbcc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Dimensionality Reduction Techniques & Earthquake Competition"",
+      ""description"": ""Dimensionality Reduction is an important concept for Data Science. It allows us to compress our data and do things like visualise high dimensional data in a 2d or 3d space.\n\nThis week we will be looking at Dimensionality Reduction and in particular this blog post: https://pair-code.github.io/understanding-umap/ which has a new technique (UMAP) and compares it with a popular existing technique (t-SNE).\n\nAlso, if you would like to speak about, or ask questions about any work you've done on the Earthquake competition you are welcome to.\n- https://www.drivendata.org/competitions/57/nepal-earthquake/\n\nPlease attempt to read the blog and/or work on the competition before the Meetup. If you are looking at a blog, It is fine if you do not understand it all. The purpose of this meetup to ask any questions about where you are unsure so that we can all learn.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2019-11-21T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/264577554"",
+      ""going"": 34,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyzpbkb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Feature Engineering for Machine Learning"",
+      ""description"": ""Note: Originally we were to discuss this topic on October 24th, but we postponed due to effects of the fire in Auckland CBD.\n\nArguably the most important part of Machine Learning is feature engineering. This week we will meet to discuss this interesting and nuanced topic.\n\nWe will leave it to you to decide what material you would like to look at before the meeting, Alan has provided some suggestions below of some papers and links that you may find interesting.\n\nAlso, if you would like to share any examples of creative feature engineering you have seen or done in the past in any Kaggle Competition or Machine Learning Project, that would be great!\n\nPlease do some preparation before coming to the meet up. If you are looking at a paper, It is fine if you do not understand it all. The purpose of this meetup to ask any questions about where you are unsure so that we can all learn.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!\n\nFeature Engineering Resources:\n- https://www.datasciencecentral.com/profiles/blogs/feature-engineering-data-scientist-s-secret-sauce-1\n- Feature Engineering for Predictive Modelling using Reinforcement Learning\nhttps://arxiv.org/pdf/1709.07150v1.pdf\n- Towards automated feature engineering for credit card fraud detection using multi-perspective HMMs\nhttps://arxiv.org/pdf/1909.01185v1.pdf\n- Power Transformation and Box-Cox:\n- Box-Cox in R https://www.youtube.com/watch?v=vGOpEpjz2Ks\n- The Box-Cox transformation technique: a review\nhttps://pdfs.semanticscholar.org/2e34/658241dad02697bfa61b34563d7253c43acc.pdf\nOther possible papers:\n- An Empirical Analysis of Feature Engineering for Predictive Modelling\nhttps://arxiv.org/pdf/1701.07852v1.pdf\n- Improving classification performance by feature space transformations and model selection\nhttps://arxiv.org/pdf/1907.06258v3.pdf\n- The autofeat Python Library for Automated Feature Engineering and Selection\nhttps://arxiv.org/pdf/1901.07329v3.pdf\n- LightGBM\nhttp://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf\n- Target-Focused Feature Selection Using a Bayesian Approach\nhttps://arxiv.org/pdf/1909.06772v1.pdf\n- Supervised feature selection with orthogonal regression and feature weighting\nhttps://arxiv.org/ftp/arxiv/papers/1910/1910.03787.pdf"",
+      ""dateTime"": ""2019-11-07T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/265385162"",
+      ""going"": 45,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyzqbhb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Feature Selection"",
+      ""description"": ""We have looked at feature engineering, clustering and dimensionality reduction. And now, after creating hundreds of features from our data to try to help our model, we are left with the question of \""which features should we keep?\"". We know that by discarding some of the features we can improve our model, but which features do we discard and which do we keep?\n\nFeature selection will be the topic for this meetup. Here is some material on the topic:\n- Introductory blog: https://machinelearningmastery.com/an-introduction-to-feature-selection/\n- Feature Selection with Ensembles, Artificial Variables, and Redundancy Elimination - http://www.jmlr.org/papers/volume10/tuv09a/tuv09a.pdf\n- Gradient Boosted Feature Selection: https://arxiv.org/abs/1901.04055\n\nPlease attempt to read some of the material before the Meetup. It is fine if you do not understand it all. The purpose of this meetup to ask any questions about where you are unsure so that we can all learn.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2019-12-05T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/266288264"",
+      ""going"": 34,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lrgsjpyzqbzb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Earthquake Damage Prediction"",
+      ""description"": ""It's our final meetup of the year and our final chance to meet before the deadline of the Earthquake competition: https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/ . This competition has proved to be an interesting one for all who have attempted it.\n\nWith the top of the leaderboard being dominated of our members, this is the place to be if you want to join in on discussion of the bleeding edge of feature engineering and creative ways to build models.\n\nAs always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not manage to make a submission or get a high score on the leaderboard. The purpose of this meetup is to work on the competition beforehand and then come to the group to share what you did and to ask questions about things you were unsure about.\n\nHave a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n6:30 - Introductions\n6:35 - Discussion\n7:25 - Discuss and decide on next topic\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!\nDiscuss Data Science"",
+      ""dateTime"": ""2019-12-19T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/266366668"",
+      ""going"": 36,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lzflsmywfbvb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Discussion of Kaggle Competition: House Prices & Exploratory Data Analysis"",
+      ""description"": ""Please join us to discuss the Kaggle Competition \""House Prices: Advanced Regression Techniques\"" https://www.kaggle.com/c/house-prices-advanced-regression-techniques as well as Exploratory Data Analysis (EDA).\n\nThe idea of the discussion is that everyone takes a look at the competition, maybe reads the forums and attempts the competition. then we meet to discuss. How much time you spend looking at the competition before the meeting is upto you. We will share what we have learnt and questions of things we are unsure of. Everyone will be given a chance to share if they like. The level of discussion will be aimed around that of people who have attempted the competition, but all levels of experience are welcome and people new to data science and machine learning will still be able to learn a lot from the discussion.\n\nBig thanks to GridAKL for supplying the venue. We will be in their tech cafe space\n\nSchedule of meeting\n\n6:15 Arrive and informal chat\n\n6:30 Discussion begins\n\n7:30 Discussion ends and vote for topic of next meeting"",
+      ""dateTime"": ""2017-03-16T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/238174855"",
+      ""going"": 36,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lzflsmywgbkc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Data Science & Machine Learning Discussion Group"",
+      ""description"": ""For this meeting we will be discussing cross-validation:\n\nThe meeting will start with an informal whiteboard presentation on cross-validation by Tony. Tony is very experienced with machine learning with a very high rating on kaggle and a lot of industry experience with machine learning projects.\n\nWe encourage you to do some reading on cross-validation and some thinking about any questions you have on the topic. After Tony has presented we continue discussing cross validation and you will have the opportunity to ask questions about it.\n\nPlease update your RSVP status if you are not going to be able to attend.\n\nMeeting will be held at Level 4 of JSA https://www.google.com/maps/place/220+Queen+St,+Auckland,+1010,+New+Zealand/@-36.849349,174.7649052,19z/data=!4m5!3m4!1s0x6d0d47fb2816dc39:0xa2e08463de73ab88!8m2!3d-36.8493458!4d174.7654121?hl=en\n\nThank you to JSA for hosting us!\n\nThanks, Rob"",
+      ""dateTime"": ""2017-04-27T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/238177089"",
+      ""going"": 35,
+      ""waiting"": 10,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lzflsmywgbrb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Data Science & Machine Learning Discussion Group - Kaggle - House Prices"",
+      ""description"": ""Kaggle - House Price Regression competition\n\nhttps://www.kaggle.com/c/house-prices-advanced-regression-techniques\n\nPlease come and discuss with us the kaggle house price regression competition (link above). We ask that you have a look at the competition and attempt to get as far as you can with it. If you only have a little experience, this may be be as simple as trying to install python or importing the data set. But if you have the time and experience please try and make a submission.\n\nThis meetup is designed learning through sharing experiences and asking questions about the things that came up as they were attempting the competition.\n\nAlso, those that make submissions, bring your best submission .csv file and we will ensemble them and submit to see what we score.\n\nAnd please cancel your RSVP if you are not going to be able make it.\n\nWe are back in the GridAKL cafe space for this meetup. Thanks to GridAKL for hosting us!"",
+      ""dateTime"": ""2017-04-13T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/238177052"",
+      ""going"": 40,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lzflsmywhbhc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Data Science & Machine Learning Discussion Group"",
+      ""description"": ""NOTE: DATE CHANGED, NEW DATE = Wednesday, 24th of May.\n\nData Science Discussion Group - House Prices: Advanced Regression Techniques\n\nhttps://www.kaggle.com/c/house-prices-advanced-regression-techniques\n\nThis week we are returning to the house price regression problem, where we will be discussing our latest attempts. We will go around the room, sharing our best score and the techniques which we used, If you were unable to get to the point of making the submission you can share about where you got stuck or ask any questions that came up for you.\n\nThe function of this meeting is to provide an opportunity to get together after having made attempts at this competition so that we can discuss and ask questions related to the competition.\n\nMeeting Schedule:\n\n6:30 - Meeting / Discussion begins\n\n7:30 - Discussion on what to talk about at next meeting\n\n7:40 - Meeting ends\n\nThis week the discussion will take place in AUT city campus:\n\nWT building (2 - 14 Wakefield Street) Room WT121. This room is located in the AUT WT tower (2 - 14 Wakefield Street). The lift is locked at 5pm, so the attendees can only come in from the Wakefield Street entrance, which is just up Wakefield street from the buildings main entrance."",
+      ""dateTime"": ""2017-05-24T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/238868269"",
+      ""going"": 28,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lzflsmywhbpb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Data Science & Machine Learning Discussion Group"",
+      ""description"": ""Data Science Discussion Group - House Prices: Advanced Regression Techniques\n\nhttps://www.kaggle.com/c/house-prices-advanced-regression-techniques\n\nThis week we are returning to the house price regression problem, where we will be discussing our latest attempts. We will go around the room, sharing our best score and the techniques which we used, If you were unable to get to the point of making the submission you can share about where you got stuck or ask any questions that came up for you.\n\nWe strongly encourage that you give the competition a good go in the time leading up to the discussion so that we can learn through our experience in the competition:\n\nMeeting Schedule:\n\n6:30 - Meeting / Discussion begins\n\n7:30 - Discussion on what to talk about at next meeting\n\n7:40 - Meeting ends\n\nThis week the discussion will take place in AUT city campus:\n\nWT building (2 - 14 Wakefield Street) and can be accessed through swipe cards. I will have to let all attendees in from the WT reception area. The main entrance gate of the building on Wakefield Street will lock shortly after 6:30pm so you may not be able to get in if you are late."",
+      ""dateTime"": ""2017-05-11T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/238868250"",
+      ""going"": 35,
+      ""waiting"": 2,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lzflsmywjbdc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Data Science & Machine Learning Discussion Group"",
+      ""description"": ""\""The features you use influence more than everything else the result. No algorithm alone, to my knowledge, can supplement the information gain given by correct feature engineering.\"" - Luca Massaron (Kaggle master)\n\nThis week we are discussing a paper on feature selection:\n\nhttp://www.jmlr.org/papers/v10/tuv09a.html\n\nPlease try to read the paper before the meetup. It is fine if you do not understand all of it. The purpose of this meetup is for questions and discussion and to help each other learn. Some of the topics may be quite advanced in this meetup but we encourage members of all levels to attend.\n\nWe at the GridAKL cafe space for this meetup. Thanks to GridAKL for hosting us!"",
+      ""dateTime"": ""2017-06-22T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/239535623"",
+      ""going"": 37,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lzflsmywjblb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Data Science & Machine Learning Discussion Group"",
+      ""description"": ""XGBoost is one of the most effective machine learning algorithms. It has been behind the winning entry of many kaggle competitions. For this meetup we will be discussing a paper titled \""XGBoost: A Scalable Tree Boosting System\"" available here:\n\nhttps://arxiv.org/pdf/1603.02754.pdf\n\nPlease try to read the paper before the meetup. It is fine if you do not understand all of it. The purpose of this meetup is for questions and discussion and to help each other learn. Some of the topics may be quite advanced in this meetup but we encourage members of all levels to attend.\n\nWe are back in the GridAKL cafe space for this meetup. Thanks to GridAKL for hosting us"",
+      ""dateTime"": ""2017-06-08T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/239502725"",
+      ""going"": 40,
+      ""waiting"": 10,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lzflsmywkbbc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Data Science & Machine Learning Discussion Group"",
+      ""description"": ""Data Science Discussion Group - House Prices: Advanced Regression Techniques\n\nhttps://www.kaggle.com/c/house-prices-advanced-regression-techniques\n\nThis week we are returning to the house price regression problem, where we will be discussing our latest attempts. We will go around the room, sharing our best score and the techniques which we used, If you were unable to get to the point of making the submission you can ask questions about where you got stuck. The purpose of this meetup is for questions and discussion and to help each other learn. The topics in this meetup are likely to range from basic to advanced, we encourage members of all levels to attend.\n\nMeeting Schedule:\n\n6:30 - Meeting / Discussion begins\n\n7:30 - Discussion on what to talk about at next meeting\n\n7:40 - Meeting ends\n\nWe are at the GridAKL cafe space for this meetup. Thanks to GridAKL for hosting us!"",
+      ""dateTime"": ""2017-07-20T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/240312618"",
+      ""going"": 40,
+      ""waiting"": 4,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lzflsmywkbjb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Data Science & Machine Learning Discussion Group"",
+      ""description"": ""Data Science Discussion Group - House Prices: Advanced Regression Techniques\n\nhttps://www.kaggle.com/c/house-prices-advanced-regression-techniques\n\nThis week we are returning to the house price regression problem, where we will be discussing our latest attempts. We will go around the room, sharing our best score and the techniques which we used, If you were unable to get to the point of making the submission you can ask questions about where you got stuck. The purpose of this meetup is for questions and discussion and to help each other learn. Some of the topics may be quite advanced in this meetup but we encourage members of all levels to attend.\n\nMeeting Schedule:\n\n6:30 - Meeting / Discussion begins\n\n7:30 - Discussion on what to talk about at next meeting\n\n7:40 - Meeting ends\n\nWe are at the GridAKL cafe space for this meetup. Thanks to GridAKL for hosting us!"",
+      ""dateTime"": ""2017-07-06T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/240312617"",
+      ""going"": 40,
+      ""waiting"": 2,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lzflsmywlbfb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Data Science Discussion Group - New York City Taxi Trip Duration"",
+      ""description"": ""After beating the the house prices competition to death, we are freshening things up with something new. This time we are going to take a look at the \""New York City Taxi Trip Duration\"" competition.\n\nhttps://www.kaggle.com/c/nyc-taxi-trip-duration\n\nPlease try to spend some time before the meetup, attempting this competition so that you can share your experience and ask questions that came up.\n\nWe will go around the room, sharing our best score and the techniques which we used, If you were unable to get to the point of making the submission you can ask questions about where you got stuck. The purpose of this meetup is for questions and discussion and to help each other learn. The topics in this meetup are likely to range from basic to advanced, we encourage members of all levels to attend.\n\nMeeting Schedule:\n\n6:30 - Meeting / Discussion begins\n\n7:30 - Discussion on what to talk about at next meeting\n\n7:40 - Meeting ends\n\nWe are at the GridAKL cafe space for this meetup. Thank You! to GridAKL for hosting us!"",
+      ""dateTime"": ""2017-08-03T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/240983932"",
+      ""going"": 40,
+      ""waiting"": 2,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lzflsmywlbpc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Data Science & Machine Learning Discussion Group"",
+      ""description"": ""This time we are going to take a look at the \""New York City Taxi Trip Duration\"" competition.\n\nhttps://www.kaggle.com/c/nyc-taxi-trip-duration\n\nPlease try to spend some time before the meetup, attempting this competition so that you can share your experience and ask questions that came up.\n\nWe will go around the room, sharing our best score and the techniques which we used, If you were unable to get to the point of making the submission you can ask questions about where you got stuck. The purpose of this meetup is for questions and discussion and to help each other learn. The topics in this meetup are likely to range from basic to advanced, we encourage members of all levels to attend.\n\nMeeting Schedule:\n\n6:30 - Meeting / Discussion begins\n\n7:30 - Discussion on what to talk about at next meeting\n\n7:40 - Meeting ends\n\nPlease only RSVP if you are going to attend. And cancel your RSVP if you are no longer able to make it.\n\nWe are at the GridAKL cafe space for this meetup. Thank You! to GridAKL for hosting us!"",
+      ""dateTime"": ""2017-08-31T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/241003273"",
+      ""going"": 40,
+      ""waiting"": 5,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lzflsmywmblc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Fighting Biases with Dynamic Boosting - Paper Discussion"",
+      ""description"": ""Fighting biases with dynamic boosting\n\nThis meetup will discuss the following paper:\n\nhttps://arxiv.org/pdf/1706.09516.pdf\n\nThere is more information here on this site:\n\nhttps://tech.yandex.com/catboost/\n\nwhere they have made their implementation and documentation available.\n\nPlease attempt to read the paper or use the package before the meetup. We will go around the room, sharing our thoughts and experiences and asking questions about anything we can't understand or anywhere we got stuck. The purpose of this meetup is for questions and discussion and to help each other learn.\n\nThe topics in this meetup are likely to be quite advanced, however we encourage members of all levels to attend.\n\nFollowing the discussion of the paper, we will have a presentation by Don Johnston - Don has been working on his ideas around seasonal forecasting and will be sharing them with the group.\n\nFinally, have a think about any ideas or presentations for the next meetup. If you have submitted on a now closed competition and would like to share your work with the group please let us know. Also if there are any particular topics and you can suggest an article, academic paper or chapter from a book that we may talk about please let us know. We will discuss at the end of the meeting.\n\nMeeting Schedule:\n\n6:30 - Discussion of paper\n\n7:20 - Seasonal Forecasting presentation by Don Johnston\n\n7:35 - Discussion on topics for next meeting\n\n7:40 - Meeting ends\n\nWe are at the GridAKL cafe space for this meetup. Thank You! to GridAKL for hosting us!"",
+      ""dateTime"": ""2017-09-28T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/241871341"",
+      ""going"": 40,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lzflsmywmbsb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Data Science & Machine Learning Discussion Group"",
+      ""description"": ""This time we are going to take a look at the \""New York City Taxi Trip Duration\"" competition.\n\nhttps://www.kaggle.com/c/nyc-taxi-trip-duration\n\nPlease try to spend some time before the meetup, attempting this competition so that you can share your experience and ask questions that came up.\n\nWe will go around the room, sharing our best score and the techniques which we used, If you were unable to get to the point of making the submission you can ask questions about where you got stuck. The purpose of this meetup is for questions and discussion and to help each other learn. The topics in this meetup are likely to range from basic to advanced, we encourage members of all levels to attend.\n\nMeeting Schedule:\n\n6:00 - 6:30 - Start Arriving, informal chat\n\n6:30 - Meeting / Discussion begins\n\n7:30 - Discussion on what to talk about at next meeting\n\n7:40 - Meeting ends"",
+      ""dateTime"": ""2017-09-14T18:30+12:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/241871218"",
+      ""going"": 36,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lzflsmywnbjc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Data Discussion Group - Porto Seguro - THURSDAY 26th Oct @ a Different Venue"",
+      ""description"": ""Date: Thursday 26th of October\n\nVenue: ClearPoint House, Level 3, 7 Fanshaw Street\n\nThis week we will be discussing the Porto Seguro Competition. at a high level and will discuss team formation.\n\nhttps://www.kaggle.com/c/porto-seguro-safe-driver-prediction\n\nPlease look at the competition and attempt it before coming to the meetup. Tony has provided instructions below * for how to get started using R if you are new to kaggle. The purpose of this meetup is to attempt the competition and use the discussion time to comment, share ideas and ask questions.\n\nAlso Harell will be presenting on the Gini coefficient which is used for scoring the predictions on the leaderboard\n\nNote: In order to comply with the Kaggle rules we will not be sharing any executable code unless it is also shared publicly on the Kaggle website.\n\nMeeting Schedule:\n\n6:30 - Introductions\n\n6:35 - Discussion - Porto Seguro Kaggle competition\n\n7:30 - Decide on what to talk about at next meeting\n\n7:40 - Meeting ends\n\nThanks to ClearPoint for hosting us this week.\n\n* Here are the instructions to install R:\n\nDownload R from https://mran.microsoft.com/download/ and install it\nDownload the free RStudio Desktop https://www.rstudio.com/products/rstudio/download/ and install it\nRun Rstudio\nInside RStudio open the R kernel that you downloaded from Kaggle and make sure the kernel is accessing the right location for the train.csv and test.csv you downloaded from Kaggle\nRun the kernel and send the submission file that it created to Kaggle"",
+      ""dateTime"": ""2017-10-26T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/241871344"",
+      ""going"": 39,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lzflsmywnbqb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Data Science Discussion Group - Exploring LightGBM"",
+      ""description"": ""This week we continue our exploration of Gradient Boosting; we will be discussing LightGBM.\n\nHere are some links to get started:\n\nhttps://github.com/Microsoft/LightGBM\n\nhttps://lightgbm.readthedocs.io/en/latest/\n\nWe encourage you to install the package and have a go at using it so that you can share your experience.\n\nIf you find any other documentation or materials related to LightGBM that you find useful, please share them in the comments.\n\nAlso, following on from some of the discussion at the last meetup, Dana will be sharing her method for reading papers that are heavy on mathematical equations.\n\nThere is a new competition on Kaggle https://www.kaggle.com/c/porto-seguro-safe-driver-prediction - we encourage you to take a look before coming and we'll discuss the idea of competing as a team.\n\nMeeting Schedule:\n\n6:30 - Introductions\n\n6:35 - Dana will talk about reading papers that are heavy on mathematical equations\n\n6:45 - Discussion on LightGBM\n\n7:30 - Decide on what to talk about at next meeting\n\n7:40 - Meeting ends\n\nWe are at the GridAKL cafe space for this meetup. Thank You! to GridAKL for hosting us!"",
+      ""dateTime"": ""2017-10-12T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/241871343"",
+      ""going"": 50,
+      ""waiting"": 2,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lzflsmywpbfc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Data Science & Machine Learning Discussion Group"",
+      ""description"": ""This week we will be discussing the Porto Seguro Kaggle Competition at a high level and will discuss team formation.\n\nhttps://www.kaggle.com/c/porto-seguro-safe-driver-prediction\n\nPlease look at the competition and attempt it before coming to the meetup. The real value from this group comes from when people give the competition some effort and can come to the meetup with their ideas and questions that came up for them.\n\nTony has provided instructions below * for how to get started using R if you are new to Kaggle. The purpose of this meetup is to attempt the competition and use the discussion time to comment, share ideas and ask questions.\n\nThis week we encourage you to bring the results of your model to the meetup so that we can share them and each take them away to ensemble for a group submission. See instructions for this below ** You must follow these instructions closely for this to work.\n\nNote: In order to comply with the Kaggle rules we will not be sharing any executable code unless it is also shared publicly on the Kaggle website.\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n\n6:30 - Introductions\n\n6:35 - Discussion - Porto Seguro Kaggle competition\n\n7:30 - Decide on what to talk about at next meeting\n\n7:40 - Meeting ends\n\nThank you to GridAKL for providing the venue!\n\n* Here are the instructions to install R:\n\nDownload R from https://mran.microsoft.com/download/ and install it\nDownload the free RStudio Desktop https://www.rstudio.com/products/rstudio/download/ and install it\nRun Rstudio\nInside RStudio open the R kernel that you downloaded from Kaggle and make sure the kernel is accessing the right location for the train.csv and test.csv you downloaded from Kaggle\nRun the kernel and send the submission file that it created to Kaggle\n\n** Instructions for joining the team to ensemble\n\n1) There are 595212 rows of training data. Split these rows into a training set and a holdout set using id > 1338765 as the holdout\nset. This will produce a training set of 535691 rows and a holdout set of 59521 rows. Put the holdout set aside. Don't use it for\nanything related to your model. Don't use it for feature engineering or validation or ANYTHING.\n\n2) Fit your model using the 535691 rows of the training set.\n\n3) Use the model from (2) to predict the 59521 rows of the holdout set. Save the probabilities into a two column csv file with\nheaders id,target and name the file yourname.yourmodel.yourscore.holdout.csv\n\n4) combine the training data and holdout data into the original 595212 rows of training data\n\n5) repeat step (2) with this new training data - use the same method to fit as in (2) to make sure that the model is the same as (2)\nbut with the benefit of the extra data\n\n6) Use the model from (5) to predict the 892816 rows of the Kaggle test set. Save the probabilities into a two column csv file with\nheaders id,target and name the file yourname.yourmodel.yourscore.test.csv\n\n7) Submit that csv file to Kaggle and record the score\n\n8) Bring both csv files and the score along to the next meeting and also put them in the Dropbox repository https://www.dropbox.com/request/Y97jOmZpK4sJMuIjVJEZ and be prepared to\nsay a few sentences about what you did\n\nAll models are useful even if they score low. \""Weak learners\"" can be built into strong learners. So don't worry about your score.\n\nBring along more models if you want - but try to bring at least one."",
+      ""dateTime"": ""2017-11-23T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/241871346"",
+      ""going"": 45,
+      ""waiting"": 0,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lzflsmywpbmb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Data Science & Machine Learning Discussion Group"",
+      ""description"": ""This week we will be discussing the Porto Seguro Kaggle Competition at a high level and will discuss team formation.\n\nhttps://www.kaggle.com/c/porto-seguro-safe-driver-prediction\n\nPlease look at the competition and attempt it before coming to the meetup. Tony has provided instructions below * for how to get started using R if you are new to Kaggle. The purpose of this meetup is to attempt the competition and use the discussion time to comment, share ideas and ask questions.\n\nNote: In order to comply with the Kaggle rules we will not be sharing any executable code unless it is also shared publicly on the Kaggle website.\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n\n6:30 - Introductions\n\n6:35 - Discussion - Porto Seguro Kaggle competition\n\n7:30 - Decide on what to talk about at next meeting\n\n7:40 - Meeting ends\n\nThank you to GridAKL for providing the venue!\n\n* Here are the instructions to install R:\n\nDownload R from https://mran.microsoft.com/download/ and install it\nDownload the free RStudio Desktop https://www.rstudio.com/products/rstudio/download/ and install it\nRun Rstudio\nInside RStudio open the R kernel that you downloaded from Kaggle and make sure the kernel is accessing the right location for the train.csv and test.csv you downloaded from Kaggle\nRun the kernel and send the submission file that it created to Kaggle"",
+      ""dateTime"": ""2017-11-09T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/241871345"",
+      ""going"": 40,
+      ""waiting"": 3,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lzflsmywqbcc,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Data Science & Machine Learning Discussion Group"",
+      ""description"": ""Escape the madness of Christmas and come on down to our last meet up for the year!\n\nThis time we will have a short presentation from Lei who will be sharing his experiences with gradient boosting methods. Lei has industry experience with companies doing very impressive things in China and has some great insight into applying machine learning.\n\nAlso, we will have a regular discussion format with a wrap up on the porto seguro competition ( https://www.kaggle.com/c/porto-seguro-safe-driver-prediction ). Now that this competition has finished it is a great time to look at some of the winning solutions and learn what the most successful approaches are. Before you come to the meet-up, try to spend some time looking at the competition and one or two of the kernels. Also if you want to keep learning, although the competition is closed you may make late submissions.\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n\n6:30 - Introductions\n\n6:35 - Discussion - Porto Seguro Kaggle competition / presentation from Lei\n\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2017-12-21T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/241871348"",
+      ""going"": 50,
+      ""waiting"": 15,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lzflsmywqbkb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Hadley Wickham and R"",
+      ""description"": ""This week is a change from our regular meetup agenda.\n\nOne of our regular members, Kim, has started a meetup (R-Ladies Auckland - https://www.meetup.com/rladies-auckland/ ) and she has arranged to have Hadley Wickham present 'An Introduction to the Tidyverse'. Hadley Wickham has contributed several popular and widely used open source packages for R collectively known as the \""tidyverse\"".\n\nYou may RSVP here or on the R-Ladies event. Here is the link to this event posted on R-Ladies Auckland:\n\nhttps://www.meetup.com/rladies-auckland/events/245261565/\n\nAlso see the R-Ladies Auckland event page (link above) for more detailed instructions of venue and a map."",
+      ""dateTime"": ""2017-12-07T18:00+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/241871347"",
+      ""going"": 50,
+      ""waiting"": 5,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lzflsmyxcbxb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""Natural Language Processing - Toxic Comment Classification"",
+      ""description"": ""Got some spare time over the Christmas break? Why not get stuck into a Kaggle Competition and refine your data science skills.\n\nThis meetup we will be looking at NLP and discussing the Kaggle Competition \""Toxic Comment Classification Challenge\"" https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge\n\nAs always we encourage you all to attempt the the competition before coming to the meet up. Preferably, by making at least one submission so that we can compare our different approaches.\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n\n6:30 - Introductions\n\n6:35 - Discussion - 'Toxic Comment' Kaggle Competition\n\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2018-01-18T18:00+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/245841249"",
+      ""going"": 50,
+      ""waiting"": 8,
+      ""eventType"": ""physical""
+    }
+  }
+}"
+lzflsmyxdbcb,"{
+  ""data"": {
+    ""event"": {
+      ""title"": ""NLP and Kaggle \""Toxic Comments\"" Competition"",
+      ""description"": ""This meetup we will be taking another look at NLP and discussing the Kaggle Competition \""Toxic Comment Classification Challenge\"" https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge\n\nAs always we encourage you all to attempt the the competition before coming to the meet up. Preferably, by making at least one submission so that we can compare our different approaches.\n\nMeeting Schedule:\n\n6:00 - 6:30 - Arrive at venue\n\n6:30 - Introductions\n\n6:35 - Discussion - 'Toxic Comment' Kaggle Competition\n\n7:30 - Meeting ends\n\nA big 'Thank you' to GridAKL for providing the venue!"",
+      ""dateTime"": ""2018-02-01T18:30+13:00"",
+      ""eventUrl"": ""https://www.meetup.com/Data-Science-Discussion-Auckland/events/245841527"",
+      ""going"": 50,
+      ""waiting"": 1,
+      ""eventType"": ""physical""
+    }
+  }
+}"
