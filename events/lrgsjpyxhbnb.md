@@ -1,5 +1,6 @@
-### Data Science & Machine Learning Discussion Group
-10 May 2018
+## Data Science & Machine Learning Discussion Group
+### 10 May 2018
+RSVPs: 60 | Waiting: 1 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/246203265)
 
 This week we are back with another Kaggle competition: Avito Demand Prediction Challenge https://www.kaggle.com/c/avito-demand-prediction This competition has it all, image classification, text classification and more.
 
@@ -18,8 +19,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/246203265)
-RSVPs: 60
-Waiting: 1
-Event Type: physical

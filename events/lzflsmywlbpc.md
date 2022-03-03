@@ -1,5 +1,6 @@
-### Data Science & Machine Learning Discussion Group
-31 August 2017
+## Data Science & Machine Learning Discussion Group
+### 31 August 2017
+RSVPs: 40 | Waiting: 5 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/241003273)
 
 This time we are going to take a look at the "New York City Taxi Trip Duration" competition.
 
@@ -20,8 +21,3 @@ Meeting Schedule:
 Please only RSVP if you are going to attend. And cancel your RSVP if you are no longer able to make it.
 
 We are at the GridAKL cafe space for this meetup. Thank You! to GridAKL for hosting us!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/241003273)
-RSVPs: 40
-Waiting: 5
-Event Type: physical

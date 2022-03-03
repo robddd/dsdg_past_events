@@ -1,5 +1,6 @@
-### Detecting Fraudulent Customer Transactions (Kaggle Competition)
-1 August 2019
+## Detecting Fraudulent Customer Transactions (Kaggle Competition)
+### 1 August 2019
+RSVPs: 53 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/262092137)
 
 Imagine standing at the check-out counter at the grocery store with a long line behind you and the cashier not-so-quietly announces that your card has been declined. In this moment, you probably aren�t thinking about the data science that determined your fate.
 
@@ -18,8 +19,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/262092137)
-RSVPs: 53
-Waiting: 0
-Event Type: physical

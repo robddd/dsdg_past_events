@@ -1,5 +1,6 @@
-### Predict Flu Vaccinations
-16 July 2020
+## Predict Flu Vaccinations
+### 16 July 2020
+RSVPs: 30 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/271349422)
 
 After several weeks of diving into research papers, this meetup we are going back to our roots of Machine Learning problems. We are going to look at the "Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines" competition. https://www.drivendata.org/competitions/66/flu-shot-learning/
 
@@ -17,8 +18,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/271349422)
-RSVPs: 30
-Waiting: 0
-Event Type: physical

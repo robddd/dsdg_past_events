@@ -1,5 +1,6 @@
-### Recurrent Neural Networks Discussion
-28 February 2019
+## Recurrent Neural Networks Discussion
+### 28 February 2019
+RSVPs: 51 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/257540273)
 
 After a succession of meetups where we looked at the Elo competition, this week we going to look at some blogs and a video on Recurrent Neural Networks (RNNs). RNNs are used to get state of the art results in NLP as well as sequence processing.
 
@@ -20,8 +21,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/257540273)
-RSVPs: 51
-Waiting: 0
-Event Type: physical

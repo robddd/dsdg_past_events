@@ -1,5 +1,6 @@
-### Data Discussion Group - Porto Seguro - THURSDAY 26th Oct @ a Different Venue
-26 October 2017
+## Data Discussion Group - Porto Seguro - THURSDAY 26th Oct @ a Different Venue
+### 26 October 2017
+RSVPs: 39 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/241871344)
 
 Date: Thursday 26th of October
 
@@ -34,8 +35,3 @@ Download the free RStudio Desktop https://www.rstudio.com/products/rstudio/downl
 Run Rstudio
 Inside RStudio open the R kernel that you downloaded from Kaggle and make sure the kernel is accessing the right location for the train.csv and test.csv you downloaded from Kaggle
 Run the kernel and send the submission file that it created to Kaggle
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/241871344)
-RSVPs: 39
-Waiting: 0
-Event Type: physical

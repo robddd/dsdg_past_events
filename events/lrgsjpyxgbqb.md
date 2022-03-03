@@ -1,5 +1,6 @@
-### Data Science Discussion Group - Dynamic Routing Between Capsules
-12 April 2018
+## Data Science Discussion Group - Dynamic Routing Between Capsules
+### 12 April 2018
+RSVPs: 46 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/246203244)
 
 This week at University of Auckland
 
@@ -15,8 +16,3 @@ Meeting Schedule:
 6:30 - Introductions
 6:35 - Discussion - Dynamic Routing Between Capsules
 7:30 - Meeting ends
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/246203244)
-RSVPs: 46
-Waiting: 0
-Event Type: physical

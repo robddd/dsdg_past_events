@@ -1,5 +1,6 @@
-### Abstraction and Reasoning - Kaggle Competition Recap
-18 June 2020
+## Abstraction and Reasoning - Kaggle Competition Recap
+### 18 June 2020
+RSVPs: 29 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/270783044)
 
 This week we will be recapping the recently finished Abstraction and Reasoning competition. The session will commence with a presentation from Julie who finished inside the top 50, earning a silver medal. Julie will speak about her solution to the problem and also about what the winners of the competition did.
 
@@ -23,8 +24,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/270783044)
-RSVPs: 29
-Waiting: 0
-Event Type: physical

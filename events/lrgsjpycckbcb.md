@@ -1,5 +1,6 @@
-### Reward Maximisation to Solve AGI?
-1 July 2021
+## Reward Maximisation to Solve AGI?
+### 1 July 2021
+RSVPs: 29 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/277720921)
 
 This week, we continue our exploration of Reinforcement Learning with an examination of a new paper from some heavy hitters in the field. We will look at the paper �Reward is Enough� by Silver, Singh, Precup and Sutton. https://www.sciencedirect.com/science/article/pii/S0004370221000862
 
@@ -19,8 +20,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/277720921)
-RSVPs: 29
-Waiting: 0
-Event Type: physical

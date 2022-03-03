@@ -1,5 +1,6 @@
-### Dimensionality Reduction Techniques & Earthquake Competition
-21 November 2019
+## Dimensionality Reduction Techniques & Earthquake Competition
+### 21 November 2019
+RSVPs: 34 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/264577554)
 
 Dimensionality Reduction is an important concept for Data Science. It allows us to compress our data and do things like visualise high dimensional data in a 2d or 3d space.
 
@@ -21,8 +22,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/264577554)
-RSVPs: 34
-Waiting: 0
-Event Type: physical

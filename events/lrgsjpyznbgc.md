@@ -1,5 +1,6 @@
-### Feature Engineering for Machine Learning
-24 October 2019
+## Feature Engineering for Machine Learning
+### 24 October 2019
+RSVPs: 59 | Waiting: 8 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/264775437)
 
 Arguably the most important part of Machine Learning is feature engineering. This week we will meet to discuss this interesting and nuanced topic.
 
@@ -44,8 +45,3 @@ http://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-d
 https://arxiv.org/pdf/1909.06772v1.pdf
 - Supervised feature selection with orthogonal regression and feature weighting
 https://arxiv.org/ftp/arxiv/papers/1910/1910.03787.pdf
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/264775437)
-RSVPs: 59
-Waiting: 8
-Event Type: physical

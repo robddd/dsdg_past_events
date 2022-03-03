@@ -1,5 +1,6 @@
-### Natural Language Processing - Toxic Comment Classification
-18 January 2018
+## Natural Language Processing - Toxic Comment Classification
+### 18 January 2018
+RSVPs: 50 | Waiting: 8 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/245841249)
 
 Got some spare time over the Christmas break? Why not get stuck into a Kaggle Competition and refine your data science skills.
 
@@ -18,8 +19,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/245841249)
-RSVPs: 50
-Waiting: 8
-Event Type: physical

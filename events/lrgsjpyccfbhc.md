@@ -1,5 +1,6 @@
-### Introduction to Simulation Competitions
-25 March 2021
+## Introduction to Simulation Competitions
+### 25 March 2021
+RSVPs: 29 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/276200771)
 
 This week we are taking a break from our usual discussion format and are hosting a presentation by Alan Radford: "Introduction to Simulation Competitions on Kaggle"
 
@@ -15,8 +16,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/276200771)
-RSVPs: 29
-Waiting: 0
-Event Type: physical

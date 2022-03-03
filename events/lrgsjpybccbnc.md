@@ -1,5 +1,6 @@
-### First Meetup for 2020!
-30 January 2020
+## First Meetup for 2020!
+### 30 January 2020
+RSVPs: 45 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/267594650)
 
 For the first meetup of the year we would like to discuss the current state of the group and ideas for future meetups. This is your chance to share your thoughts and contribute to the direction of the group for 2020.
 
@@ -18,8 +19,3 @@ Meeting Schedule:
 A big 'Thank you' to GridAKL for providing the venue!
 
 We look forward to seeing you!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/267594650)
-RSVPs: 45
-Waiting: 0
-Event Type: physical

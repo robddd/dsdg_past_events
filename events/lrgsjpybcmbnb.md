@@ -1,5 +1,6 @@
-### Handling Missing Values & The Flu Competition (ONLINE)
-10 September 2020
+## Handling Missing Values & The Flu Competition (ONLINE)
+### 10 September 2020
+RSVPs: 30 | Waiting: 3 | Event Type: online | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/271933153)
 
 This week we are focussing on what to do when we have missing data. And also the "Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines" competition: https://www.drivendata.org/competitions/66/flu-shot-learning/ (Which has a lot of missing data).
 
@@ -18,8 +19,3 @@ Meeting Schedule:
 6:35 - Discussion
 7:25 - Discuss and decide on next topic
 7:30 - Meeting ends
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/271933153)
-RSVPs: 30
-Waiting: 3
-Event Type: online

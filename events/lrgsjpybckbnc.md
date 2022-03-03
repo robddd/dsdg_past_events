@@ -1,5 +1,6 @@
-### Stacking Methods and Flu Competition
-30 July 2020
+## Stacking Methods and Flu Competition
+### 30 July 2020
+RSVPs: 20 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/271550920)
 
 Last week the flu competition gave us plenty to talk about, and we didn't get sick of it. One of the topics which repeatedly came up was the multi labelling and the potential for "Stacking" models. This week we will look into stacking as well as continue with the flu competition https://www.drivendata.org/competitions/66/flu-shot-learning/
 
@@ -21,8 +22,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/271550920)
-RSVPs: 20
-Waiting: 0
-Event Type: physical

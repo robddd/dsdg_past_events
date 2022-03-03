@@ -1,5 +1,6 @@
-### Correlation Does Not Imply Causation
-11 February 2021
+## Correlation Does Not Imply Causation
+### 11 February 2021
+RSVPs: 29 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/275747487)
 
 Causal Inference:
 
@@ -26,8 +27,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/275747487)
-RSVPs: 29
-Waiting: 0
-Event Type: physical

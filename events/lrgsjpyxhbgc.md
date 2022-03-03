@@ -1,5 +1,6 @@
-### Data Science & Machine Learning Discussion Group
-24 May 2018
+## Data Science & Machine Learning Discussion Group
+### 24 May 2018
+RSVPs: 38 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/246203269)
 
 Different Venue for this week:
 University of Auckland - Room: 303-G15
@@ -21,8 +22,3 @@ Meeting Schedule:
 6:35 - Discussion
 7:25 - Discuss and decide on next topic
 7:30 - Meeting ends
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/246203269)
-RSVPs: 38
-Waiting: 0
-Event Type: physical

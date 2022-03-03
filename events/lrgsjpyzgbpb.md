@@ -1,5 +1,6 @@
-### Fastai ML course recap
-11 April 2019
+## Fastai ML course recap
+### 11 April 2019
+RSVPs: 60 | Waiting: 14 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/259128613)
 
 Some of our members have been working through the fast ai course "Introduction to Machine Learning". This course presents a framework for how to work through a Kaggle Competition effficiently and to solve real life machine learning problems.
 
@@ -18,8 +19,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/259128613)
-RSVPs: 60
-Waiting: 14
-Event Type: physical

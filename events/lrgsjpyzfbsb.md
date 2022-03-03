@@ -1,5 +1,6 @@
-### Intro to Reinforcement Learning - Reading Group
-14 March 2019
+## Intro to Reinforcement Learning - Reading Group
+### 14 March 2019
+RSVPs: 56 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/258571870)
 
 Reinforcement Learning is a topic which has come up as a suggestion quite frequently in the last few months. And this meeting it is what we will discuss.
 
@@ -18,8 +19,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/258571870)
-RSVPs: 56
-Waiting: 0
-Event Type: physical

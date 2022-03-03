@@ -1,5 +1,6 @@
-### Modelling Earthquake Damage Competition
-6 June 2019
+## Modelling Earthquake Damage Competition
+### 6 June 2019
+RSVPs: 52 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/260500403)
 
 The only real way to learn Data Science is by getting your hands dirty. And thats what we will be doing for the next meetup. Last meetup we looked at this competition and had plenty of people participating and entering so this meetup we are back for more. We will be looking at the 'Richter's Predictor: Modelling Earthquake Damage' competition: https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/
 
@@ -17,8 +18,3 @@ Meeting Schedule:
 
 A big 'Thank you' to GridAKL for providing the venue!
 Discuss Data Science
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/260500403)
-RSVPs: 52
-Waiting: 0
-Event Type: physical

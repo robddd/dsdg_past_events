@@ -1,5 +1,6 @@
-### Mechanisms of Action Prediction
-19 November 2020
+## Mechanisms of Action Prediction
+### 19 November 2020
+RSVPs: 24 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/274085697)
 
 With the contest deadline falling a few days after this meeting, this will be our last chance to look at the competition while it is live. This competition is a great chance to practice: using Neural Networks for tabular data, using Pytorch and/or Tensorflow, training on the Kaggle GPU kernels, multi-label data, stacking, and a lot more! So, set some time aside and take a look at the Kaggle competition: Mechanisms of Action (MoA) Prediction https://www.kaggle.com/c/lish-moa
 
@@ -17,8 +18,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/274085697)
-RSVPs: 24
-Waiting: 0
-Event Type: physical

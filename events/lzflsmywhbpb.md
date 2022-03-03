@@ -1,5 +1,6 @@
-### Data Science & Machine Learning Discussion Group
-11 May 2017
+## Data Science & Machine Learning Discussion Group
+### 11 May 2017
+RSVPs: 35 | Waiting: 2 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/238868250)
 
 Data Science Discussion Group - House Prices: Advanced Regression Techniques
 
@@ -20,8 +21,3 @@ Meeting Schedule:
 This week the discussion will take place in AUT city campus:
 
 WT building (2 - 14 Wakefield Street) and can be accessed through swipe cards. I will have to let all attendees in from the WT reception area. The main entrance gate of the building on Wakefield Street will lock shortly after 6:30pm so you may not be able to get in if you are late.
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/238868250)
-RSVPs: 35
-Waiting: 2
-Event Type: physical

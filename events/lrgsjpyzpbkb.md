@@ -1,5 +1,6 @@
-### Feature Engineering for Machine Learning
-7 November 2019
+## Feature Engineering for Machine Learning
+### 7 November 2019
+RSVPs: 45 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/265385162)
 
 Note: Originally we were to discuss this topic on October 24th, but we postponed due to effects of the fire in Auckland CBD.
 
@@ -46,8 +47,3 @@ http://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-d
 https://arxiv.org/pdf/1909.06772v1.pdf
 - Supervised feature selection with orthogonal regression and feature weighting
 https://arxiv.org/ftp/arxiv/papers/1910/1910.03787.pdf
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/265385162)
-RSVPs: 45
-Waiting: 0
-Event Type: physical

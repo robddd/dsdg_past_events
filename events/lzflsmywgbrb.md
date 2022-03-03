@@ -1,5 +1,6 @@
-### Data Science & Machine Learning Discussion Group - Kaggle - House Prices
-13 April 2017
+## Data Science & Machine Learning Discussion Group - Kaggle - House Prices
+### 13 April 2017
+RSVPs: 40 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/238177052)
 
 Kaggle - House Price Regression competition
 
@@ -14,8 +15,3 @@ Also, those that make submissions, bring your best submission .csv file and we w
 And please cancel your RSVP if you are not going to be able make it.
 
 We are back in the GridAKL cafe space for this meetup. Thanks to GridAKL for hosting us!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/238177052)
-RSVPs: 40
-Waiting: 0
-Event Type: physical

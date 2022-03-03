@@ -1,5 +1,6 @@
-### Fighting Biases with Dynamic Boosting - Paper Discussion
-28 September 2017
+## Fighting Biases with Dynamic Boosting - Paper Discussion
+### 28 September 2017
+RSVPs: 40 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/241871341)
 
 Fighting biases with dynamic boosting
 
@@ -32,8 +33,3 @@ Meeting Schedule:
 7:40 - Meeting ends
 
 We are at the GridAKL cafe space for this meetup. Thank You! to GridAKL for hosting us!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/241871341)
-RSVPs: 40
-Waiting: 0
-Event Type: physical

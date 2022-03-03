@@ -1,5 +1,6 @@
-### Modelling Earthquake Damage Competition
-9 May 2019
+## Modelling Earthquake Damage Competition
+### 9 May 2019
+RSVPs: 59 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/260076659)
 
 After a looking at a few research papers and reviewing the fastai course we are going back to getting out hands dirty. We will be looking at the 'Richter's Predictor: Modelling Earthquake Damage' competition: https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/
 
@@ -17,8 +18,3 @@ Meeting Schedule:
 
 A big 'Thank you' to GridAKL for providing the venue!
 Discuss Data Science
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/260076659)
-RSVPs: 59
-Waiting: 0
-Event Type: physical

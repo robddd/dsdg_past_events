@@ -1,5 +1,6 @@
-### Predict Customer Revenue - Kaggle Competition
-11 October 2018
+## Predict Customer Revenue - Kaggle Competition
+### 11 October 2018
+RSVPs: 46 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/253689774)
 
 Got plans for the next few weekends? Change them and get working on predicting customer revenue.
 
@@ -18,8 +19,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/253689774)
-RSVPs: 46
-Waiting: 0
-Event Type: physical

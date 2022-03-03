@@ -1,5 +1,6 @@
-### DRL to win at Poker and Games of Imperfect Information
-15 July 2021
+## DRL to win at Poker and Games of Imperfect Information
+### 15 July 2021
+RSVPs: 26 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/277720911)
 
 "Many real-world applications can be described as large-scale games of imperfect information"
 
@@ -21,8 +22,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/277720911)
-RSVPs: 26
-Waiting: 0
-Event Type: physical

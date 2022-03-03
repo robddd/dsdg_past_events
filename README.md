@@ -1,5 +1,4 @@
-# Data Science Discussion Group Auckland
-## Past Events
+# Data Science Discussion Group Auckland - Past Events
 
 ### 2022
 * [27 January - AI for Scientific Discovery](events/lrgsjpydccbkc)

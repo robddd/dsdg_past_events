@@ -1,5 +1,6 @@
-### The Transformer (NLP)
-23 April 2020
+## The Transformer (NLP)
+### 23 April 2020
+RSVPs: 41 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/269648857)
 
 Our group survey earlier in the year showed that there are a lot of people interested in NLP topics. This week, we are going to look at the model architecture which has, in the last few years dominated the leaderboards for the highest performance over different NLP tasks.
 
@@ -16,8 +17,3 @@ As always we encourage you to read the material before coming to the meet up. It
 Have a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end.
 
 Information about connecting to the meeting will be sent out closer to the time.
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/269648857)
-RSVPs: 41
-Waiting: 0
-Event Type: physical

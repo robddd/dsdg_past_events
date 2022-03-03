@@ -1,5 +1,6 @@
-### Predicting Credit Default Risk - Kaggle Competition
-19 July 2018
+## Predicting Credit Default Risk - Kaggle Competition
+### 19 July 2018
+RSVPs: 42 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/251313884)
 
 This week we are back with a new Kaggle competition: https://www.kaggle.com/c/home-credit-default-risk/data
 
@@ -16,8 +17,3 @@ Meeting Schedule:
 7:35 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/251313884)
-RSVPs: 42
-Waiting: 0
-Event Type: physical

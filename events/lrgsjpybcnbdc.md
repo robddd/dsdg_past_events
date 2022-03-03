@@ -1,5 +1,6 @@
-### Mechanisms of Action (MoA) Prediction
-22 October 2020
+## Mechanisms of Action (MoA) Prediction
+### 22 October 2020
+RSVPs: 21 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/272808808)
 
 We are back at Grid with our first in-person meetup in a while!
 
@@ -21,8 +22,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/272808808)
-RSVPs: 21
-Waiting: 0
-Event Type: physical

@@ -1,5 +1,6 @@
-### Data Science & Machine Learning Discussion Group
-21 December 2017
+## Data Science & Machine Learning Discussion Group
+### 21 December 2017
+RSVPs: 50 | Waiting: 15 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/241871348)
 
 Escape the madness of Christmas and come on down to our last meet up for the year!
 
@@ -18,8 +19,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/241871348)
-RSVPs: 50
-Waiting: 15
-Event Type: physical

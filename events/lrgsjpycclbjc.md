@@ -1,5 +1,6 @@
-### Predicting Volatility - Kaggle Competition
-26 August 2021
+## Predicting Volatility - Kaggle Competition
+### 26 August 2021
+RSVPs: 26 | Waiting: 0 | Event Type: online | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/280000330)
 
 NOTE: THIS WEEK WE WILL BE ON ZOOM AS WE ARE IN THE LOCKDOWN.
 An email will be sent to all who have RSVP'd an hour before the meeting is due to start.
@@ -24,8 +25,3 @@ Meeting Schedule:
 6:35 - Discussion
 7:25 - Nominate and vote for following meeting's next topic
 7:30 - Meeting ends
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/280000330)
-RSVPs: 26
-Waiting: 0
-Event Type: online

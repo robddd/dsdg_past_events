@@ -1,5 +1,6 @@
-### Earthquake Damage Prediction
-19 December 2019
+## Earthquake Damage Prediction
+### 19 December 2019
+RSVPs: 36 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/266366668)
 
 It's our final meetup of the year and our final chance to meet before the deadline of the Earthquake competition: https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/ . This competition has proved to be an interesting one for all who have attempted it.
 
@@ -19,8 +20,3 @@ Meeting Schedule:
 
 A big 'Thank you' to GridAKL for providing the venue!
 Discuss Data Science
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/266366668)
-RSVPs: 36
-Waiting: 0
-Event Type: physical

@@ -1,5 +1,6 @@
-### Data Science Discussion - Fraud Detection Competition
-26 April 2018
+## Data Science Discussion - Fraud Detection Competition
+### 26 April 2018
+RSVPs: 60 | Waiting: 6 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/246203248)
 
 After a couple of weeks getting deep into the world of deep learning research papers we are mixing things up and looking at a Kaggle competition.
 
@@ -18,8 +19,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/246203248)
-RSVPs: 60
-Waiting: 6
-Event Type: physical

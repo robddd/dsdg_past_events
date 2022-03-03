@@ -1,5 +1,6 @@
-### Data Science & Machine Learning Discussion Group
-9 November 2017
+## Data Science & Machine Learning Discussion Group
+### 9 November 2017
+RSVPs: 40 | Waiting: 3 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/241871345)
 
 This week we will be discussing the Porto Seguro Kaggle Competition at a high level and will discuss team formation.
 
@@ -30,8 +31,3 @@ Download the free RStudio Desktop https://www.rstudio.com/products/rstudio/downl
 Run Rstudio
 Inside RStudio open the R kernel that you downloaded from Kaggle and make sure the kernel is accessing the right location for the train.csv and test.csv you downloaded from Kaggle
 Run the kernel and send the submission file that it created to Kaggle
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/241871345)
-RSVPs: 40
-Waiting: 3
-Event Type: physical

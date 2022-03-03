@@ -1,5 +1,6 @@
-### Unsupervised Learning with Clustering Techniques
-18 July 2019
+## Unsupervised Learning with Clustering Techniques
+### 18 July 2019
+RSVPs: 60 | Waiting: 8 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/261479108)
 
 After going deep with the Earthquake Damage Prediction Competition. We are taking a slight turn towards taking a deep dive into clustering techniques. Potentially very powerful for the competition that we have just looked at, clustering can be a great way to utilise unlabelled data.
 
@@ -24,8 +25,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/261479108)
-RSVPs: 60
-Waiting: 8
-Event Type: physical

@@ -1,5 +1,6 @@
-### Most Important Ideas of Last 50 years
-28 January 2021
+## Most Important Ideas of Last 50 years
+### 28 January 2021
+RSVPs: 57 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/275384725)
 
 This meetup we are having a reading group. We will read the paper beforehand then use the meetup to discuss the ideas and as questions.
 
@@ -21,8 +22,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/275384725)
-RSVPs: 57
-Waiting: 0
-Event Type: physical

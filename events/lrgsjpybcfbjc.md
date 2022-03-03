@@ -1,5 +1,6 @@
-### AI - ARC Competition (Video Conference)
-26 March 2020
+## AI - ARC Competition (Video Conference)
+### 26 March 2020
+RSVPs: 23 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/269030166)
 
 IMPORTANT NOTE: This week we will NOT be meeting in person. The meeting will be on Zoom, those who RSVP will get a link sent out to them.
 
@@ -18,8 +19,3 @@ Meeting Schedule:
 6:35 - Discussion
 7:25 - Discuss and decide on next topic
 7:30 - Meeting ends
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/269030166)
-RSVPs: 23
-Waiting: 0
-Event Type: physical

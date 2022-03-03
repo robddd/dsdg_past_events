@@ -1,5 +1,6 @@
-### Data Science & Machine Learning Discussion Group
-23 November 2017
+## Data Science & Machine Learning Discussion Group
+### 23 November 2017
+RSVPs: 45 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/241871346)
 
 This week we will be discussing the Porto Seguro Kaggle Competition at a high level and will discuss team formation.
 
@@ -62,8 +63,3 @@ say a few sentences about what you did
 All models are useful even if they score low. "Weak learners" can be built into strong learners. So don't worry about your score.
 
 Bring along more models if you want - but try to bring at least one.
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/241871346)
-RSVPs: 45
-Waiting: 0
-Event Type: physical

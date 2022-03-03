@@ -1,5 +1,6 @@
-### Exploring AutoML
-13 September 2018
+## Exploring AutoML
+### 13 September 2018
+RSVPs: 60 | Waiting: 3 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/253364915)
 
 Is AutoML going to live up to the hype? Or is it just an over-hyped hyper-parameter search?
 
@@ -31,8 +32,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/253364915)
-RSVPs: 60
-Waiting: 3
-Event Type: physical

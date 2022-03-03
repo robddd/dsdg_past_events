@@ -1,5 +1,6 @@
-### Can you infer causation from observational data?
-11 March 2021
+## Can you infer causation from observational data?
+### 11 March 2021
+RSVPs: 37 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/275747564)
 
 If we want to determine causation our preference is to conduct a randomised controlled trial. But what if costs make that prohibitive? What if it just is not possible for the system/process that we are investigating?
 
@@ -21,8 +22,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/275747564)
-RSVPs: 37
-Waiting: 0
-Event Type: physical

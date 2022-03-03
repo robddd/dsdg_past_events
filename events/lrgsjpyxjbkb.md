@@ -1,5 +1,6 @@
-### Embeddings for Categorical Variables
-7 June 2018
+## Embeddings for Categorical Variables
+### 7 June 2018
+RSVPs: 44 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/246203272)
 
 This week we are back at GridAKL and will be discussing a relatively new technique of creating embeddings for categorical variables. This technique allows you to take advantage of the power of deep learning with categorical data and has been used to win recent Kaggle competitions.
 
@@ -25,8 +26,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/246203272)
-RSVPs: 44
-Waiting: 0
-Event Type: physical

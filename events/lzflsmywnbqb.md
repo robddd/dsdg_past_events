@@ -1,5 +1,6 @@
-### Data Science Discussion Group - Exploring LightGBM
-12 October 2017
+## Data Science Discussion Group - Exploring LightGBM
+### 12 October 2017
+RSVPs: 50 | Waiting: 2 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/241871343)
 
 This week we continue our exploration of Gradient Boosting; we will be discussing LightGBM.
 
@@ -30,8 +31,3 @@ Meeting Schedule:
 7:40 - Meeting ends
 
 We are at the GridAKL cafe space for this meetup. Thank You! to GridAKL for hosting us!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/241871343)
-RSVPs: 50
-Waiting: 2
-Event Type: physical

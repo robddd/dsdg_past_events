@@ -1,5 +1,6 @@
-### Time Series & Predicting Volatility
-9 September 2021
+## Time Series & Predicting Volatility
+### 9 September 2021
+RSVPs: 25 | Waiting: 0 | Event Type: online | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/280353628)
 
 Thanks to everyone who joined the call last week. It was an interesting discussion. We are going to continue with the https://www.kaggle.com/c/optiver-realized-volatility-prediction/ competition. For those yet to start, there were several recommendations for using this notebook https://www.kaggle.com/jiashenliu/introduction-to-financial-concepts-and-data as a way of getting familiar with the competition.
 
@@ -19,8 +20,3 @@ Meeting Schedule:
 6:35 - Discussion
 7:25 - Nominate and vote for following meeting's next topic
 7:30 - Meeting ends
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/280353628)
-RSVPs: 25
-Waiting: 0
-Event Type: online

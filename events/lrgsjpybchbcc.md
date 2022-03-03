@@ -1,5 +1,6 @@
-### A Path to the Fundamental Theory of Physics
-21 May 2020
+## A Path to the Fundamental Theory of Physics
+### 21 May 2020
+RSVPs: 38 | Waiting: 0 | Event Type: online | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/270411000)
 
 This week we have something a little bit different... We are going to be reviewing and discussing the recent blogpost by Stephen Wolfram entitled "Finally We May Have a Path to the Fundamental Theory of Physics� and It�s Beautiful" The discussion will start with a review of Wolfram's work presented by John Graves.
 
@@ -14,8 +15,3 @@ As always we encourage you to read the material before coming to the meet up. It
 Have a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end.
 
 We will be most likely holding this event online, given the recent circumstances. Information about connecting to the meeting will be sent out closer to the time.
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/270411000)
-RSVPs: 38
-Waiting: 0
-Event Type: online

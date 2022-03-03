@@ -1,5 +1,6 @@
-### Predicting Credit Wrap up & Ask a Data Science Question
-30 August 2018
+## Predicting Credit Wrap up & Ask a Data Science Question
+### 30 August 2018
+RSVPs: 32 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/253507135)
 
 With home 'Home Credit Default Risk' competition: https://www.kaggle.com/c/home-credit-default-risk/data closing on this day, we will come back for a final wrap up.
 
@@ -18,8 +19,3 @@ Meeting Schedule:
 7:35 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/253507135)
-RSVPs: 32
-Waiting: 0
-Event Type: physical

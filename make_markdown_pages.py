@@ -25,9 +25,26 @@ df['dateTime'] = pd.to_datetime(df['dateTime'])
 df = df.sort_values(by='dateTime', ascending=False)
 df.head()
 # %%
+def write_lines_to_file(out_fn, lines_list):
+    with open(out_fn, 'w') as f:
+        for l in lines_list:
+            f.write(f'{l}\n')
+
+
+def make_event_page(row):
+    date = pd.Timestamp(row['dateTime'])
+    event_lines = [
+        f'## {row["title"]}',
+        f'### {date.day} {date.month_name()} {date.year}',
+        f'RSVPs: {row["going"]} | Waiting: {row["waiting"]} | Event Type: {row["eventType"]} | [Meetup Event Link]({row["eventUrl"]})',
+        '',
+        row['description']
+        ]
+    write_lines_to_file(f'events/{row["meeting_id"]}.md', event_lines)
+# %%
+
 lines = [
-    '# Data Science Discussion Group Auckland',
-    '## Past Events'
+    '# Data Science Discussion Group Auckland - Past Events'
 ]
 
 current_year = None
@@ -40,9 +57,9 @@ for i, row in df.iterrows():
     link_name = f'{date.day} {date.month_name()} - {row["title"]}'
     link_url = f'events/{row["meeting_id"]}'
     lines.append(f'* [{link_name}]({link_url})')
+    make_event_page(row)
 
 # %%
-with open('README.md', 'w') as f:
-    for l in lines:
-        f.write(f'{l}\n')
+
+write_lines_to_file('README.md', lines)
 # %%

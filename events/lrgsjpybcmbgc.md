@@ -1,5 +1,6 @@
-### Mechanisms of Action Prediction (ONLINE)
-24 September 2020
+## Mechanisms of Action Prediction (ONLINE)
+### 24 September 2020
+RSVPs: 25 | Waiting: 0 | Event Type: online | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/273156810)
 
 Tabular datasets are our bread and butter, we eagerly check our emails multiple times per day, hoping that Kaggle are going to announce a new competition with a tabular dataset. Sadly, these emails are becoming further and further apart. Although, last week, one such email arrived.
 
@@ -10,8 +11,3 @@ As always we encourage you all to attempt the competition before coming to the m
 Have a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end
 
 Please note, we intend to have this meetup online but may move to our regular venue depending on the Alert level. If this is the case an email will be sent out and this description will be updated. If online proceeds, connection information will be sent out by email through meetup to those who have RSVP'd.
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/273156810)
-RSVPs: 25
-Waiting: 0
-Event Type: online

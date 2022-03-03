@@ -1,5 +1,6 @@
-### Graph Neural Networks
-13 February 2020
+## Graph Neural Networks
+### 13 February 2020
+RSVPs: 45 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/267801955)
 
 Thanks to everyone who filled out our survey and came to the meetup last week. At the meetup we took a vote at the for the next topic and the winner was "Graph Neural Networks". They're so hot right now! What are they? How do they work? How are they trained? How useful are they? So many question�
 
@@ -35,8 +36,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/267801955)
-RSVPs: 45
-Waiting: 0
-Event Type: physical

@@ -1,5 +1,6 @@
-### Model Evaluation and Selection + MOA Competition
-3 December 2020
+## Model Evaluation and Selection + MOA Competition
+### 3 December 2020
+RSVPs: 28 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/274085706)
 
 How do you know how well your model will perform on real world data? How do you know if one model has a real performance edge over another? These questions may seem simple enough, but as you go deeper often you find yourself with more questions than answers. This paper attempts to help navigate these murky waters and will be the main focus of this meetup: https://arxiv.org/pdf/1811.12808.pdf
 
@@ -17,8 +18,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/274085706)
-RSVPs: 28
-Waiting: 0
-Event Type: physical

@@ -1,5 +1,6 @@
-### Implementing Deep Learning with Tabular Data
-2 December 2021
+## Implementing Deep Learning with Tabular Data
+### 2 December 2021
+RSVPs: 31 | Waiting: 0 | Event Type: online | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/281417328)
 
 Last week we looked at this great survey paper https://arxiv.org/abs/2110.01889v1 for Deep Learning with Tabular data.
 
@@ -26,8 +27,3 @@ Meeting Schedule:
 6:35 - Discussion
 7:25 - Nominate and vote for following meeting's next topic
 7:30 - Meeting ends
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/281417328)
-RSVPs: 31
-Waiting: 0
-Event Type: online

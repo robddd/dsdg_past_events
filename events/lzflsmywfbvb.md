@@ -1,5 +1,6 @@
-### Discussion of Kaggle Competition: House Prices & Exploratory Data Analysis
-16 March 2017
+## Discussion of Kaggle Competition: House Prices & Exploratory Data Analysis
+### 16 March 2017
+RSVPs: 36 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/238174855)
 
 Please join us to discuss the Kaggle Competition "House Prices: Advanced Regression Techniques" https://www.kaggle.com/c/house-prices-advanced-regression-techniques as well as Exploratory Data Analysis (EDA).
 
@@ -14,8 +15,3 @@ Schedule of meeting
 6:30 Discussion begins
 
 7:30 Discussion ends and vote for topic of next meeting
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/238174855)
-RSVPs: 36
-Waiting: 0
-Event Type: physical

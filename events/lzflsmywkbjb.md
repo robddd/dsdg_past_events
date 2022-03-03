@@ -1,5 +1,6 @@
-### Data Science & Machine Learning Discussion Group
-6 July 2017
+## Data Science & Machine Learning Discussion Group
+### 6 July 2017
+RSVPs: 40 | Waiting: 2 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/240312617)
 
 Data Science Discussion Group - House Prices: Advanced Regression Techniques
 
@@ -16,8 +17,3 @@ Meeting Schedule:
 7:40 - Meeting ends
 
 We are at the GridAKL cafe space for this meetup. Thanks to GridAKL for hosting us!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/240312617)
-RSVPs: 40
-Waiting: 2
-Event Type: physical

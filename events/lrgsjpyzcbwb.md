@@ -1,5 +1,6 @@
-### Elo Merchant Category Recommendation - Kaggle competition
-17 January 2019
+## Elo Merchant Category Recommendation - Kaggle competition
+### 17 January 2019
+RSVPs: 32 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/256963380)
 
 This meetup we will be looking at the Elo Merchant Category Recommendation Kaggle competition: https://www.kaggle.com/c/elo-merchant-category-recommendation With Christmas and New Year holidays, what a great chance to get some time away from the abundance of family members and brush up those data science skills
 
@@ -18,8 +19,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/256963380)
-RSVPs: 32
-Waiting: 0
-Event Type: physical

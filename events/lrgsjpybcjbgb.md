@@ -1,5 +1,6 @@
-### The Current State of Deep Learning - Reading Group
-4 June 2020
+## The Current State of Deep Learning - Reading Group
+### 4 June 2020
+RSVPs: 40 | Waiting: 5 | Event Type: online | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/269969161)
 
 Deep Learning is continuing to make rapid progress. With no limit in sight, we thought now would be a great time to hold a reading group on the current state of the technology. We will be focusing on the research paper "A Survey of Deep Learning for Scientific Discovery" https://arxiv.org/pdf/2003.11755.pdf
 
@@ -19,8 +20,3 @@ Meeting Schedule:
 6:35 - Discussion
 7:25 - Discuss and decide on next topic
 7:30 - Meeting ends
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/269969161)
-RSVPs: 40
-Waiting: 5
-Event Type: online

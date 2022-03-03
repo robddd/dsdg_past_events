@@ -1,5 +1,6 @@
-### Earthquake Damage Prediction
-26 September 2019
+## Earthquake Damage Prediction
+### 26 September 2019
+RSVPs: 33 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/263605958)
 
 The only real way to learn Data Science is by getting your hands dirty. And thats what we will be doing for the next meetup. This competition is proving to be interesting for people new to Machine Learning, and experienced practitioners alike.
 
@@ -19,8 +20,3 @@ Meeting Schedule:
 
 A big 'Thank you' to GridAKL for providing the venue!
 Discuss Data Science
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/263605958)
-RSVPs: 33
-Waiting: 0
-Event Type: physical

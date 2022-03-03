@@ -1,5 +1,6 @@
-### AI - Abstraction and Reasoning
-12 March 2020
+## AI - Abstraction and Reasoning
+### 12 March 2020
+RSVPs: 36 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/268943903)
 
 With a bit of a mixup last week, we were unable to have the meeting. Since there has been a lot of interest from our members, we decided to continue this topic for this meetup. Come along and get an insight into the future of machine intelligence!
 
@@ -24,8 +25,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/268943903)
-RSVPs: 36
-Waiting: 0
-Event Type: physical

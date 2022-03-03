@@ -1,5 +1,6 @@
-### Data Science & Machine Learning Discussion Group
-14 September 2017
+## Data Science & Machine Learning Discussion Group
+### 14 September 2017
+RSVPs: 36 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/241871218)
 
 This time we are going to take a look at the "New York City Taxi Trip Duration" competition.
 
@@ -18,8 +19,3 @@ Meeting Schedule:
 7:30 - Discussion on what to talk about at next meeting
 
 7:40 - Meeting ends
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/241871218)
-RSVPs: 36
-Waiting: 0
-Event Type: physical

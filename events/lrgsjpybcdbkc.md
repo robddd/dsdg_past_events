@@ -1,5 +1,6 @@
-### AI - Abstraction and Reasoning
-27 February 2020
+## AI - Abstraction and Reasoning
+### 27 February 2020
+RSVPs: 47 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/268229103)
 
 We have all seen Machine Learning models using vast quantities of data to beat human level performance at narrowly defined specific tasks. But what about algorithms that generalise to many tasks and recognise patterns given only a few examples?
 
@@ -20,8 +21,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/268229103)
-RSVPs: 47
-Waiting: 0
-Event Type: physical

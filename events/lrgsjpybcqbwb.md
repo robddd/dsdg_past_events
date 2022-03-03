@@ -1,5 +1,6 @@
-### AlphaFold: a solution to a 50-year-old grand challenge in biology
-17 December 2020
+## AlphaFold: a solution to a 50-year-old grand challenge in biology
+### 17 December 2020
+RSVPs: 25 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/274085712)
 
 Excerpt from DeepMind's blog post:
 
@@ -24,8 +25,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/274085712)
-RSVPs: 25
-Waiting: 0
-Event Type: physical

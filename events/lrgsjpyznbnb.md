@@ -1,5 +1,6 @@
-### Class Imbalance with XGBoost
-10 October 2019
+## Class Imbalance with XGBoost
+### 10 October 2019
+RSVPs: 32 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/264448601)
 
 Does your cat and dog classifier dataset only have 100 pictures of cats and 5000 pictures of dogs? Does the thought of obtaining 4900 more cat photos to make your dataset balanced make you feel nauseous?
 
@@ -21,8 +22,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/264448601)
-RSVPs: 32
-Waiting: 0
-Event Type: physical

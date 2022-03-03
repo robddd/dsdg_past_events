@@ -1,5 +1,6 @@
-### Image Classification with Deep CNNs
-29 March 2018
+## Image Classification with Deep CNNs
+### 29 March 2018
+RSVPs: 50 | Waiting: 2 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/246203237)
 
 This week we are switching gears and will be discussing a seminal paper in the domain of image classification entitled 'ImageNet Classification with Deep Convolutional Neural Networks'
 
@@ -20,8 +21,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/246203237)
-RSVPs: 50
-Waiting: 2
-Event Type: physical

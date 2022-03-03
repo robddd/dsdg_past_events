@@ -1,5 +1,6 @@
-### How Important is the Data?
-7 October 2021
+## How Important is the Data?
+### 7 October 2021
+RSVPs: 38 | Waiting: 0 | Event Type: online | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/280353634)
 
 How important is the data?
 � Does it not really matter since you can use fill in the blank state of the art model and all of your problems will be solved?
@@ -22,8 +23,3 @@ Meeting Schedule:
 6:35 - Discussion
 7:25 - Nominate and vote for following meeting's next topic
 7:30 - Meeting ends
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/280353634)
-RSVPs: 38
-Waiting: 0
-Event Type: online

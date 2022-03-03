@@ -1,5 +1,6 @@
-### Category Recommendation - Kaggle Elo Competition
-20 December 2018
+## Category Recommendation - Kaggle Elo Competition
+### 20 December 2018
+RSVPs: 55 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/253689796)
 
 Come along to our last meetup of the year where we will be looking at the Elo Merchant Category Recommendation Kaggle competition: https://www.kaggle.com/c/elo-merchant-category-recommendation
 
@@ -16,8 +17,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/253689796)
-RSVPs: 55
-Waiting: 0
-Event Type: physical

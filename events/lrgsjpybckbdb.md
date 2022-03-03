@@ -1,5 +1,6 @@
-### TabNet: Deep Learning for Tabular Data
-2 July 2020
+## TabNet: Deep Learning for Tabular Data
+### 2 July 2020
+RSVPs: 41 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/270783051)
 
 We have spent many sessions looking at tabular datasets and the best methods to build models for them. Up until now, boosted trees have been dominating these types of tasks. But, times are changing, Neural methods have been steadily closing the gap to the point where the results are looking very similar.
 
@@ -20,8 +21,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/270783051)
-RSVPs: 41
-Waiting: 0
-Event Type: physical

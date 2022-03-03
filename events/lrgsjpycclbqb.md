@@ -1,5 +1,6 @@
-### Pre-training on an NLP task for non-NLP tasks
-12 August 2021
+## Pre-training on an NLP task for non-NLP tasks
+### 12 August 2021
+RSVPs: 25 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/278866779)
 
 This paper looks at what happens when you train a language model, then fine tune a tiny fraction of the weights on a non language task. Surprisingly, this appears to be very effective.
 
@@ -17,8 +18,3 @@ Meeting Schedule:
 6:35 - Discussion
 7:25 - Nominate and vote for following meeting's next topic
 7:30 - Meeting ends
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/278866779)
-RSVPs: 25
-Waiting: 0
-Event Type: physical

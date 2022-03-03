@@ -1,5 +1,6 @@
-### Predict Flu Vaccinations
-13 August 2020
+## Predict Flu Vaccinations
+### 13 August 2020
+RSVPs: 29 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/271550923)
 
 With members of the group at the top of the leaderboard, and a great approachable competition for trying those techniques we've always wondered about we are going to continue on with this competition.
 
@@ -19,8 +20,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/271550923)
-RSVPs: 29
-Waiting: 0
-Event Type: physical

@@ -1,5 +1,6 @@
-### Few Shot Learning - Classifying without Many Examples
-6 December 2018
+## Few Shot Learning - Classifying without Many Examples
+### 6 December 2018
+RSVPs: 65 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/253689792)
 
 What do you do when you don't have many training examples of the class that you want to predict?
 
@@ -25,8 +26,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/253689792)
-RSVPs: 65
-Waiting: 0
-Event Type: physical

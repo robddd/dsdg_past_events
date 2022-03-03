@@ -1,5 +1,6 @@
-### Deep Learning with LSTMs
-22 November 2018
+## Deep Learning with LSTMs
+### 22 November 2018
+RSVPs: 60 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/253689786)
 
 LSTMs are a type of Recurrent Neural Network which have had great success with Natural Language Processing (NLP), sound processing and many other types of sequence data.
 
@@ -23,8 +24,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/253689786)
-RSVPs: 60
-Waiting: 0
-Event Type: physical

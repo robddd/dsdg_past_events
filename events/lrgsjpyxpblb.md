@@ -1,5 +1,6 @@
-### Learning From Unlabelled Data
-8 November 2018
+## Learning From Unlabelled Data
+### 8 November 2018
+RSVPs: 52 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/253689782)
 
 Often one of the biggest problems of building a good model is obtaining a large labelled data set. However, it is often much easier to obtain large amounts of un-labeled data. This week we are looking at how we can use un-labelled data for improving our Machine Learning models.
 
@@ -20,8 +21,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/253689782)
-RSVPs: 52
-Waiting: 0
-Event Type: physical

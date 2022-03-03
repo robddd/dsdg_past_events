@@ -1,5 +1,6 @@
-### AI for Scientific Discovery
-27 January 2022
+## AI for Scientific Discovery
+### 27 January 2022
+RSVPs: 31 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/282650625)
 
 The Data Science Discussion Group welcomes you back for 2022. We will be kicking off the year with a reading group for this paper: "Learning from learning machines: a new generation of AI technology to meet the needs of science" (https://arxiv.org/abs/2111.13786)
 
@@ -17,8 +18,3 @@ Meeting Schedule:
 6:35 - Discussion
 7:25 - Nominate and vote for following meeting's next topic
 7:30 - Meeting ends
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/282650625)
-RSVPs: 31
-Waiting: 0
-Event Type: physical

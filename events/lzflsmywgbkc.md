@@ -1,5 +1,6 @@
-### Data Science & Machine Learning Discussion Group
-27 April 2017
+## Data Science & Machine Learning Discussion Group
+### 27 April 2017
+RSVPs: 35 | Waiting: 10 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/238177089)
 
 For this meeting we will be discussing cross-validation:
 
@@ -14,8 +15,3 @@ Meeting will be held at Level 4 of JSA https://www.google.com/maps/place/220+Que
 Thank you to JSA for hosting us!
 
 Thanks, Rob
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/238177089)
-RSVPs: 35
-Waiting: 10
-Event Type: physical

@@ -1,5 +1,6 @@
-### Foundations of Reinforcement Learning
-8 April 2021
+## Foundations of Reinforcement Learning
+### 8 April 2021
+RSVPs: 31 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/276764015)
 
 Reinforcement Learning (RL) continues to evolve and solve more complex problems. It has a wide variety of applications including robotics, playing games, NLP and computer vision.
 
@@ -22,8 +23,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/276764015)
-RSVPs: 31
-Waiting: 0
-Event Type: physical

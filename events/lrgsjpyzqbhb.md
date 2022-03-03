@@ -1,5 +1,6 @@
-### Feature Selection
-5 December 2019
+## Feature Selection
+### 5 December 2019
+RSVPs: 34 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/266288264)
 
 We have looked at feature engineering, clustering and dimensionality reduction. And now, after creating hundreds of features from our data to try to help our model, we are left with the question of "which features should we keep?". We know that by discarding some of the features we can improve our model, but which features do we discard and which do we keep?
 
@@ -21,8 +22,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/266288264)
-RSVPs: 34
-Waiting: 0
-Event Type: physical

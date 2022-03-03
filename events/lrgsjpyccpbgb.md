@@ -1,5 +1,6 @@
-### Deep Learning with Tabular Data
-4 November 2021
+## Deep Learning with Tabular Data
+### 4 November 2021
+RSVPs: 34 | Waiting: 0 | Event Type: online | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/281417322)
 
 Every year Deep Learning displays superiority for more and more tasks. Making predictions with tabular data is one task where other techniques are still holding their ground, but it is close. This week we are looking at this survey paper https://arxiv.org/abs/2110.01889v1 to get a feel for the current state of the art Deep Learning methods for Tabular Data.
 
@@ -17,8 +18,3 @@ Meeting Schedule:
 6:35 - Discussion
 7:25 - Nominate and vote for following meeting's next topic
 7:30 - Meeting ends
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/281417322)
-RSVPs: 34
-Waiting: 0
-Event Type: online

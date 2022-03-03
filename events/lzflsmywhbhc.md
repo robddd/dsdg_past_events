@@ -1,5 +1,6 @@
-### Data Science & Machine Learning Discussion Group
-24 May 2017
+## Data Science & Machine Learning Discussion Group
+### 24 May 2017
+RSVPs: 28 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/238868269)
 
 NOTE: DATE CHANGED, NEW DATE = Wednesday, 24th of May.
 
@@ -22,8 +23,3 @@ Meeting Schedule:
 This week the discussion will take place in AUT city campus:
 
 WT building (2 - 14 Wakefield Street) Room WT121. This room is located in the AUT WT tower (2 - 14 Wakefield Street). The lift is locked at 5pm, so the attendees can only come in from the Wakefield Street entrance, which is just up Wakefield street from the buildings main entrance.
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/238868269)
-RSVPs: 28
-Waiting: 0
-Event Type: physical

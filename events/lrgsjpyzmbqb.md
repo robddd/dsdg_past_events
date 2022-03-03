@@ -1,5 +1,6 @@
-### Earthquake Damage and Fraud
-12 September 2019
+## Earthquake Damage and Fraud
+### 12 September 2019
+RSVPs: 51 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/263117387)
 
 With our members taking interest in 2 competitions at the moment we will at this meeting, each have a chance to discuss one, the other or (for the complete diehards) both of these competitions:
 
@@ -21,8 +22,3 @@ Meeting Schedule:
 7:30 - Meeting ends
 
 A big 'Thank you' to GridAKL for providing the venue!
-
-[Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/263117387)
-RSVPs: 51
-Waiting: 0
-Event Type: physical
