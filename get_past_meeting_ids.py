@@ -32,17 +32,17 @@ then get meetup info for each id using https://www.meetup.com/api/playground/#gr
 Event fields docs here: https://www.meetup.com/api/schema/#Event
 
 
-  query($eventId: ID) {
+query($eventId: ID) {
     event(id: $eventId) {
-      title
-      description
-      dateTime
-      eventUrl
-      going
-      waiting
-      eventType
+        title
+        description
+        dateTime
+        eventUrl
+        going
+        waiting
+        eventType
     }
-  }
+}
 
 {"eventId":"<meeting_id>"}
 """
