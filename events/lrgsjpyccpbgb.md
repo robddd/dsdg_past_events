@@ -2,7 +2,7 @@
 ### 4 November 2021
 RSVPs: 34 | Waiting: 0 | Event Type: online | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/281417322)
 
-Every year Deep Learning displays superiority for more and more tasks. Making predictions with tabular data is one task where other techniques are still holding their ground, but it is close. This week we are looking at this survey paper https://arxiv.org/abs/2110.01889v1 to get a feel for the current state of the art Deep Learning methods for Tabular Data.
+Every year Deep Learning displays superiority for more and more tasks. Making predictions with tabular data is one task where other techniques are still holding their ground, but it is close. This week we are looking at this survey paper [https://arxiv.org/abs/2110.01889v1](https://arxiv.org/abs/2110.01889v1) to get a feel for the current state of the art Deep Learning methods for Tabular Data.
 
 As always we encourage you to read the material before coming to the meetup. It is fine if you don't understand parts of it, the purpose of the meetup is to ask questions and to learn.
 

@@ -2,7 +2,7 @@
 ### 9 May 2019
 RSVPs: 59 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/260076659)
 
-After a looking at a few research papers and reviewing the fastai course we are going back to getting out hands dirty. We will be looking at the 'Richter's Predictor: Modelling Earthquake Damage' competition: https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/
+After a looking at a few research papers and reviewing the fastai course we are going back to getting out hands dirty. We will be looking at the 'Richter's Predictor: Modelling Earthquake Damage' competition: [https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/](https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/)
 
 As always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not manage to make a submission or get a high score on the leaderboard. The purpose of this meetup is to work on the competition beforehand and then come to the group to share what you did and to ask questions about things you were unsure about.
 

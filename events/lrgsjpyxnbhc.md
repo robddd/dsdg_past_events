@@ -2,7 +2,7 @@
 ### 25 October 2018
 RSVPs: 43 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/252886616)
 
-Want to figure out how to utilise the 80/20 rule and focus on your most valueable customers? Get working on predicting customer revenue with the recent Kaggle competition: Google Analytics Customer Revenue Prediction https://www.kaggle.com/c/ga-customer-revenue-prediction
+Want to figure out how to utilise the 80/20 rule and focus on your most valueable customers? Get working on predicting customer revenue with the recent Kaggle competition: Google Analytics Customer Revenue Prediction [https://www.kaggle.com/c/ga-customer-revenue-prediction](https://www.kaggle.com/c/ga-customer-revenue-prediction)
 
 As always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not get a high score on the leaderboard. The purpose of this meetup is to talk about what you did and to ask questions.
 

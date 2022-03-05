@@ -6,7 +6,7 @@ Some of our members have been working through the fast ai course "Introduction t
 
 For this meetup, some of our members will go over some of the concepts covered in these videos. Format will be Presentation style for the first half and QA / Discussion for the second half.
 
-You do not need to have worked through the course to attend this meetup, but if you would like to look at some of the videos, they are available here: http://course18.fast.ai/ml
+You do not need to have worked through the course to attend this meetup, but if you would like to look at some of the videos, they are available here: [http://course18.fast.ai/ml](http://course18.fast.ai/ml)
 
 Please bring any ideas for the following meetups. We are looking for a Kaggle competition or topic areas that we can look further into.
 

@@ -11,19 +11,19 @@ Please spend some time preparing for the meetup. It is fine if you do not unders
 Suggested Material (there is a lot here, maybe try and just look at 1 or 2):
 
 Introductory Level:
-- If you are new to graph theory: https://en.wikipedia.org/wiki/Graph_theory
-- Graph Theory Introductory Video (Very clear and easy to understand explanations): https://www.youtube.com/watch?v=eQA-m22wjTQ&list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P
-- Intro to graph algorithms: https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513
+- If you are new to graph theory: [https://en.wikipedia.org/wiki/Graph_theory](https://en.wikipedia.org/wiki/Graph_theory)
+- Graph Theory Introductory Video (Very clear and easy to understand explanations): [https://www.youtube.com/watch?v=eQA-m22wjTQ&list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P](https://www.youtube.com/watch?v=eQA-m22wjTQ&list=PLDV1Zeh2NRsDGO4--qE8yH72HFL1Km93P)
+- Intro to graph algorithms: [https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513](https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513)
 
 Graph Neural Networks:
-- Gentle introduction: https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3
-- Video: Graph representation learning (Stanford lecture) https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513
-- Paper: Comprehensive study of Graph Neural Networks: https://arxiv.org/abs/1901.00596
-- Paper: Relational inductive biases, deep learning, and graph networks: https://arxiv.org/abs/1806.01261
+- Gentle introduction: [https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3](https://towardsdatascience.com/a-gentle-introduction-to-graph-neural-network-basics-deepwalk-and-graphsage-db5d540d50b3)
+- Video: Graph representation learning (Stanford lecture) [https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513](https://towardsdatascience.com/data-scientists-the-five-graph-algorithms-that-you-should-know-30f454fa5513)
+- Paper: Comprehensive study of Graph Neural Networks: [https://arxiv.org/abs/1901.00596](https://arxiv.org/abs/1901.00596)
+- Paper: Relational inductive biases, deep learning, and graph networks: [https://arxiv.org/abs/1806.01261](https://arxiv.org/abs/1806.01261)
 
 Get your hands dirty:
-- TensorFlow: https://github.com/deepmind/graph_nets
-- PyTorch: https://github.com/rusty1s/pytorch_geometric
+- TensorFlow: [https://github.com/deepmind/graph_nets](https://github.com/deepmind/graph_nets)
+- PyTorch: [https://github.com/rusty1s/pytorch_geometric](https://github.com/rusty1s/pytorch_geometric)
 
 Have a think about any research papers or Kaggle competitions you would like to discuss in future meetups. We will spend a few minutes on this at the end
 

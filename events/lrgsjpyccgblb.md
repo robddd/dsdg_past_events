@@ -6,10 +6,10 @@ Reinforcement Learning (RL) continues to evolve and solve more complex problems.
 
 This meetup we will have a discussion group around Reinforcement Learning focussing on the materials below:
 
-* A good non-technical intro putting it in a real life context - https://venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/
+* A good non-technical intro putting it in a real life context - [https://venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/](https://venturebeat.com/2021/03/28/reinforcement-learning-the-next-great-ai-tech-moving-from-the-lab-to-the-real-world/)
 * Video from Lecture series based on the work of David Silver:
-Reinforcement Learning 1: Foundation - https://www.youtube.com/watch?v=K67RJH3V7Yw&list=PLMsTLcO6ettgmyLVrcPvFLYi2Rs-R4JOE
-* And, if you would like to look into applying the techniques, the Hungry Geese Competition - https://www.kaggle.com/c/hungry-geese
+Reinforcement Learning 1: Foundation - [https://www.youtube.com/watch?v=K67RJH3V7Yw&list=PLMsTLcO6ettgmyLVrcPvFLYi2Rs-R4JOE](https://www.youtube.com/watch?v=K67RJH3V7Yw&list=PLMsTLcO6ettgmyLVrcPvFLYi2Rs-R4JOE)
+* And, if you would like to look into applying the techniques, the Hungry Geese Competition - [https://www.kaggle.com/c/hungry-geese](https://www.kaggle.com/c/hungry-geese)
 
 Please try to read some of the material before coming to the meet up. It is fine if you do not understand it all, the purpose of the meetup is to ask questions where you got stuck and to learn.
 

@@ -8,16 +8,16 @@ AutoML is a topic which has been brought up more and more during these discussio
 
 Here are some places to get started:
 
-https://arxiv.org/abs/1802.03268
+[https://arxiv.org/abs/1802.03268](https://arxiv.org/abs/1802.03268)
 
-Google AutoML https://cloud.google.com/automl/
-AutoKeras https://github.com/jhfjhfj1/autokeras
-TensorFlow https://github.com/melodyguan/enas
-Pytourch https://github.com/carpedm20/ENAS-pytorch
+Google AutoML [https://cloud.google.com/automl/](https://cloud.google.com/automl/)
+AutoKeras [https://github.com/jhfjhfj1/autokeras](https://github.com/jhfjhfj1/autokeras)
+TensorFlow [https://github.com/melodyguan/enas](https://github.com/melodyguan/enas)
+Pytourch [https://github.com/carpedm20/ENAS-pytorch](https://github.com/carpedm20/ENAS-pytorch)
 
 Articles:
-http://www.fast.ai/2018/07/16/auto-ml2/
-https://towardsdatascience.com/autokeras-the-killer-of-googles-automl-9e84c552a319
+[http://www.fast.ai/2018/07/16/auto-ml2/](http://www.fast.ai/2018/07/16/auto-ml2/)
+[https://towardsdatascience.com/autokeras-the-killer-of-googles-automl-9e84c552a319](https://towardsdatascience.com/autokeras-the-killer-of-googles-automl-9e84c552a319)
 
 We encourage you to do some preparation by reading some of these articles or other sources before the meet up. It is fine if you don't understand all of this topic. The purpose of this meetup is to talk about what you did and to ask questions.
 

@@ -4,7 +4,7 @@ RSVPs: 53 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.
 
 Imagine standing at the check-out counter at the grocery store with a long line behind you and the cashier not-so-quietly announces that your card has been declined. In this moment, you probably aren�t thinking about the data science that determined your fate.
 
-This week we will start to look at the Kaggle IEEE-CIS Fraud Detection Competition https://www.kaggle.com/c/ieee-fraud-detection
+This week we will start to look at the Kaggle IEEE-CIS Fraud Detection Competition [https://www.kaggle.com/c/ieee-fraud-detection](https://www.kaggle.com/c/ieee-fraud-detection)
 
 As always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not manage to make a submission or get a high score on the leaderboard. The purpose of this meetup is to talk about what you did and to ask questions.
 

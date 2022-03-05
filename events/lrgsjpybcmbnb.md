@@ -2,7 +2,7 @@
 ### 10 September 2020
 RSVPs: 30 | Waiting: 3 | Event Type: online | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/271933153)
 
-This week we are focussing on what to do when we have missing data. And also the "Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines" competition: https://www.drivendata.org/competitions/66/flu-shot-learning/ (Which has a lot of missing data).
+This week we are focussing on what to do when we have missing data. And also the "Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines" competition: [https://www.drivendata.org/competitions/66/flu-shot-learning/](https://www.drivendata.org/competitions/66/flu-shot-learning/) (Which has a lot of missing data).
 
 The group is designed around participants doing some experimentation or reading before the group. Then, at the group, everyone will get a chance to share what they have done and to ask questions about things that they are wondering about.
 

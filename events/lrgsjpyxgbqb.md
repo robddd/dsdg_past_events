@@ -6,7 +6,7 @@ This week at University of Auckland
 
 This week we are back and going into the deep end. We are looking at one of the most talked about deep learning papers of last year. 'Dynamic Routing Between Capsules' by Sara Sabour, Nicholas Frosst, Geoffrey E Hinton
 
-https://arxiv.org/abs/1710.09829
+[https://arxiv.org/abs/1710.09829](https://arxiv.org/abs/1710.09829)
 
 Please try to read the paper before the meetup. Do not worry if you don't understand all of it, these ideas are some of the newest in the field. This meetup is for the purpose of discussing the paper and asking questions about the things that we are unsure about.
 

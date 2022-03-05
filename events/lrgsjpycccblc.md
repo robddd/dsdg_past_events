@@ -6,7 +6,7 @@ This meetup we are having a reading group. We will read the paper beforehand the
 
 The paper we will look at is "What are the most important statistical ideas of the past 50 years?". It argues which ideas they think are most important and considers how the ideas may be developed and extended into the future.
 
-https://arxiv.org/abs/2012.00174v2
+[https://arxiv.org/abs/2012.00174v2](https://arxiv.org/abs/2012.00174v2)
 
 Which of these ideas in the paper do you think is most important?
 

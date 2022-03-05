@@ -4,11 +4,11 @@ RSVPs: 21 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.
 
 We are back at Grid with our first in-person meetup in a while!
 
-This week we are looking at the Kaggle competition: Mechanisms of Action (MoA) Prediction https://www.kaggle.com/c/lish-moa Similar to the "Flu" competition we have been looking at, this competition has multiple labels to predict, so allows us to continue looked into stacking models.
+This week we are looking at the Kaggle competition: Mechanisms of Action (MoA) Prediction [https://www.kaggle.com/c/lish-moa](https://www.kaggle.com/c/lish-moa) Similar to the "Flu" competition we have been looking at, this competition has multiple labels to predict, so allows us to continue looked into stacking models.
 
-We recommend getting started with this great introduction to the competition: https://www.kaggle.com/c/lish-moa/discussion/184005
+We recommend getting started with this great introduction to the competition: [https://www.kaggle.com/c/lish-moa/discussion/184005](https://www.kaggle.com/c/lish-moa/discussion/184005)
 
-Looking for ideas or inspiration? Here is a great post with links for novel ideas of how to approach this problem https://www.kaggle.com/c/lish-moa/discussion/183377
+Looking for ideas or inspiration? Here is a great post with links for novel ideas of how to approach this problem [https://www.kaggle.com/c/lish-moa/discussion/183377](https://www.kaggle.com/c/lish-moa/discussion/183377)
 
 As always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not manage to make a submission or get a high score on the leader-board. The purpose of this meetup is to talk about what you did and to ask questions.
 

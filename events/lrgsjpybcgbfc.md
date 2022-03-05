@@ -6,11 +6,11 @@ Our group survey earlier in the year showed that there are a lot of people inter
 
 It is what CNNs are to images, an essential building block which allowed models like BERT and its variations to be so incredibly succesful. It is "The Transformer".
 
-We will focus on this easy to follow illustrated blog post: http://jalammar.github.io/illustrated-transformer/
+We will focus on this easy to follow illustrated blog post: [http://jalammar.github.io/illustrated-transformer/](http://jalammar.github.io/illustrated-transformer/)
 
 Add if that isnt enough for you, we suggest these two more:
-- https://arxiv.org/abs/1706.03762 (Original paper proposing the transformer)
-- https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/ (A blog post from the same author about the 'attention' mechanism)
+- [https://arxiv.org/abs/1706.03762](https://arxiv.org/abs/1706.03762) (Original paper proposing the transformer)
+- [https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/](https://jalammar.github.io/visualizing-neural-machine-translation-mechanics-of-seq2seq-models-with-attention/) (A blog post from the same author about the 'attention' mechanism)
 
 As always we encourage you to read the material before coming to the meet up. It is fine if you do not understand it all. The purpose of this meetup to learn and to ask questions.
 

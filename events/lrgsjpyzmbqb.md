@@ -4,8 +4,8 @@ RSVPs: 51 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.
 
 With our members taking interest in 2 competitions at the moment we will at this meeting, each have a chance to discuss one, the other or (for the complete diehards) both of these competitions:
 
-- 'Richter's Predictor: Modelling Earthquake Damage' competition: https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/
-- Kaggle IEEE-CIS Fraud Detection Competition https://www.kaggle.com/c/ieee-fraud-detection
+- 'Richter's Predictor: Modelling Earthquake Damage' competition: [https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/](https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/)
+- Kaggle IEEE-CIS Fraud Detection Competition [https://www.kaggle.com/c/ieee-fraud-detection](https://www.kaggle.com/c/ieee-fraud-detection)
 
 If you are new to machine learning and want to try one we would recommend the Earthquake Competition as it is more of a straightforward dataset.
 

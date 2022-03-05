@@ -5,8 +5,8 @@ RSVPs: 52 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.
 Often one of the biggest problems of building a good model is obtaining a large labelled data set. However, it is often much easier to obtain large amounts of un-labeled data. This week we are looking at how we can use un-labelled data for improving our Machine Learning models.
 
 The papers we will be looking at are:
-- Realistic Evaluation of Deep Semi-Supervised Learning Algorithms - https://arxiv.org/abs/1804.09170
-- Learning from Positive and Unlabeled Data under the Selected At Random Assumption - https://arxiv.org/pdf/1808.08755.pdf
+- Realistic Evaluation of Deep Semi-Supervised Learning Algorithms - [https://arxiv.org/abs/1804.09170](https://arxiv.org/abs/1804.09170)
+- Learning from Positive and Unlabeled Data under the Selected At Random Assumption - [https://arxiv.org/pdf/1808.08755.pdf](https://arxiv.org/pdf/1808.08755.pdf)
 
 We encourage you to attempt to read the papers before the meetup. It is fine if you don't understand it all. The purpose of this meetup is to ask questions and to learn.
 

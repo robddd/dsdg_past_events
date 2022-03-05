@@ -6,7 +6,7 @@ RSVPs: 26 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.
 
 This week we continue our recent trend of looking at Deep Reinforcement Learning (DRL). We will look at a paper that uses self-play with DRL to learn to effectively play the game of poker.
 
-https://arxiv.org/pdf/1603.01121.pdf
+[https://arxiv.org/pdf/1603.01121.pdf](https://arxiv.org/pdf/1603.01121.pdf)
 
 As always we encourage you to read the material before coming to the meetup. It is fine if you cant understand parts of the it or cannot finish it. The purpose of this meetup is to spend some time with the material beforehand so that you can comment about what you thought and ask questions around where you got stuck. We are all here to learn.
 

@@ -6,11 +6,11 @@ Fighting biases with dynamic boosting
 
 This meetup will discuss the following paper:
 
-https://arxiv.org/pdf/1706.09516.pdf
+[https://arxiv.org/pdf/1706.09516.pdf](https://arxiv.org/pdf/1706.09516.pdf)
 
 There is more information here on this site:
 
-https://tech.yandex.com/catboost/
+[https://tech.yandex.com/catboost/](https://tech.yandex.com/catboost/)
 
 where they have made their implementation and documentation available.
 

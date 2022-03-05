@@ -12,7 +12,7 @@ This week we are returning to our roots and looking at a Kaggle Competition. Thi
 * Feature Engineering
 * Using Deep Learning for Tablular Data
 
-The competition is �Optiver Realized Volatility Prediction� https://www.kaggle.com/c/optiver-realized-volatility-prediction/overview/description It offers us a great chance to get our hands dirty attempting to make predictions, then come together as a group, share what we did, where we got stuck and brainstorm for ideas to try next.
+The competition is �Optiver Realized Volatility Prediction� [https://www.kaggle.com/c/optiver-realized-volatility-prediction/overview/description](https://www.kaggle.com/c/optiver-realized-volatility-prediction/overview/description) It offers us a great chance to get our hands dirty attempting to make predictions, then come together as a group, share what we did, where we got stuck and brainstorm for ideas to try next.
 
 As always we encourage you all to attempt the competition before coming to the meetup. It is fine if you attempt the competition but do not manage to make a submission or get a high score on the leaderboard. The purpose of this meetup is to talk about what you tried, ask questions and to learn.
 

@@ -6,11 +6,11 @@ With a bit of a mixup last week, we were unable to have the meeting. Since there
 
 We have all seen Machine Learning models using vast quantities of data to beat human level performance at narrowly defined specific tasks. But what about algorithms that generalise to many tasks and recognise patterns given only a few examples?
 
-This week we are looking at the Kaggle - Abstraction and Reasoning Challenge (ARC): https://www.kaggle.com/c/abstraction-and-reasoning-challenge/overview
+This week we are looking at the Kaggle - Abstraction and Reasoning Challenge (ARC): [https://www.kaggle.com/c/abstraction-and-reasoning-challenge/overview](https://www.kaggle.com/c/abstraction-and-reasoning-challenge/overview)
 
-A good place to start is by looking at the data and working out how you solve the puzzles yourself, you can see the data visualised here: https://www.kaggle.com/tayyabali55/explored-the-complete-abstraction-data-train-test
+A good place to start is by looking at the data and working out how you solve the puzzles yourself, you can see the data visualised here: [https://www.kaggle.com/tayyabali55/explored-the-complete-abstraction-data-train-test](https://www.kaggle.com/tayyabali55/explored-the-complete-abstraction-data-train-test)
 
-And for a good complete explanation of the challenge and the dataset, this paper by the creator of the challenge is an important read https://arxiv.org/pdf/1911.01547.pdf
+And for a good complete explanation of the challenge and the dataset, this paper by the creator of the challenge is an important read [https://arxiv.org/pdf/1911.01547.pdf](https://arxiv.org/pdf/1911.01547.pdf)
 
 As always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not manage to make a submission or get a high score on the leaderboard. The purpose of this meetup is to talk about what you did and to ask questions.
 

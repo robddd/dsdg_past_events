@@ -8,8 +8,8 @@ University of Auckland - Room: 303-G15
 Please remove yourself from RSVP if you are not going to attend.
 
 This week we are doing something a little different we will continue to talk about the Avito Demand Prediction Challenge (https://www.kaggle.com/c/avito-demand-prediction) but also offer the option of discussing research papers relating to NLP, Image recognition and tabular data. All of which are elements of this competition.
-- NLP Paper - A Neural Probabilistic Language Model - https://arxiv.org/pdf/1301.3781.pdf
-- Image recognition paper - Deep residual networks for image recognition - https://arxiv.org/pdf/1512.03385.pdf
+- NLP Paper - A Neural Probabilistic Language Model - [https://arxiv.org/pdf/1301.3781.pdf](https://arxiv.org/pdf/1301.3781.pdf)
+- Image recognition paper - Deep residual networks for image recognition - [https://arxiv.org/pdf/1512.03385.pdf](https://arxiv.org/pdf/1512.03385.pdf)
 
 As always we encourage you all to attempt the competition and/or look at a research paper before coming to the meet up. It is fine if you attempt the competition but do not get a high score on the leaderboard. The purpose of this meetup is to talk about what you did and to ask questions.
 

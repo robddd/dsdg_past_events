@@ -4,9 +4,9 @@ RSVPs: 60 | Waiting: 8 | Event Type: physical | [Meetup Event Link](https://www.
 
 After going deep with the Earthquake Damage Prediction Competition. We are taking a slight turn towards taking a deep dive into clustering techniques. Potentially very powerful for the competition that we have just looked at, clustering can be a great way to utilise unlabelled data.
 
-Please spend some time looking into one or more clustering techniques before the meetup and optionally try to use them for the earthquake prediction dataset: https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/ (by possibly making better use of the geo location data?)
+Please spend some time looking into one or more clustering techniques before the meetup and optionally try to use them for the earthquake prediction dataset: [https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/](https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/) (by possibly making better use of the geo location data?)
 
-A good place to start with looking into clustering techniques is here: https://scikit-learn.org/stable/modules/clustering.html
+A good place to start with looking into clustering techniques is here: [https://scikit-learn.org/stable/modules/clustering.html](https://scikit-learn.org/stable/modules/clustering.html)
 
 Please leave a comment of the technique you plan to look into so we can try and all explore separate methods, so far we have:
 - Agglomerative Clustering (Tony)

@@ -4,7 +4,7 @@ RSVPs: 25 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.
 
 This paper looks at what happens when you train a language model, then fine tune a tiny fraction of the weights on a non language task. Surprisingly, this appears to be very effective.
 
-Come and join the reading group where we will be discussing the research paper: "Pretrained Transformers as Universal Computation Engines" https://arxiv.org/abs/2103.05247
+Come and join the reading group where we will be discussing the research paper: "Pretrained Transformers as Universal Computation Engines" [https://arxiv.org/abs/2103.05247](https://arxiv.org/abs/2103.05247)
 
 As always we encourage you to read the material before coming to the meetup. It is fine if you cant understand parts of the it or cannot finish it. The purpose of this meetup is to spend some time with the material beforehand so that you can comment about what you thought and ask questions around where you got stuck. The purpose of the meetup is to learn.
 

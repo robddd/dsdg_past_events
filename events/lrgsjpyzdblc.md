@@ -4,8 +4,8 @@ RSVPs: 51 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.
 
 After a succession of meetups where we looked at the Elo competition, this week we going to look at some blogs and a video on Recurrent Neural Networks (RNNs). RNNs are used to get state of the art results in NLP as well as sequence processing.
 
-- Introduction to RNNs - https://medium.com/explore-artificial-intelligence/an-introduction-to-recurrent-neural-networks-72c97bf0912
-- The Unreasonable Effectiveness of RNNs http://karpathy.github.io/2015/05/21/rnn-effectiveness/
+- Introduction to RNNs - [https://medium.com/explore-artificial-intelligence/an-introduction-to-recurrent-neural-networks-72c97bf0912](https://medium.com/explore-artificial-intelligence/an-introduction-to-recurrent-neural-networks-72c97bf0912)
+- The Unreasonable Effectiveness of RNNs [http://karpathy.github.io/2015/05/21/rnn-effectiveness/](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - Andrew Ng's intro videos to his sequence learning course.RNN W1L01 : Why Sequence Models - The first 3 videos give a good intro and it gets more in depth from there
 
 As always we encourage you to look at the material before coming to the meet up. It is fine if you do not understand it all. The purpose of this meetup to learn and to ask questions.

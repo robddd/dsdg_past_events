@@ -6,7 +6,7 @@ NOTE: DATE CHANGED, NEW DATE = Wednesday, 24th of May.
 
 Data Science Discussion Group - House Prices: Advanced Regression Techniques
 
-https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+[https://www.kaggle.com/c/house-prices-advanced-regression-techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
 This week we are returning to the house price regression problem, where we will be discussing our latest attempts. We will go around the room, sharing our best score and the techniques which we used, If you were unable to get to the point of making the submission you can share about where you got stuck or ask any questions that came up for you.
 

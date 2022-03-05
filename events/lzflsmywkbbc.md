@@ -4,7 +4,7 @@ RSVPs: 40 | Waiting: 4 | Event Type: physical | [Meetup Event Link](https://www.
 
 Data Science Discussion Group - House Prices: Advanced Regression Techniques
 
-https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+[https://www.kaggle.com/c/house-prices-advanced-regression-techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
 This week we are returning to the house price regression problem, where we will be discussing our latest attempts. We will go around the room, sharing our best score and the techniques which we used, If you were unable to get to the point of making the submission you can ask questions about where you got stuck. The purpose of this meetup is for questions and discussion and to help each other learn. The topics in this meetup are likely to range from basic to advanced, we encourage members of all levels to attend.
 

@@ -4,7 +4,7 @@ RSVPs: 38 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.
 
 Algorithmic share trading is a strong force in today's share trading environment. The majority of share trading is now fully automated. Deep Reinforcement Learning has been demonstrated as the master of complex games such as Chess and Go. For this Meetup we will look at a how Deep Reinforcement Learning could be used for algorithmic trading by reading this paper sometime before and then meeting to discuss.
 
-https://arxiv.org/abs/2106.00123v1
+[https://arxiv.org/abs/2106.00123v1](https://arxiv.org/abs/2106.00123v1)
 
 Please try to read the material before coming to the meet up. It is fine if you do not understand it all, the purpose of the meetup is to learn and ask questions.
 

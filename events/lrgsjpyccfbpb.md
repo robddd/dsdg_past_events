@@ -7,8 +7,8 @@ If we want to determine causation our preference is to conduct a randomised cont
 This meetup we will attempt grasp whether the methods available for determining causal relationships from observational data are effective. And if so, when and why.
 
 The pre-reading/viewing for this for this meetup will be:
-- A study on opioid prescription and misuse https://www.bmj.com/content/360/bmj.j5790
-- MIT Lecture - https://www.youtube.com/watch?v=g5v-NvNoJQQ (Note: this is part 2, I believe it is not necessary to watch part 1 to gain a lot from this video. But part 1 is also on youtube if you would like to view it)
+- A study on opioid prescription and misuse [https://www.bmj.com/content/360/bmj.j5790](https://www.bmj.com/content/360/bmj.j5790)
+- MIT Lecture - [https://www.youtube.com/watch?v=g5v-NvNoJQQ](https://www.youtube.com/watch?v=g5v-NvNoJQQ) (Note: this is part 2, I believe it is not necessary to watch part 1 to gain a lot from this video. But part 1 is also on youtube if you would like to view it)
 
 Please try to read the material before coming to the meet up. It is fine if you do not read, watch or understand it all, the purpose of the meetup is to learn and ask questions.
 

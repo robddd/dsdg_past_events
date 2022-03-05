@@ -4,7 +4,7 @@ RSVPs: 50 | Waiting: 2 | Event Type: physical | [Meetup Event Link](https://www.
 
 This week we are switching gears and will be discussing a seminal paper in the domain of image classification entitled 'ImageNet Classification with Deep Convolutional Neural Networks'
 
-https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf
+[https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf](https://papers.nips.cc/paper/4824-imagenet-classification-with-deep-convolutional-neural-networks.pdf)
 
 While this topic can get very technical, this paper is regarded as one of the easier ones to read in this domain.
 

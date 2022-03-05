@@ -25,25 +25,25 @@ Meeting Schedule:
 A big 'Thank you' to GridAKL for providing the venue!
 
 Feature Engineering Resources:
-- https://www.datasciencecentral.com/profiles/blogs/feature-engineering-data-scientist-s-secret-sauce-1
+- [https://www.datasciencecentral.com/profiles/blogs/feature-engineering-data-scientist-s-secret-sauce-1](https://www.datasciencecentral.com/profiles/blogs/feature-engineering-data-scientist-s-secret-sauce-1)
 - Feature Engineering for Predictive Modelling using Reinforcement Learning
-https://arxiv.org/pdf/1709.07150v1.pdf
+[https://arxiv.org/pdf/1709.07150v1.pdf](https://arxiv.org/pdf/1709.07150v1.pdf)
 - Towards automated feature engineering for credit card fraud detection using multi-perspective HMMs
-https://arxiv.org/pdf/1909.01185v1.pdf
+[https://arxiv.org/pdf/1909.01185v1.pdf](https://arxiv.org/pdf/1909.01185v1.pdf)
 - Power Transformation and Box-Cox:
-- Box-Cox in R https://www.youtube.com/watch?v=vGOpEpjz2Ks
+- Box-Cox in R [https://www.youtube.com/watch?v=vGOpEpjz2Ks](https://www.youtube.com/watch?v=vGOpEpjz2Ks)
 - The Box-Cox transformation technique: a review
-https://pdfs.semanticscholar.org/2e34/658241dad02697bfa61b34563d7253c43acc.pdf
+[https://pdfs.semanticscholar.org/2e34/658241dad02697bfa61b34563d7253c43acc.pdf](https://pdfs.semanticscholar.org/2e34/658241dad02697bfa61b34563d7253c43acc.pdf)
 Other possible papers:
 - An Empirical Analysis of Feature Engineering for Predictive Modelling
-https://arxiv.org/pdf/1701.07852v1.pdf
+[https://arxiv.org/pdf/1701.07852v1.pdf](https://arxiv.org/pdf/1701.07852v1.pdf)
 - Improving classification performance by feature space transformations and model selection
-https://arxiv.org/pdf/1907.06258v3.pdf
+[https://arxiv.org/pdf/1907.06258v3.pdf](https://arxiv.org/pdf/1907.06258v3.pdf)
 - The autofeat Python Library for Automated Feature Engineering and Selection
-https://arxiv.org/pdf/1901.07329v3.pdf
+[https://arxiv.org/pdf/1901.07329v3.pdf](https://arxiv.org/pdf/1901.07329v3.pdf)
 - LightGBM
-http://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf
+[http://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf](http://papers.nips.cc/paper/6907-lightgbm-a-highly-efficient-gradient-boosting-decision-tree.pdf)
 - Target-Focused Feature Selection Using a Bayesian Approach
-https://arxiv.org/pdf/1909.06772v1.pdf
+[https://arxiv.org/pdf/1909.06772v1.pdf](https://arxiv.org/pdf/1909.06772v1.pdf)
 - Supervised feature selection with orthogonal regression and feature weighting
-https://arxiv.org/ftp/arxiv/papers/1910/1910.03787.pdf
+[https://arxiv.org/ftp/arxiv/papers/1910/1910.03787.pdf](https://arxiv.org/ftp/arxiv/papers/1910/1910.03787.pdf)

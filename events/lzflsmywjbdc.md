@@ -6,7 +6,7 @@ RSVPs: 37 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.
 
 This week we are discussing a paper on feature selection:
 
-http://www.jmlr.org/papers/v10/tuv09a.html
+[http://www.jmlr.org/papers/v10/tuv09a.html](http://www.jmlr.org/papers/v10/tuv09a.html)
 
 Please try to read the paper before the meetup. It is fine if you do not understand all of it. The purpose of this meetup is for questions and discussion and to help each other learn. Some of the topics may be quite advanced in this meetup but we encourage members of all levels to attend.
 

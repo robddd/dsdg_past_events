@@ -4,7 +4,7 @@ RSVPs: 46 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.
 
 Got plans for the next few weekends? Change them and get working on predicting customer revenue.
 
-This week we are back with another Kaggle competition: Google Analytics Customer Revenue Prediction https://www.kaggle.com/c/ga-customer-revenue-prediction
+This week we are back with another Kaggle competition: Google Analytics Customer Revenue Prediction [https://www.kaggle.com/c/ga-customer-revenue-prediction](https://www.kaggle.com/c/ga-customer-revenue-prediction)
 
 As always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not get a high score on the leaderboard. The purpose of this meetup is to talk about what you did and to ask questions.
 

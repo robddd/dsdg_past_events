@@ -4,7 +4,7 @@ RSVPs: 40 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.
 
 There are nuances to making predictions in a Time Series problem that do not exist in other types of prediction problems. This meetup we will look at a paper which gives an overview of how different Deep Learning architectures can address these nuances.
 
-https://arxiv.org/abs/2004.13408
+[https://arxiv.org/abs/2004.13408](https://arxiv.org/abs/2004.13408)
 
 As always we encourage you to read some of the material before coming to the meetup. It is fine if you cant understand parts of the it. The purpose of this meetup is to learn by spending some time with the material beforehand, so that you can comment about what you thought and ask questions around where you got stuck.
 

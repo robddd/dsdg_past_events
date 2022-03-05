@@ -2,7 +2,7 @@
 ### 1 March 2018
 RSVPs: 55 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/246203222)
 
-This meetup we will be taking another look at NLP and discussing the Kaggle Competition "Toxic Comment Classification Challenge" https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
+This meetup we will be taking another look at NLP and discussing the Kaggle Competition "Toxic Comment Classification Challenge" [https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
 
 As always we encourage you all to attempt the the competition before coming to the meet up. Preferably, by making at least one submission so that we can compare our different approaches.
 

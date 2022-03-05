@@ -4,7 +4,7 @@ RSVPs: 60 | Waiting: 6 | Event Type: physical | [Meetup Event Link](https://www.
 
 After a couple of weeks getting deep into the world of deep learning research papers we are mixing things up and looking at a Kaggle competition.
 
-This week we will look at https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection
+This week we will look at [https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection)
 
 As always we encourage you all to attempt the the competition before coming to the meet up. It is fine if you attempt the competition but do not get a high score on the leaderboard. The purpose of this meetup is to talk about what you did and to ask questions.
 

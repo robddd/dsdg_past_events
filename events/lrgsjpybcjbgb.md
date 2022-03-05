@@ -2,7 +2,7 @@
 ### 4 June 2020
 RSVPs: 40 | Waiting: 5 | Event Type: online | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/269969161)
 
-Deep Learning is continuing to make rapid progress. With no limit in sight, we thought now would be a great time to hold a reading group on the current state of the technology. We will be focusing on the research paper "A Survey of Deep Learning for Scientific Discovery" https://arxiv.org/pdf/2003.11755.pdf
+Deep Learning is continuing to make rapid progress. With no limit in sight, we thought now would be a great time to hold a reading group on the current state of the technology. We will be focusing on the research paper "A Survey of Deep Learning for Scientific Discovery" [https://arxiv.org/pdf/2003.11755.pdf](https://arxiv.org/pdf/2003.11755.pdf)
 
 This paper contains overviews of all the current Deep Learning techniques used across a wide variety of applications. Diving into it is the perfect chance to brush up on any gaps in your knowledge.
 

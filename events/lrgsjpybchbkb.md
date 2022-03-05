@@ -2,7 +2,7 @@
 ### 7 May 2020
 RSVPs: 33 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/269946902)
 
-A suggestion from last week's group was that we stay with the NLP theme but look for something practical. This week, we will look to apply our new knowledge to the current Kaggle Competition "Tweet Sentiment Extraction" - https://www.kaggle.com/c/tweet-sentiment-extraction
+A suggestion from last week's group was that we stay with the NLP theme but look for something practical. This week, we will look to apply our new knowledge to the current Kaggle Competition "Tweet Sentiment Extraction" - [https://www.kaggle.com/c/tweet-sentiment-extraction](https://www.kaggle.com/c/tweet-sentiment-extraction)
 
 The meetup will begin with a short introduction to the competition, followed by our usual discussion format.
 

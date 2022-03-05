@@ -5,11 +5,11 @@ RSVPs: 60 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.
 LSTMs are a type of Recurrent Neural Network which have had great success with Natural Language Processing (NLP), sound processing and many other types of sequence data.
 
 This meetup the discussion will be around 2 blog posts and an academic paper relating to LSTMs. These two blog posts describe how LSTMs work :
-- http://colah.github.io/posts/2015-08-Understanding-LSTMs/
-- http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/
+- [http://colah.github.io/posts/2015-08-Understanding-LSTMs/](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+- [http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/](http://www.wildml.com/2015/10/recurrent-neural-network-tutorial-part-4-implementing-a-grulstm-rnn-with-python-and-theano/)
 
 And if you want to look at something more advanced, this paper examines some of the tricks and techniques which can be used to get LSTMs to perform well for NLP tasks:
-- https://arxiv.org/pdf/1708.02182.pdf
+- [https://arxiv.org/pdf/1708.02182.pdf](https://arxiv.org/pdf/1708.02182.pdf)
 
 We encourage you to read some of the material before the meetup. It is fine if you don't understand all of it. The purpose of this meetup is to ask questions and to learn.
 

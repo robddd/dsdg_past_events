@@ -4,7 +4,7 @@ RSVPs: 29 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.
 
 With members of the group at the top of the leaderboard, and a great approachable competition for trying those techniques we've always wondered about we are going to continue on with this competition.
 
-https://www.drivendata.org/competitions/66/flu-shot-learning/
+[https://www.drivendata.org/competitions/66/flu-shot-learning/](https://www.drivendata.org/competitions/66/flu-shot-learning/)
 
 This is a great chance to try any technique that you want to and then come to the group to discuss and ask questions, all that we ask is that you get your hands dirty and try the techniques on this competition.
 

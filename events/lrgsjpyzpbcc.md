@@ -4,10 +4,10 @@ RSVPs: 34 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.
 
 Dimensionality Reduction is an important concept for Data Science. It allows us to compress our data and do things like visualise high dimensional data in a 2d or 3d space.
 
-This week we will be looking at Dimensionality Reduction and in particular this blog post: https://pair-code.github.io/understanding-umap/ which has a new technique (UMAP) and compares it with a popular existing technique (t-SNE).
+This week we will be looking at Dimensionality Reduction and in particular this blog post: [https://pair-code.github.io/understanding-umap/](https://pair-code.github.io/understanding-umap/) which has a new technique (UMAP) and compares it with a popular existing technique (t-SNE).
 
 Also, if you would like to speak about, or ask questions about any work you've done on the Earthquake competition you are welcome to.
-- https://www.drivendata.org/competitions/57/nepal-earthquake/
+- [https://www.drivendata.org/competitions/57/nepal-earthquake/](https://www.drivendata.org/competitions/57/nepal-earthquake/)
 
 Please attempt to read the blog and/or work on the competition before the Meetup. If you are looking at a blog, It is fine if you do not understand it all. The purpose of this meetup to ask any questions about where you are unsure so that we can all learn.
 

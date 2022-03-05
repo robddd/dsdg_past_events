@@ -2,7 +2,7 @@
 ### 16 July 2020
 RSVPs: 30 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/271349422)
 
-After several weeks of diving into research papers, this meetup we are going back to our roots of Machine Learning problems. We are going to look at the "Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines" competition. https://www.drivendata.org/competitions/66/flu-shot-learning/
+After several weeks of diving into research papers, this meetup we are going back to our roots of Machine Learning problems. We are going to look at the "Flu Shot Learning: Predict H1N1 and Seasonal Flu Vaccines" competition. [https://www.drivendata.org/competitions/66/flu-shot-learning/](https://www.drivendata.org/competitions/66/flu-shot-learning/)
 
 This competition looks like it is fairly straight forward with a relatively small amount of features and binary classes. A great chance to try out some of those techniques you have been thinking about putting into action. It is also a multi-label classification problem which adds some interesting opportunities.
 

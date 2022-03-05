@@ -7,9 +7,9 @@ Excerpt from DeepMind's blog post:
 "Proteins are essential to life, supporting practically all its functions. They are large complex molecules, made up of chains of amino acids, and what a protein does largely depends on its unique 3D structure. Figuring out what shapes proteins fold into is known as the �protein folding problem�, and has stood as a grand challenge in biology for the past 50 years. In a major scientific advance, the latest version of our AI system AlphaFold has been recognised as a solution to this grand challenge by the organisers of the biennial Critical Assessment of protein Structure Prediction (CASP). This breakthrough demonstrates the impact AI can have on scientific discovery and its potential to dramatically accelerate progress in some of the most fundamental fields that explain and shape our world."
 
 This week we will be reviewing and discussing the massive scientific breakthrough that was made using Machine Learning. Some links to get started:
-- DeepMind Blog post: https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology
-- Nature Article: https://www.nature.com/articles/d41586-020-03348-4
-- Explanatory Video: https://www.youtube.com/watch?reload=9&v=B9PL__gVxLI
+- DeepMind Blog post: [https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology](https://deepmind.com/blog/article/alphafold-a-solution-to-a-50-year-old-grand-challenge-in-biology)
+- Nature Article: [https://www.nature.com/articles/d41586-020-03348-4](https://www.nature.com/articles/d41586-020-03348-4)
+- Explanatory Video: [https://www.youtube.com/watch?reload=9&v=B9PL__gVxLI](https://www.youtube.com/watch?reload=9&v=B9PL__gVxLI)
 
 As always we encourage you all to read some of the material before coming to the meetup. It is fine if you cant understand parts of the it. The purpose of this meetup is to spend sometime with the materials so you can comment about what you thought and ask questions around where you got stuck.
 

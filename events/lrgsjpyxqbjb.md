@@ -7,11 +7,11 @@ What do you do when you don't have many training examples of the class that you 
 This week we are talking about "Few Shot Learning" which is a family of techniques used to predict in these instances.
 
 For those new to the topic of "few-shot learning" here is:
-- A blog which gives a good short introduction: https://medium.com/quick-code/understanding-few-shot-learning-in-machine-learning-bede251a0f67
-- A 5 minute video by Andrew Ng: https://www.youtube.com/watch?v=96b_weTZb2w
-- A longer video: https://www.youtube.com/watch?v=LMfLRF9VKrc
+- A blog which gives a good short introduction: [https://medium.com/quick-code/understanding-few-shot-learning-in-machine-learning-bede251a0f67](https://medium.com/quick-code/understanding-few-shot-learning-in-machine-learning-bede251a0f67)
+- A 5 minute video by Andrew Ng: [https://www.youtube.com/watch?v=96b_weTZb2w](https://www.youtube.com/watch?v=96b_weTZb2w)
+- A longer video: [https://www.youtube.com/watch?v=LMfLRF9VKrc](https://www.youtube.com/watch?v=LMfLRF9VKrc)
 
-For more advanced people here is a research paper which goes some into statistics and deep learning: https://arxiv.org/pdf/1706.00326.pdf
+For more advanced people here is a research paper which goes some into statistics and deep learning: [https://arxiv.org/pdf/1706.00326.pdf](https://arxiv.org/pdf/1706.00326.pdf)
 
 We encourage you to read the some of the material before the meetup. It is fine if you don't understand it. The purpose of this meetup is to ask questions and to learn.
 

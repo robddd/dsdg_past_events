@@ -4,7 +4,7 @@ RSVPs: 40 | Waiting: 5 | Event Type: physical | [Meetup Event Link](https://www.
 
 This time we are going to take a look at the "New York City Taxi Trip Duration" competition.
 
-https://www.kaggle.com/c/nyc-taxi-trip-duration
+[https://www.kaggle.com/c/nyc-taxi-trip-duration](https://www.kaggle.com/c/nyc-taxi-trip-duration)
 
 Please try to spend some time before the meetup, attempting this competition so that you can share your experience and ask questions that came up.
 

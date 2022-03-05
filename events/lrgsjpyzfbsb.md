@@ -4,7 +4,7 @@ RSVPs: 56 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.
 
 Reinforcement Learning is a topic which has come up as a suggestion quite frequently in the last few months. And this meeting it is what we will discuss.
 
-This week we will be having a reading group style discussion on this article: https://towardsdatascience.com/reinforcement-learning-with-python-8ef0242a2fa2 and this video: https://www.youtube.com/watch?v=JgvyzIkgxF0
+This week we will be having a reading group style discussion on this article: [https://towardsdatascience.com/reinforcement-learning-with-python-8ef0242a2fa2](https://towardsdatascience.com/reinforcement-learning-with-python-8ef0242a2fa2) and this video: [https://www.youtube.com/watch?v=JgvyzIkgxF0](https://www.youtube.com/watch?v=JgvyzIkgxF0)
 
 Please take a look at the material before coming to the meet up. It is fine if you do not understand it all. The purpose of this meetup to ask any questions about where you are unsure and to learn.
 

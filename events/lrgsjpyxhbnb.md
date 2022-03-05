@@ -2,9 +2,9 @@
 ### 10 May 2018
 RSVPs: 60 | Waiting: 1 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/246203265)
 
-This week we are back with another Kaggle competition: Avito Demand Prediction Challenge https://www.kaggle.com/c/avito-demand-prediction This competition has it all, image classification, text classification and more.
+This week we are back with another Kaggle competition: Avito Demand Prediction Challenge [https://www.kaggle.com/c/avito-demand-prediction](https://www.kaggle.com/c/avito-demand-prediction) This competition has it all, image classification, text classification and more.
 
-We will also give people the chance to discuss the Talking Data fraud detection challenge from last week, which will have just finished https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection
+We will also give people the chance to discuss the Talking Data fraud detection challenge from last week, which will have just finished [https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection](https://www.kaggle.com/c/talkingdata-adtracking-fraud-detection)
 
 As always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not get a high score on the leaderboard. The purpose of this meetup is to talk about what you did and to ask questions.
 

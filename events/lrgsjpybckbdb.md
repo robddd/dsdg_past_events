@@ -5,9 +5,9 @@ RSVPs: 41 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.
 We have spent many sessions looking at tabular datasets and the best methods to build models for them. Up until now, boosted trees have been dominating these types of tasks. But, times are changing, Neural methods have been steadily closing the gap to the point where the results are looking very similar.
 
 For this reading group, we will look at one implementation, the TabNet. Below are links to the paper and some implementations:
-- Paper: https://arxiv.org/abs/1908.07442
-- GitHub (Google Research): https://github.com/google-research/google-research/tree/master/tabnet
-- Github - PyTorch Implementation: https://github.com/dreamquark-ai/tabnet
+- Paper: [https://arxiv.org/abs/1908.07442](https://arxiv.org/abs/1908.07442)
+- GitHub (Google Research): [https://github.com/google-research/google-research/tree/master/tabnet](https://github.com/google-research/google-research/tree/master/tabnet)
+- Github - PyTorch Implementation: [https://github.com/dreamquark-ai/tabnet](https://github.com/dreamquark-ai/tabnet)
 
 Please try to read the material before coming to the meet up. It is fine if you do not understand it all, the purpose of the meetup is to learn and to ask questions.
 

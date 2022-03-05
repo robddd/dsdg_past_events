@@ -5,9 +5,9 @@ RSVPs: 29 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.
 This week we will be recapping the recently finished Abstraction and Reasoning competition. The session will commence with a presentation from Julie who finished inside the top 50, earning a silver medal. Julie will speak about her solution to the problem and also about what the winners of the competition did.
 
 Then we will have our regular discussion format, where we will talk about the competition and the winning solutions. Some links to look at before the session:
-- Competition overview: https://www.kaggle.com/c/abstraction-and-reasoning-challenge/overview
-- Top 10 solutions: https://www.kaggle.com/c/abstraction-and-reasoning-challenge/discussion/154349
-- 3rd place end to end solution (code heavy) https://www.kaggle.com/ilialar/3rd-place-end-to-end-solution
+- Competition overview: [https://www.kaggle.com/c/abstraction-and-reasoning-challenge/overview](https://www.kaggle.com/c/abstraction-and-reasoning-challenge/overview)
+- Top 10 solutions: [https://www.kaggle.com/c/abstraction-and-reasoning-challenge/discussion/154349](https://www.kaggle.com/c/abstraction-and-reasoning-challenge/discussion/154349)
+- 3rd place end to end solution (code heavy) [https://www.kaggle.com/ilialar/3rd-place-end-to-end-solution](https://www.kaggle.com/ilialar/3rd-place-end-to-end-solution)
 
 As always we encourage you to read the material before coming to the meet up. It is fine if you do not understand it all. The purpose of this meetup to learn and to ask questions.
 

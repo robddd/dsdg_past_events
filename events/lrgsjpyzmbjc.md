@@ -4,7 +4,7 @@ RSVPs: 33 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.
 
 The only real way to learn Data Science is by getting your hands dirty. And thats what we will be doing for the next meetup. This competition is proving to be interesting for people new to Machine Learning, and experienced practitioners alike.
 
-If you want to be on the cutting edge of feature engineering and creative ways to build models you won't want to miss this. We will be looking at the 'Richter's Predictor: Modelling Earthquake Damage' competition: https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/
+If you want to be on the cutting edge of feature engineering and creative ways to build models you won't want to miss this. We will be looking at the 'Richter's Predictor: Modelling Earthquake Damage' competition: [https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/](https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/)
 
 As always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not manage to make a submission or get a high score on the leaderboard. The purpose of this meetup is to work on the competition beforehand and then come to the group to share what you did and to ask questions about things you were unsure about.
 

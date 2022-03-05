@@ -4,8 +4,8 @@ RSVPs: 21 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.
 
 Anyone interested in Reinforcement Learning or those that caught the McKinsey presentation may like to explore the Soft Actor-Critic (SAC) algorithm further. This Meetup we will do just that. Below are some suggested reading for the topic.
 
-Research Paper: https://arxiv.org/pdf/1801.01290.pdf
-Blog Post: https://towardsdatascience.com/soft-actor-critic-demystified-b8427df61665
+Research Paper: [https://arxiv.org/pdf/1801.01290.pdf](https://arxiv.org/pdf/1801.01290.pdf)
+Blog Post: [https://towardsdatascience.com/soft-actor-critic-demystified-b8427df61665](https://towardsdatascience.com/soft-actor-critic-demystified-b8427df61665)
 
 As always we encourage you to read some of the material before coming to the meetup. It is fine if you cant understand parts of the it. The purpose of this meetup is to spend some time with the material beforehand so that you can comment about what you thought and ask questions around where you got stuck. We are all here to learn.
 

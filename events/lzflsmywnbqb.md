@@ -6,9 +6,9 @@ This week we continue our exploration of Gradient Boosting; we will be discussin
 
 Here are some links to get started:
 
-https://github.com/Microsoft/LightGBM
+[https://github.com/Microsoft/LightGBM](https://github.com/Microsoft/LightGBM)
 
-https://lightgbm.readthedocs.io/en/latest/
+[https://lightgbm.readthedocs.io/en/latest/](https://lightgbm.readthedocs.io/en/latest/)
 
 We encourage you to install the package and have a go at using it so that you can share your experience.
 
@@ -16,7 +16,7 @@ If you find any other documentation or materials related to LightGBM that you fi
 
 Also, following on from some of the discussion at the last meetup, Dana will be sharing her method for reading papers that are heavy on mathematical equations.
 
-There is a new competition on Kaggle https://www.kaggle.com/c/porto-seguro-safe-driver-prediction - we encourage you to take a look before coming and we'll discuss the idea of competing as a team.
+There is a new competition on Kaggle [https://www.kaggle.com/c/porto-seguro-safe-driver-prediction](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction) - we encourage you to take a look before coming and we'll discuss the idea of competing as a team.
 
 Meeting Schedule:
 

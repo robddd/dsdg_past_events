@@ -2,7 +2,7 @@
 ### 31 January 2019
 RSVPs: 45 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/256963381)
 
-Last week we had some really interesting and in depth discussion on this competition, so we decided that we will keep working on the Elo Merchant Category Recommendation Kaggle competition: https://www.kaggle.com/c/elo-merchant-category-recommendation
+Last week we had some really interesting and in depth discussion on this competition, so we decided that we will keep working on the Elo Merchant Category Recommendation Kaggle competition: [https://www.kaggle.com/c/elo-merchant-category-recommendation](https://www.kaggle.com/c/elo-merchant-category-recommendation)
 This competition presents some great opportunities to try to deeply understand the problem and add your own creativity.
 
 As always we encourage you all to attempt the competition before coming to the meet up. It is fine if you attempt the competition but do not manage to make a submission or get a high score on the leaderboard. The purpose of this meetup is to talk about what you did and to ask questions.

@@ -2,7 +2,7 @@
 ### 1 July 2021
 RSVPs: 29 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/277720921)
 
-This week, we continue our exploration of Reinforcement Learning with an examination of a new paper from some heavy hitters in the field. We will look at the paper �Reward is Enough� by Silver, Singh, Precup and Sutton. https://www.sciencedirect.com/science/article/pii/S0004370221000862
+This week, we continue our exploration of Reinforcement Learning with an examination of a new paper from some heavy hitters in the field. We will look at the paper �Reward is Enough� by Silver, Singh, Precup and Sutton. [https://www.sciencedirect.com/science/article/pii/S0004370221000862](https://www.sciencedirect.com/science/article/pii/S0004370221000862)
 
 Reinforcement Learning (RL) is rapidly growing in popularity as an alternative to supervised and unsupervised learning. This paper offers a hypothesis for how far RL may be able to drive the quest for Artificial General Intelligence.
 

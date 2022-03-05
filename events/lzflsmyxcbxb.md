@@ -4,7 +4,7 @@ RSVPs: 50 | Waiting: 8 | Event Type: physical | [Meetup Event Link](https://www.
 
 Got some spare time over the Christmas break? Why not get stuck into a Kaggle Competition and refine your data science skills.
 
-This meetup we will be looking at NLP and discussing the Kaggle Competition "Toxic Comment Classification Challenge" https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge
+This meetup we will be looking at NLP and discussing the Kaggle Competition "Toxic Comment Classification Challenge" [https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge](https://www.kaggle.com/c/jigsaw-toxic-comment-classification-challenge)
 
 As always we encourage you all to attempt the the competition before coming to the meet up. Preferably, by making at least one submission so that we can compare our different approaches.
 

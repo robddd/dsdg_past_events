@@ -7,8 +7,8 @@ Causal Inference:
 Last meetup we looked at the most important ideas of the last 50 years. Of which, causation was the one most often bought up during the discussion. This week we will be diving deeper into this topic.
 
 Our reading and viewing list is this:
-- introductory blog post - https://medium.com/analytics-vidhya/causal-inference-an-introduction-f424df7c76ef
-- Causal Inference lecture (From MIT's ML for Healthcare series) - https://www.youtube.com/watch?v=gRkUhg9Wb-I
+- introductory blog post - [https://medium.com/analytics-vidhya/causal-inference-an-introduction-f424df7c76ef](https://medium.com/analytics-vidhya/causal-inference-an-introduction-f424df7c76ef)
+- Causal Inference lecture (From MIT's ML for Healthcare series) - [https://www.youtube.com/watch?v=gRkUhg9Wb-I](https://www.youtube.com/watch?v=gRkUhg9Wb-I)
 
 From this material:
 - What did you learn?

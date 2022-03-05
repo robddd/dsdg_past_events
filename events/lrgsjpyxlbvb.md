@@ -2,7 +2,7 @@
 ### 30 August 2018
 RSVPs: 32 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/253507135)
 
-With home 'Home Credit Default Risk' competition: https://www.kaggle.com/c/home-credit-default-risk/data closing on this day, we will come back for a final wrap up.
+With home 'Home Credit Default Risk' competition: [https://www.kaggle.com/c/home-credit-default-risk/data](https://www.kaggle.com/c/home-credit-default-risk/data) closing on this day, we will come back for a final wrap up.
 
 Alternatively, we are giving you the chance to come and ask any Data Science question that you may have. This is your chance to ask that question you've been wondering about for weeks. And hopefully there will be someone there who can answer it.
 

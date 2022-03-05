@@ -4,14 +4,14 @@ RSVPs: 44 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.
 
 This week we are back at GridAKL and will be discussing a relatively new technique of creating embeddings for categorical variables. This technique allows you to take advantage of the power of deep learning with categorical data and has been used to win recent Kaggle competitions.
 
-Before the meetup you may want to look at this paper: https://arxiv.org/pdf/1604.06737.pdf
+Before the meetup you may want to look at this paper: [https://arxiv.org/pdf/1604.06737.pdf](https://arxiv.org/pdf/1604.06737.pdf)
 
 or if you prefer an easier read these articles:
-- https://towardsdatascience.com/deep-learning-structured-data-8d6a278f3088
-- http://www.fast.ai/2018/04/29/categorical-embeddings/
-- https://towardsdatascience.com/using-word2vec-for-better-embeddings-of-categorical-features-de75020e1233
+- [https://towardsdatascience.com/deep-learning-structured-data-8d6a278f3088](https://towardsdatascience.com/deep-learning-structured-data-8d6a278f3088)
+- [http://www.fast.ai/2018/04/29/categorical-embeddings/](http://www.fast.ai/2018/04/29/categorical-embeddings/)
+- [https://towardsdatascience.com/using-word2vec-for-better-embeddings-of-categorical-features-de75020e1233](https://towardsdatascience.com/using-word2vec-for-better-embeddings-of-categorical-features-de75020e1233)
 
-And if you would like to apply these methods you could use this Kaggle competition: Avito Demand Prediction Challenge https://www.kaggle.com/c/avito-demand-prediction
+And if you would like to apply these methods you could use this Kaggle competition: Avito Demand Prediction Challenge [https://www.kaggle.com/c/avito-demand-prediction](https://www.kaggle.com/c/avito-demand-prediction)
 
 As always we encourage you to look at the material before the meetup. It is fine if you do not understand all of it. The purpose of this meetup is to talk about the material and to ask questions.
 

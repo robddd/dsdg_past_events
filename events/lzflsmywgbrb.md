@@ -4,7 +4,7 @@ RSVPs: 40 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.
 
 Kaggle - House Price Regression competition
 
-https://www.kaggle.com/c/house-prices-advanced-regression-techniques
+[https://www.kaggle.com/c/house-prices-advanced-regression-techniques](https://www.kaggle.com/c/house-prices-advanced-regression-techniques)
 
 Please come and discuss with us the kaggle house price regression competition (link above). We ask that you have a look at the competition and attempt to get as far as you can with it. If you only have a little experience, this may be be as simple as trying to install python or importing the data set. But if you have the time and experience please try and make a submission.
 

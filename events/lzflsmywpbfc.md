@@ -4,7 +4,7 @@ RSVPs: 45 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.
 
 This week we will be discussing the Porto Seguro Kaggle Competition at a high level and will discuss team formation.
 
-https://www.kaggle.com/c/porto-seguro-safe-driver-prediction
+[https://www.kaggle.com/c/porto-seguro-safe-driver-prediction](https://www.kaggle.com/c/porto-seguro-safe-driver-prediction)
 
 Please look at the competition and attempt it before coming to the meetup. The real value from this group comes from when people give the competition some effort and can come to the meetup with their ideas and questions that came up for them.
 
@@ -30,8 +30,8 @@ Thank you to GridAKL for providing the venue!
 
 * Here are the instructions to install R:
 
-Download R from https://mran.microsoft.com/download/ and install it
-Download the free RStudio Desktop https://www.rstudio.com/products/rstudio/download/ and install it
+Download R from [https://mran.microsoft.com/download/](https://mran.microsoft.com/download/) and install it
+Download the free RStudio Desktop [https://www.rstudio.com/products/rstudio/download/](https://www.rstudio.com/products/rstudio/download/) and install it
 Run Rstudio
 Inside RStudio open the R kernel that you downloaded from Kaggle and make sure the kernel is accessing the right location for the train.csv and test.csv you downloaded from Kaggle
 Run the kernel and send the submission file that it created to Kaggle
@@ -57,7 +57,7 @@ headers id,target and name the file yourname.yourmodel.yourscore.test.csv
 
 7) Submit that csv file to Kaggle and record the score
 
-8) Bring both csv files and the score along to the next meeting and also put them in the Dropbox repository https://www.dropbox.com/request/Y97jOmZpK4sJMuIjVJEZ and be prepared to
+8) Bring both csv files and the score along to the next meeting and also put them in the Dropbox repository [https://www.dropbox.com/request/Y97jOmZpK4sJMuIjVJEZ](https://www.dropbox.com/request/Y97jOmZpK4sJMuIjVJEZ) and be prepared to
 say a few sentences about what you did
 
 All models are useful even if they score low. "Weak learners" can be built into strong learners. So don't worry about your score.

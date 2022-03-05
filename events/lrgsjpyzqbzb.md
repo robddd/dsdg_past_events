@@ -2,7 +2,7 @@
 ### 19 December 2019
 RSVPs: 36 | Waiting: 0 | Event Type: physical | [Meetup Event Link](https://www.meetup.com/Data-Science-Discussion-Auckland/events/266366668)
 
-It's our final meetup of the year and our final chance to meet before the deadline of the Earthquake competition: https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/ . This competition has proved to be an interesting one for all who have attempted it.
+It's our final meetup of the year and our final chance to meet before the deadline of the Earthquake competition: [https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/](https://www.drivendata.org/competitions/57/nepal-earthquake/page/136/) . This competition has proved to be an interesting one for all who have attempted it.
 
 With the top of the leaderboard being dominated of our members, this is the place to be if you want to join in on discussion of the bleeding edge of feature engineering and creative ways to build models.
 

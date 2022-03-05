@@ -6,7 +6,7 @@ For the first meetup of the year we would like to discuss the current state of t
 
 We have sent out a survey to get members feedback on the group. We will present the results of this feedback and then share ideas and discuss what topics and competitions we can focus on in future meetups.
 
-If you haven't already, could you please respond to the short survey here: https://docs.google.com/forms/d/e/1FAIpQLSfVlWQiDmbQTOCH49NlpUy_Bl06GhdCoFT29kjlJGeAqWccXQ/viewform
+If you haven't already, could you please respond to the short survey here: [https://docs.google.com/forms/d/e/1FAIpQLSfVlWQiDmbQTOCH49NlpUy_Bl06GhdCoFT29kjlJGeAqWccXQ/viewform](https://docs.google.com/forms/d/e/1FAIpQLSfVlWQiDmbQTOCH49NlpUy_Bl06GhdCoFT29kjlJGeAqWccXQ/viewform)
 
 Meeting Schedule:
 

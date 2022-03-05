@@ -7,8 +7,8 @@ As data scientists, we've all had a difficult time not getting stuck into the nu
 We will be meeting up over Zoom, so if you haven't already, please install it beforehand. The link will be shared no later than the morning of the event.
 
 Some useful links:
-- Daily statistics by country - https://github.com/CSSEGISandData/COVID-19
-- Kaggle COVID-19 - https://www.kaggle.com/covid19
+- Daily statistics by country - [https://github.com/CSSEGISandData/COVID-19](https://github.com/CSSEGISandData/COVID-19)
+- Kaggle COVID-19 - [https://www.kaggle.com/covid19](https://www.kaggle.com/covid19)
 
 Some Ideas:
 - Time series predictions

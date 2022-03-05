@@ -9,7 +9,7 @@ How important is the data?
 
 This is the question we will explore in this week's Data Science Discussion Group.
 
-We suggest before the session that you watch this video by Andrew Ng "A Chat with Andrew on MLOps: From Model-centric to Data-centric AI" https://www.youtube.com/watch?v=06-AZXmwHjo
+We suggest before the session that you watch this video by Andrew Ng "A Chat with Andrew on MLOps: From Model-centric to Data-centric AI" [https://www.youtube.com/watch?v=06-AZXmwHjo](https://www.youtube.com/watch?v=06-AZXmwHjo)
 
 We encourage you to watch the video beforehand so that we can discuss it in the session. It is fine if you don�t understand all of it. The purpose of this meetup is to ask questions and to learn.
 
